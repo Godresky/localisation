@@ -1,0 +1,40 @@
+﻿l_russian:
+
+### Country Names ###
+ QUE:0 "Квебек"
+ QUE_ADJ:0 "Квебекськ"
+ QUE_DEF:0 "Квебек"
+
+### Parties ###
+ QUE_social_democrat_party:0 "ПСДК"
+ QUE_social_democrat_party_long:0 "Партія соціал-демократів Квебеку"
+ QUE_social_conservative_party:0 "ПКК"
+ QUE_social_conservative_party_long:0 "Партія консерваторів Квебеку"
+ QUE_authoritarian_democrat_party:0 "НЛР"
+ QUE_authoritarian_democrat_party_long:0 "Націонало-ліберальний рух"
+ QUE_paternal_autocrat_party:0 "СН"
+ QUE_paternal_autocrat_party_long:0 "Союз Націоналів"
+ QUE_national_populist_party:0 "СВ"
+ QUE_national_populist_party_long:0 "Союз виборців"
+ QUE_social_liberal_party:0 "ПБК"
+ QUE_social_liberal_party_long:0 "'Популярний' блок Канади"
+ QUE_market_liberal_party:0 "ЛПК"
+ QUE_market_liberal_party_long:0 "Ліберальна партія Квебеку"
+ QUE_radical_socialist_party:0 "КППК"
+ QUE_radical_socialist_party_long:0 "Конгрес професії та праці Квебеку"
+ QUE_syndicalist_party:0 "ВП"
+ QUE_syndicalist_party_long:0 "Відкрита партія"
+ QUE_totalist_party:0 "ПВП"
+ QUE_totalist_party_long:0 "Партія відкрито-прогресивна"
+
+### Characters ###
+ QUE_fred_rose: "Fred Rose"
+ QUE_lea_roback: "Léa Roback"
+ QUE_roger_provost: "Roger Provost"
+ QUE_therese_casgrain: "Thérèse Casgrain"
+ QUE_andre_laurendeau: "André Laurendeau"
+ QUE_adelard_godbout: "Adélard Godbout"
+ QUE_camillien_houde: "Camillien Houde"
+ QUE_paul_gouin: "Paul Gouin"
+ QUE_maurice_duplessis: "Maurice Duplessis"
+ QUE_real_caouette: "Réal Caouette"

@@ -1,0 +1,1155 @@
+﻿l_russian:
+
+###################
+### Please note ###
+###################
+# The splash screen credits are a list of all current contributors to the mod. It isn't full list of everyone who helps out, or everyone who has ever helped
+# A more complete list can be found in \interface\credits.txt
+# When updating this list, please make sure to also update that credit list as well, as well as updating the other credit lists we keep (change notes, steam workshop descriptions etc.)
+# Some of those can only be updated by a Kaiserdev, so if you aren't one, please tell one when updating this list
+
+### Splash Screen Credits ###
+ KR_SPLASH_TITLE:0 "Ласкаво просимо до Кайзеррайху"
+ KR_SPLASH_CREDITS:0 "§YСтворено для вас, командою KR4:§!\nAdrianator2, Alpinia, Arvidus, Asratius, Augenis, Blackfalcon501, Carmain, Chazem, Conor, DSFDarker, El Daddy, Flamefang, Gaboemi, Gideones, Hamfast, hildagrim, Ido, Igor050301, JazzyHugh, Jeankedezeehond, Jonny BL, KFateweaver, Kennedy, kergely, Krčo, Luwofe, Matoro, McOmghall, ~mw~ // miwaco, NukeGaming, OMD, Owenomaly, PPsyrius, Pelmen, RagnoStrangeros, Rei VL, Retrocognition, Rnk, Shiroe, Starguard, Story, suzuha, The Alpha Dog, The Irredentista, The Italian Jojo, Vidyaország, Zaddy-Chan and Zimbabwe Salt Co."
+
+### Diplomacy Tooltips ###
+ REQUEST_EXP_FORCE_BLOCKED_TT:0 "§RЦя країна не дозволяє вам запитувати їхні сили.§!"
+ RECALL_VOLUNTEERS_TITLE:0 "Відкликати добровольців"
+ RECALL_VOLUNTEERS_ACTION_DESC:0 "Відкликати всіх добровольців, відправлених до цієї країни."
+ RECALL_VOLUNTEERS_ACTION_SEND_DESC:0 "Відкликати всіх добровольців, відправлених до §Y[FROM.GetNameDef]§!?"
+ 
+### Regular Tooltips ###
+ empty:0 ""
+ if_FROM_agrees:0 "Якщо §H[From.GetFlag] [From.GetNameDef]§! погоджується:"
+ needs_approval:0 "Якщо §H[This.GetNameDef]§! погоджується:"
+ upon_selecting_focus:0 "Після вибору фокусу:"
+ tooltip_white_line:0 "\n"
+ integration_tooltip:0 "Переглянути неінтегровані області"
+ integrate_state:0 "Інтегрувати [From.GetName]"
+ cannot_enact_conscription_tt:0 "§RНе можна посилити закони про заклик.§!"
+ cannot_train_units_tt:0 "§RНеможливо навчити підрозділи, розпустити підрозділи або відредагувати шаблони підрозділів.§!"
+ cannot_mobilise_tt:0 "§RНе можна посилити закони про заклик або мобілізацію.§!"
+ cannot_build_armor_tt:0 "§RНе може створювати броню.§!"
+ upon_starting_focus:0 "§HПісля вибору цього фокусу§!:"
+ returned_all_expeditionary_forces_of_puppets:0 "Повернув усі експедиційні сили, надіслані маріонетками"
+ puppet_but_keep_government_tt:0 "([to_be_overlord.GetFlag]§H[to_be_overlord.GetName]§!) §H[marked_country.GetName]§! стає маріонеткою §H[to_be_overlord.GetName]§! "
+ elections_in_three_months:0 "§HВибори пройдуть через три місяці§!\n"
+ characters_will_be_retired:0 "§RНаступні персонажі будуть відправлені на пенсію:§!"
+ characters_will_be_recruited:0 "§GБудуть такі персонажі:§!"
+ tooltip_immediate_effect_upon_focus_start:0 "§YНегайний ефект після початку фокусування:§!\n"
+ tooltip_effect_upon_focus_completion:0 "\n§GЕфект після завершення фокусу:§!\n"
+ cannot_justify_on_capitulated_country:0 "§RВійськові цілі не можуть бути виправдані країнами, що капітулювали.§!"
+
+ same_wars_as_ROOT:0 "Не перебуває в стані війни ні з ким, хто також не перебуває в стані війни з [Root.GetNameDef]"
+ same_wars_as_FROM:0 "Не перебуває у стані війни ні з ким, хто також не перебуває у стані війни з [From.GetNameDef]"
+ same_wars_as_TARGET:0 "Не перебуває в стані війни ні з ким, хто також не перебуває в стані війни з [?target.GetNameDef]"
+ same_wars_as_RUS:0 "Не перебуває в стані війни ні з ким, хто також не перебуває в стані війни з [RUS.GetNameDef]"
+ same_wars_as_GER:0 "Не перебуває у стані війни ні з ким, хто також не перебуває у стані війни з [GER.GetNameDef]"
+ same_wars_as_JAP:0 "Не перебуває в стані війни ні з ким, хто також не перебуває в стані війни з [JAP.GetNameDef]"
+ same_wars_as_AUS:0 "Не перебуває в стані війни ні з ким, хто також не перебуває в стані війни з [AUS.GetNameDef]"
+ same_wars_as_ENT:0 "Не перебуває у стані війни ні з ким, хто також не перебуває у стані війни з Антантою"
+
+ totalist_plurality:0 "§o[?token:totalist.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ syndicalist_plurality:0 "§r[?token:syndicalist.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ radical_socialist_plurality:0 "§R[?token:radical_socialist.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ social_democrat_plurality:0 "§S[?token:social_democrat.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ social_liberal_plurality:0 "§l[?token:social_liberal.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ market_liberal_plurality:0 "§m[?token:market_liberal.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ social_conservative_plurality:0 "§c[?token:social_conservative.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ authoritarian_democrat_plurality:0 "§L[?token:authoritarian_democrat.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ paternal_autocrat_plurality:0 "§P[?token:paternal_autocrat.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ national_populist_plurality:0 "§N[?token:national_populist.GetTokenLocalizedKey]§! мають найбільшу популярність"
+ 
+### Diplomacy Triggers ###
+ cannot_call_allies_or_join_wars:0 "Не може закликати союзників або вступати у війни"
+ cannot_call_allies_or_join_wars_warning:0 "§Y[ROOT.GetNameWithFlag]§! §Rне може закликати союзників або вступати у війни.§!"
+ cannot_call_allies_or_join_wars_warning_FROM:0 "§Y[FROM.GetNameWithFlag]§! §Rне може закликати союзників або вступати у війни.§!"
+
+ cannot_receive_volunteers:0 "Не може приймати добровольців"
+ cannot_receive_volunteers_warning:0 "§Y[FROM.GetNameWithFlag]§! §Rне може закликати союзників або вступати у війни.§!"
+
+### Regional Triggers ###
+ is_in_asia:0 "§HАзіатська§! країна"
+ is_in_india:0 "§HІндійська§! країна"
+ is_in_europe:0 "§HЄвропейська§! країна"
+ is_in_africa:0 "§HАфриканська§! країна"
+ is_in_north_america:0 "§HПівнічноамериканська§! країна"
+ is_in_central_america:0 "§HЦентральноамериканська§! країна"
+ is_in_south_america:0 "§HПівденноамериканська§! країна"
+ is_in_americas:0 "§HАмериканська§! країна"
+ is_in_middle_east:0 "Країна §HБлизького Сходу§!"
+ is_in_oceania:0 "Країна §HОкеанії§!"
+
+### Actual Major Power tooltip ###
+ is_actual_major_tooltip_base:0 "Велика світова держава:"
+ is_actual_major_tooltip_major:0 "\n [THIS.MajorWorldPower_MajorCheck] $TRIGGER_IS_MAJOR$"
+ is_actual_major_tooltip_OR:0 "\n$TRIGGER_OR_STARTS$"
+ is_actual_major_tooltip_seven_largest:0 "\n [THIS.MajorWorldPower_AmongSevenLargestIndustries] Має одну із семи найбільших економік світу"
+ is_actual_major_tooltip_average:0 "\n [THIS.MajorWorldPower_MoreThanSeventyPercentAverage] Має більш ніж §H70% ! від середнього промислового потенціалу семи найбільших економік"
+ is_actual_major_tooltip_countries:0 "\n [THIS.MajorWorldPower_SpecialCase] ​​Є §HНімецької§!, §HФранцузькій§!, §HБританській§!, §HАмериканській§!, §HРосійській§! або §HЯпонській§! країною"
+ is_actual_major_tooltip_ENT:0 "\n [THIS.MajorWorldPower_IsENT] Є лідером §HАнтанти§!"
+ 
+ is_actual_major:0 "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$$is_actual_major_tooltip_countries$$is_actual_major_tooltip_ENT$"
+ is_actual_major_without_exceptions:0 "$is_actual_major_tooltip_base$$is_actual_major_tooltip_major$$is_actual_major_tooltip_OR$$is_actual_major_tooltip_seven_largest$$is_actual_major_tooltip_average$"
+ 
+### Renaming System ###
+ toggle_renaming_button_tooltip:0 "[toggle_renaming_button_tooltip_loc]"
+ toggle_renaming_button_tooltip_desc:0 "[toggle_renaming_button_tooltip_desc_loc]"
+ toggle_renaming_button_tooltip_mp:0 "§RОтключено в мультиплеере§!"
+ toggle_renaming_button_tooltip_enable:0 "§HВ настоящее время в режиме Русских имен§!"
+ toggle_renaming_button_tooltip_enable_desc:0 "В настоящее время в игре используются русские названия регионов и очков победы (Экзонимы), при этом динамическое переименование отключено.\n\nНажмите здесь, чтобы перейти на использование собственных имен для регионов и очков победы (эндонимов) с включенным динамическим переименованием."
+ toggle_renaming_button_tooltip_disable:0 "§HВ настоящее время в режиме Родных имен§!"
+ toggle_renaming_button_tooltip_disable_desc:0 "В настоящее время в игре используются собственные названия регионов и очков победы (Эндонимы), при этом динамическое переименование отключено.\n\nНажмите здесь, чтобы перейти на использование русских имен для регионов и победных очков (экзонимов) с отключенным динамическим переименованием."
+ 
+### Continents ###
+ is_actually_an_island:0 "це острівна держава"
+
+### Intelligence Agency Blocker ###
+ INTELLIGENCE_AGENCY_BLOCK_TOOLTIP:0 "[!intelligence_agency_blocker_button_click_enabled]"
+ 
+### Autonomy Levels ###
+ kr_integrated_puppet:0 "Інтегрована маріонетка"
+ kr_occupied_puppet:0 "Окупована маріонетка"
+ kr_default_puppet:0 "Маріонетка"
+ kr_autonomous_puppet:0 "Автономна маріонетка"
+ kr_colonial_government:0 "Колоніальний уряд"
+ kr_nominal_puppet:0 "Номінальна маріонетка"
+ kr_special_autonomous_dependency:0 "Залежна територія"
+ kr_initial_wif_puppet:0 "Федеративна колонія"
+ kr_soclib_wif_puppet:0 "Федеративний Домініон"
+ kr_ottoman_emirate:0 "Османський Емірат"
+ kr_ottoman_international_zone:0 "Міжнародний мандат"
+ kr_federated_state:0 "Конфедеративна держава"
+ kr_crownland:0 "Коронна земля"
+ kr_oststaat:0 "Остштаат"
+ kr_oststaat_autonomous:0 "Автономний Остштаат"
+
+### Autonomy Tooltips ###
+ can_lower_autonomy_level:0 "Можете знизити автономію\n"
+ can_raise_autonomy_level:0 "Можете підвищити автономію\n"
+ puppet_can_become_free:0 "Можете стати незалежними\n"
+ puppet_can_be_annexed:0 "Можете бути інтегровані\n"
+ may_raise_autonomy:0 "Держава §Y[Root.GetNameDef]§! може підвищити свою автономію\n"
+ may_become_free:0 "§Y[Root.GetNameDef]§! може здобути незалежність\n"
+ clamour_for_independence:0 "Вимога незалежності\n"
+ clamour_for_autonomy:0 "Вимога автономії\n"
+ 
+### Modifiers ###
+ chief_of_staff_cost_factor:0 "Вартість Командувач штабу"
+ chief_of_army_cost_factor:0 "Вартість Командувач армії"
+ 
+### Opinion Modifiers ###
+ KR_friendly:0 "Доброзичливий"
+ KR_close_allies:0 "Близькі союзники"
+ KR_deal_with_devil:0 "Угода з Дияволом"
+ KR_returned_land:0 "Повернули нашу землю"
+ KR_liberated_us:0 "Звільнив нас"
+ KR_approves_of_govt:0 "Схвалено урядом"
+ KR_pleased:0 "Задоволений нами"
+ KR_displeased:0 "Незадоволений нашими діями"
+ KR_disapproves_of_govt:0 "Не схвалює уряд"
+ KR_hates_govt:0 "Зол на уряд"
+ KR_outraged:0 "Обурений"
+ KR_hostile:0 "Ворожий"
+ KR_trade_agreement:0 "Торгова угода"
+ KR_trade_sanctions:0 "Торгові санкції"
+ 
+### Focus Filters ###
+ FOCUS_FILTER_PRODUCTION:0 "Виробництво"
+ FOCUS_FILTER_ARMY_BONUS:0 "Армія"
+ FOCUS_FILTER_NAVY_BONUS:0 "Флот"
+ FOCUS_FILTER_AIRFORCE_BONUS:0 "ВПС"
+ FOCUS_FILTER_RESISTANCE:0 "Опір"
+ FOCUS_FILTER_LEC_CURRENCY:0 "Валютні резерви"
+ 
+### Autonomy Events ###
+ FROM_becomes_puppet:0 "§H[From.GetNameDefCap]§! більше не є §HАнексованою маріонеткою§!."
+ FROM_becomes_autonomous_puppet:0 "§H[From.GetNameDefCap]§! стає §HАвтономною маріонеткою§!."
+ FROM_becomes_nominal_puppet:0 "§H[From.GetNameDefCap]§! стає §HНомінальною маріонеткою§!."
+ 
+### Compliance ###
+ compliance_integration:0 "Інтеграція"
+ 
+### Operatives ###
+ operation_infiltrate_armed_forces_army_outcome:0 "$operation_infiltrate_armed_forces_army$ ефективність"
+ operation_infiltrate_armed_forces_army_risk:0 "$operation_infiltrate_armed_forces_army$ ризик"
+ operation_infiltrate_armed_forces_army_cost:0 "$operation_infiltrate_armed_forces_army$ cost"
+
+ operation_infiltrate_armed_forces_navy_outcome:0 "$operation_infiltrate_armed_forces_navy$ ефективність"
+ operation_infiltrate_armed_forces_navy_risk:0 "$operation_infiltrate_armed_forces_navy$ ризик"
+ operation_infiltrate_armed_forces_navy_cost:0 "$operation_infiltrate_armed_forces_navy$ вартість"
+
+ operation_infiltrate_armed_forces_airforce_outcome:0 "$operation_infiltrate_armed_forces_airforce$ ефективність"
+ operation_infiltrate_armed_forces_airforce_risk:0 "$operation_infiltrate_armed_forces_airforce$ ризик"
+ operation_infiltrate_armed_forces_airforce_cost:0 "$operation_infiltrate_armed_forces_airforce$ вартість"
+
+ operation_infiltrate_civilian_outcome:0 "$operation_infiltrate_civilian$ ефективність"
+ operation_infiltrate_civilian_risk:0 "$operation_infiltrate_civilian$ ризик"
+ operation_infiltrate_civilian_cost:0 "$operation_infiltrate_civilian$ вартість"
+
+### Ship Name Lists ###
+ NAME_THEME_ISLANDS:0 "Острови"
+ NAME_THEME_ROYAL_BARGE:0 "Королівські баржі"
+ NAME_THEME_ROYAL_HOUSES:0 "Королівські роди та аристократія"
+ NAME_THEME_MOUNTAINS:0 "Гора"
+ NAME_THEME_INSPIRATIONAL:0 "Надихаюче"
+ NAME_THEME_STATES_CITIES:0 "Держави та міста"
+
+### Colours (for use in scripted loc) ###
+ colour_cyan:0 "C"
+ colour_dirty_grey:0 "L"
+ colour_white:0 "W"
+ colour_blue:0 "B"
+ colour_green:0 "G"
+ colour_red:0 "R"
+ colour_black:0 "b"
+ colour_grey:0 "g"
+ colour_yellow:0 "Y"
+ colour_orange:0 "O"
+
+ colour_gradient_purple:0 "0"
+ colour_gradient_lilac:0 "1"
+ colour_gradient_blue:0 "2"
+ colour_gradient_navy_blue:0 "3"
+ colour_gradient_light_blue:0 "4"
+ colour_gradient_cyan:0 "5"
+ colour_gradient_turquoise:0 "6"
+ colour_gradient_light_green:0 "7"
+ colour_gradient_yellow:0 "8"
+ colour_gradient_orange:0 "9"
+ colour_gradient_red:0 "5"
+
+ colour_totalist_red:0 "o"
+ colour_syndicalist_red:0 "r"
+ colour_socdem_pink:0 "S"
+ colour_soclib_orange:0 "l"
+ colour_marlib_yellow:0 "m"
+ colour_soccon_blue:0 "c"
+ colour_pataut_grey:0 "P"
+ colour_natpop_brown:0 "N"
+ colour_natpop_green:0 "n"
+
+### Events ###
+ kr.political.100.t:0 "Восстановлен порядок в [Root.GetNameDef]."
+ kr.political.100.d:0 "В то время как [Root.GetNameDef] все еще работает под [overlord_name.GetAdjective]им контролем, [Root.GetAdjective]ие военные установили достаточный контроль над нашими собственными границами, чтобы теперь можно было осуществлять подобие большей автономии. Это не независимость - далеко от нее - но это означает, что нам больше не придется полагаться на [overlord_name.GetAdjective]ие войска для защиты наших границ."
+ kr.political.100.a:0 "Отлично."
+ 
+ kr.political.101.t:0 "Порядок восстановлен в [From.GetNameDef]"
+ kr.political.101.d:0 "В то время как [From.GetNameDef] все еще находится под [Root.GetAdjective]им контролем, [From.GetAdjective]ие военные установили достаточный контроль над своими собственными границами, что теперь стало возможной видимостью автономии. Это не независимость - далеко от нее - но это означает, что им больше не придется полагаться на [Root.GetAdjective]ие войска для защиты своих границ, и следовательно, они не находятся под таким жестким нашим контролем."
+ kr.political.101.a:0 "Да будет так."
+ 
+ kr.political.102.t:0 "Большая [Root.GetAdjective]ая автономия?"
+ kr.political.102.d.tfv:0 "[Root.GetNameDefCap] остается под контролем [overlord_name.GetAdjective]ого правительства, но этот контроль начинает наверняка ослабевать по мере того, как наша сила восстанавливается. [Root.GetAdjective]ую власть нелегко сдержать, и уже сейчас наши лидеры требуют большего контроля над нашими собственными делами. Конечно, наш [overlord_name.GetAdjective]ий повелитель не сможет сопротивляться нам долгое время."
+ kr.political.102.d:0 "[Root.GetNameDefCap] остается под контролем [overlord_name.GetAdjective]ого правительства, но этот контроль начинает ослабевать по мере того, как наша сила восстанавливается. [Root.GetAdjective]ую власть нелегко сдержать, и уже сейчас наши лидеры требуют большего контроля над нашими собственными делами, и этот эффект ощущается по всей стране."
+ kr.political.102.a:0 "Да здравствует [Root.GetNameDef]!"
+ 
+ kr.political.103.t:0 "Большая [From.GetAdjective]ая автономия"
+ kr.political.103.d:0 "[From.GetNameDefCap] остается под контролем [Root.GetAdjective]ого правительства, но этот контроль начинает ослабевать по мере того, как наша сила восстанавливается. [From.GetAdjective]ая власть не так-то просто сдержать, и по всей стране ощущается требования их лидеров в отношении большего контроля над своими собственными делами."
+ kr.political.103.a:0 "Нам нужно будет внимательно следить за этим"
+ 
+ kr.political.106.t:0 "Борьба за независимость"
+ kr.political.106.d.tfv:0 "[overlord_name.GetAdjective]ий контроль над [Root.GetAdjective]им правительством  уже давно теряется. Мы слишком сильны, чтобы нас сдерживать. Среди  [Root.GetAdjective]их людей есть общее требование, чтобы [Root.GetNameDef] стал свободным, и скоро наше время придет."
+ kr.political.106.d:0 "[overlord_name.GetAdjective]ий контроль над [Root.GetAdjective]им правительством  уже давно теряется. Мы слишком сильны, чтобы нас сдерживать. Среди [Root.GetAdjective]их людей есть общее требование, чтобы [Root.GetNameDef] стал свободным, и кажется, что мы должны решить, будем ли мы требовать нашей независимости от [overlord_name.GetNameDef]."
+ kr.political.106.a:0 "Да здравствует [Root.GetName]!"
+ kr.political.106.b:0 "Да, мы должны требовать нашей независимости"
+ kr.political.106.c:0 "Нет, лучше не тыкать в осиное гнездо"
+ 
+ kr.political.107.t:0 "[From.GetNameDefCap] требует независимости"
+ kr.political.107.d:0 "[Root.GetAdjective]ий контроль над [From.GetAdjective]им правительством уже некоторое время теряется. Они слишком сильны, чтобы мы могли их полностью сдержать. Среди [From.GetAdjective]их людей есть общее требование, чтобы [From.GetNameDef] был освобожден, и теперь их правительство официально подало требование о полной независимости."
+ kr.political.107.a:0 "Отпустите их, пока мы еще друзья"
+ kr.political.107.b:0 "Они шутят? Забудьте"
+ 
+ kr.political.108.t:0 "Отказали в независимости"
+ kr.political.108.d:0 "[From.GetAdjective]ое правительство отклонило наше требование о независимости. В то время как мы и так лишь номинально находимся под их контролем, ограничения все еще накладывают на нас отпечаток."
+ kr.political.108.a:0 "На этом мы не закончим"
+ 
+ KR_fight_for_independence:0 "Объявить независимость"
+ KR_fight_for_independence_desc:0 "[From.GetNameDefCap], возможно, отклонил наше требование независимости, но это еще не конец. Мы будем свободны, даже если будем бороться за это!"
+ 
+ kr.political.109.t:0 "[From.GetNameDefCap] объявляет независимость"
+ kr.political.109.d:0 "Кажется, нашего отказа предоставить [From.GetNameDef] независимость, было недостаточно. В любом случае, они объявили себя свободными от [Root.GetAdjective]ого контроля."
+ kr.political.109.a:0 "Ба! Отпустите их"
+ kr.political.109.b:0 "Мы еще посмотрим!"
+ 
+ kr.political.110.t:0 "Война за Независимость"
+ kr.political.110.d:0 "Похоже, наш бывший сюзерен не может закрепиться в [Root.GetNameDef]... но и мы не сможем их победить. Возможно, пришло время призвать к перемирию и покончить с этим?"
+ kr.political.110.a:0 "Да, давайте закончим это"
+ kr.political.110.b:0 "Нет! Теперь речь идет не только о независимости!"
+ 
+ kr.political.111.t:0 "[From.GetAdjective]ая война за Независимость"
+ kr.political.111.d:0 "Война с [From.GetNameDef] продолжается в течение некоторого времени, и никто из нас не может получить явного преимущества. Возможно, пришло время просто признать их независимость и покончить с этим."
+ kr.political.111.a:0 "Да, давайте закончим это"
+ kr.political.111.b:0 "Нет! Мы закончим это!"
+
+ kr.political.250.t:0 "Марионетка [marked_country.GetNameDef]?"
+ kr.political.250.d:0 "Это превратит [marked_country.GetNameDef] в подданного [to_be_overlord.GetNameDef], используя автономное состояние оккупированной марионетки по умолчанию. Если они находятся в другой фракции, они покинут ее, но это не приведет к окончанию текущих войн, в которых они участвуют. Если вы хотите сделать это, вам следует сделать это отдельно.\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!"
+ kr.political.250.a:0 "Давай"
+ kr.political.250.b:0 "Сделайте это, но пусть они сохранят свое нынешнее правительство." 
+ kr.political.250.c:0 "Если подумать..."
+
+ kr.political.251.t:0 "Освободить [marked_country.GetNameDef]?"
+ kr.political.251.d:0 "Это сделает [marked_country.GetNameDef] полностью независимой. Это не изменит их текущее правительство (если только мод не содержит контент, позволяющий сделать это автоматически), не удалит [marked_country.GetNameDef] из их фракции, если они в ней состоят, и не выведет их из каких-либо войн.\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!"
+
+ kr.political.252.t:0 "Присоединиться к [to_be_faction_leader.GetFactionName]?"
+ kr.political.252.d:0 "Это заставит [marked_country.GetNameDef] присоединиться к [to_be_faction_leader.GetFactionName], расформировав свою фракцию, если они лидер фракции, или просто покинув свою текущую фракцию, если они в ней состоят. Это не изменит никаких войн, в которых они сейчас участвуют.\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!"
+
+ kr.political.253.t:0 "Ввести в [marked_country.GetFactionName]?"
+ kr.political.253.d:0 "Это сделает [marked_country.GetNameDef] лидером фракции для [marked_country.GetFactionName].\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!"
+
+ kr.political.254.t:0 "Выйти из [marked_country.GetFactionName]?"
+ kr.political.254.d:0 "Это заставит [marked_country.GetNameDef] покинуть [marked_country.GetFactionName], расформировав фракцию, если он является лидером. Это не повлияет на войны, в которых они сейчас участвуют.\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!" 
+
+ kr.political.255.t:0 "Мир с [peace_target.GetNameDef]?"
+ kr.political.255.d:0 "[marked_country.GetNameDefCap], вместе со всеми своими союзниками, заключит белый мир с [peace_target.GetNameDef] и всеми их союзниками.\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!"
+ kr.political.255.b:0 "Отделить [marked_country.GetNameDef] от ее союзников, затем заключить мир"
+
+ kr.political.256.t:0 "Мир после всех войн?"
+ kr.political.256.d:0 "[marked_country.GetNameDefCap] заключит отдельный белый мир для всех своих текущих войн. Если страна является подданным, она сначала будет освобождена, а если она находится во фракции, она должна сначала выйти из нее.\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!"
+
+ kr.political.257.t:0 "Война с [war_target.GetNameDef]?"
+ kr.political.257.d:0 "[marked_country.GetNameDefCap] объявит войну [war_target.GetNameDef]. Нет никаких проверок, чтобы убедиться, что это действительное объявление, кроме того, что эти две страны не являются союзниками и не находятся в состоянии войны.\n\n§RПРИМЕЧАНИЕ: Это вполне может нарушить контент Kaiserreich! Используйте на свой страх и риск!!§!"
+
+### Unit Leader Events ###
+ unit_leader.1.t:0 "[From.GetName] заболевает"
+ unit_leader.1.d:0 "В службе [From.GetHerHis] народу, кажется [From.GetRank] [From.GetName] задвинул [From.GetHerselfHimself] слишком далеко. В результате плохого климата в оперативной зоне [From.GetHerHis], [From.GetRank] сейчас заболел, и вероятно, потребуется некоторое время, чтобы восстановиться. Пока [From.GetSheHe] не поправится, [From.GetSheHe] не будет работать на обычном уровне [From.GetHerHis]."
+ unit_leader.1.a:0 "Несчастный."
+ 
+ unit_leader.2.t:0 "[From.GetName] ранен"
+ unit_leader.2.d:0 "При доведении битвы до успешного завершения, кажется, что [From.GetRank] [From.GetName] подвергает [From.GetHerselfHimself] слишком большому риску, ведя [From.GetHerHis] людей. [From.GetSheHeCap] был ранен, и вероятно, потребуется некоторое время, чтобы раны полностью зажили, до тех пор, пока [From.GetRank] не будет выступать на обычном уровне [From.GetHerHis]."
+ unit_leader.2.a:0 "Несчастный."
+
+### Government in Exile Events ###
+ mtg_exile_leader_added.1.t:0 "[exile_nation.GetAdjective]ий лидер в изгнании предлагает свои услуги"
+ mtg_exile_leader_added.1.desc:0 "После долгого и опасного путешествия по вражеской территории и нескольким нейтральным государствам, в столицу наконец прибыл высокопоставленный военный офицер одного из наших капитулированных союзников. После короткого периода восстановления он предложил свои услуги в нашей общей борьбе."
+ mtg_exile_leader_added.1.a:0 "Ваша борьба еще не закончена."
+ 
+ mtg_exile_government.2.title:0 "[From.GetAdjective]ое правительство в изгнании"
+ mtg_exile_government.2.desc:0 "[From.GetLeader] формально просит у [Root.GetAdjective]ого правительства разрешения вернуться в государство [From.GetNameDef] и заново основать временное правительство партии [From.GetRulingParty], чтобы подготовиться к послевоенному миру." 
+ mtg_exile_government.2.a:0 "Пора им вернуться на свою территорию."
+ mtg_exile_government.2.b:0 "Время еще не пришло."
+ 
+ mtg_exile_government.3.title:0 "Государство [From.GetName] предлагает интеграцию флота"
+ mtg_exile_government.3.desc:0 "Руководство [From.GetAdjective]ими ВМФ представило нам план интеграции нашего флота в их флот. Оно утверждает, что, если дать планирующим органам [From.GetAdjective]ого флота полный контроль над нашими кораблями, их эффективность значительно возрастет по сравнению с независимым статусом."
+ mtg_exile_government.3.a:0 "Мы согласны."
+ mtg_exile_government.3.b:0 "Мы не станем служить под их началом."
+ 
+ mtg_exile_government.4.title:0 "Государство [From.GetName] принимает предложение об интеграции флота"
+ mtg_exile_government.4.desc:0 "[From.GetAdjective]ое правительство сообщило нам, что они принимают наше предложение, и отныне их корабли будут действовать под нашим командованием."
+ mtg_exile_government.4.a:0 "Отлично"
+ 
+ mtg_exile_government.5.title:0 "Государство [From.GetName] отвергает предложение об интеграции флота"
+ mtg_exile_government.5.desc:0 "[From.GetAdjective]ое правительство сообщило нам, что их моряки ни за что не будут служить под командованием офицеров другой страны. Они хотят помогать нам, но не намерены терять независимость."
+ mtg_exile_government.5.a:0 "Они ставят свою гордость выше интересов альянса."
+ 
+ mtg_generic.1.title:0 "Государство [From.GetName] насильственно меняет правительство"
+ mtg_generic.1.desc:0 "Государство [From.GetNameDef] обращает внимание на явно недостаточную поддержку избирателями нашего текущего правительства и требует его замены."
+ mtg_generic.1.a:0 "Нам остается лишь принять это."
+
+### Land Units ###
+ category_mounted_inf:0 "Кінні стрільці"
+
+### Sub-unit Modifiers ###
+ modifier_army_sub_unit_category_bicycle_battalion_attack_factor:0 "Велосипед. атака"
+ modifier_army_sub_unit_category_bicycle_battalion_defence_factor:0 "Велосипед. захист"
+ modifier_army_sub_unit_category_bicycle_battalion_speed_factor:0 "Велосипед. швидкість"
+
+ modifier_army_sub_unit_category_mobile_infantry_attack_factor:0 "Атака Кав/Мот/Мех"
+ modifier_army_sub_unit_category_mobile_infantry_defence_factor:0 "Захист Кав/Мот/Мех"
+ modifier_army_sub_unit_category_mobile_infantry_speed_factor:0 "Швидкість Кав/Мот/Мех"
+
+### Tech ###
+ military_police_tech:0 "Військова поліція"
+
+### Research Bonus Names ###
+ refinery_bonus:0 "Бонус НПЗ"
+
+### Interface ###
+ can_replace_hog:0 "Можете замінити главу уряду"
+ for_cannot_be_replaced:0 "Міністр Іноземних Справ не може бути замінений"
+ eco_cannot_be_replaced:0 "Міністр Економіки не може бути замінений"
+ sec_cannot_be_replaced:0 "Міністр внутрішніх справ не може бути замінений"
+ ministers_cannot_be_replaced:0 "Міністр не може бути замінений"
+
+### News Events ###
+ toggle_news_button_tooltip:0 "[toggle_news_button_tooltip_loc]"
+ toggle_news_button_tooltip_desc:0 "[toggle_news_button_tooltip_desc_loc]"
+ toggle_news_button_tooltip_mp:0 "§RНедоступно в мультиплеєрі§!"
+ toggle_news_button_tooltip_all:0 "Змінити на §HРегіональні новини§!"
+ toggle_news_button_tooltip_all_desc:0 "Отримуйте не великі новинні події з усього світу, але тільки дрібні новинні події для вашого регіону світу."
+ toggle_news_button_tooltip_some:0 "Змінити §HБез новин§!"
+ toggle_news_button_tooltip_some_desc:0 "Прийматимуться лише найважливіші великі новини, жодних дрібних новин."
+ toggle_news_button_tooltip_none:0 "Змінити на §HВсі новини§!"
+ toggle_news_button_tooltip_none_desc:0 "Всі новини, як великі, так і дрібні, прийматимуться незалежно від того, звідки вони виходять."
+ toggle_news_text_all:0 "Показувати всі новини"
+ toggle_news_text_regional:0 "Показувати регіональні новини"
+ toggle_news_text_none:0 "Не показувати новини"
+ 
+### Factions ###
+ all_zhili_faction:0 "Чжилійська Кліка"
+ austrian_empire_faction:0 "Австро-Угорська Монархія"
+ austrian_sphere:0 "Дунай-Адріатичний Союз"
+ Belgrade_Pact:0 "Бєлградський Договір"
+ benesam:0 "БеНіСот"
+ buenos_aires_lima_faction:0 "Вісь Буенос-Айрес-Ліма"
+ cairo_pact:0 "Каїрський Пакт"
+ CEN_anti_revolutionary_alliance:0 "Народний Авангард"
+ CEN_liberal_pact:0 "Ліберальний Пакт"
+ CEN_revolutionary_front:0 "Революційний фронт"
+ china_upc_faction:0 "Сполучені Провінції Китаю"
+ co_prosperity_sphere:0 "Сфера суцвітання"
+ colombia_gran_alliance:0 "Андський Пакт"
+ cos_carib_faction:0 "Карибський Демократичний Альянс"
+ EANL_faction:0 "Східноазійська Національна Ліга"
+ Entente:0 "Антанта"
+ golestan_pact_faction:0 "Голестанський Пакт"
+ indian_alliance_faction:0 "Індійський Альянс"
+ league_of_american_states:0 "Ліга Американських Держав"
+ litrut_faction:0 "Литовсько-Русинська Спілка"
+ maphilinsul_faction:0 "Мафілінсуль"
+ moscow_accord:0 "Організація Московського Договору"
+ north_zhili_faction:0 "Північна Чжилійська Кліка"
+ npa_faction:0 "Союз Захисту Нації"
+ NRF_faction:0 "Народний Революційний Фронт"
+ pacification_faction:0 "Армія Умиротворення Нації"
+ polukr_faction:0 "Синдикалістське Міжмор'я"
+ Qing_faction:0 "Імперія Цін"
+ qing_sphere_faction:0 "Сфера Цін"
+ SA_socialist_states:0 "Південноамериканські Соціалістичні Держави"
+ SA_dismantle_patagonia:0 "Коаліція з ліквідації Андезії"
+ Scandinavian_Pact:0 "Скандинавський Договір"
+ SCA_faction_scandinavian_defense_union:0 "Скандинавський Оборонний Союз"
+ SIA_SEATO_alliance:0 "СЕАТО"
+ syndicalist_asia:0 "Східний Синдикалістський Союз"
+ syndicalist_asia_per:0 "Азіатський Соціалістичний Союз"
+ Syndicalist_Internationale:0 "Синдикалістський Інтернаціонал"
+ Third_International:0 "Третій Інтернаціонал"
+ united_front_faction:0 "Китайський Об'єднаний Фронт"
+ yunnan_R_KMT_faction:0 "Південна Націоналістична Група"
+ SOV_faction:0 "Східний фронт Третього Інтернаціоналу"
+ reichspakt: "Райхспакт"
+ 
+### Custom Triggers ###
+ had_war:0 "Воював"
+ is_invalid_war_target_tooltip:0 "Неправильна мета для атаки"
+ is_valid_war_target_tooltip:0 "Правильна мета для атаки"
+ not_during_ceasefire:0 "Ні, поки підтримується перемир'я."
+
+### Commonly used in scripted loc ###
+ loc_royal:0 "королівський"
+ loc_royal_cap:0 "Королівський"
+ loc_royal_with_space:0 "$loc_royal$ "
+ loc_royal_cap_with_space:0 "$loc_royal_cap$ "
+
+ loc_has:0 "має"
+ loc_have:0 "мають"
+
+ loc_its:0 "своє"
+ loc_their:0 "його"
+ loc_theirs:0 "їх"
+
+### Commonly used custom decision costs ###
+ CP_5:0 "£command_power §H5§!"
+ CP_5_blocked:0 "£command_power §R5§!"
+ CP_5_tooltip:0 "Прийняття рішення коштує $CP_5_blocked$"
+
+ CP_10:0 "£command_power §H10§!"
+ CP_10_blocked:0 "£command_power §R10§!"
+ CP_10_tooltip:0 "Прийняття рішення коштує $CP_10_blocked$"
+
+ CP_15:0 "£command_power §H15§!"
+ CP_15_blocked:0 "£command_power §R15§!"
+ CP_15_tooltip:0 "Прийняття рішення коштує $CP_15_blocked$"
+
+ CP_20:0 "£command_power §H20§!"
+ CP_20_blocked:0 "£command_power §R20§!"
+ CP_20_tooltip:0 "Прийняття рішення коштує $CP_20_blocked$"
+
+ CP_25:0 "£command_power §H25§!"
+ CP_25_blocked:0 "£command_power §R25§!"
+ CP_25_tooltip:0 "Прийняття рішення коштує $CP_25_blocked$"
+
+ CP_30:0 "£command_power §H30§!"
+ CP_30_blocked:0 "£command_power §R30§!"
+ CP_30_tooltip:0 "Прийняття рішення коштує $CP_30_blocked$"
+
+ CP_35:0 "£command_power §H35§!"
+ CP_35_blocked:0 "£command_power §R35§!"
+ CP_35_tooltip:0 "Прийняття рішення коштує $CP_35_blocked$"
+
+ CP_40:0 "£command_power §H40§!"
+ CP_40_blocked:0 "£command_power §R40§!"
+ CP_40_tooltip:0 "Прийняття рішення коштує $CP_40_blocked$"
+
+ CP_45:0 "£command_power §H45§!"
+ CP_45_blocked:0 "£command_power §R45§!"
+ CP_45_tooltip:0 "Прийняття рішення коштує $CP_45_blocked$"
+
+ CP_50:0 "£command_power §H50§!"
+ CP_50_blocked:0 "£command_power §R50§!"
+ CP_50_tooltip:0 "Прийняття рішення коштує $CP_50_blocked$"
+
+ CP_55:0 "£command_power §H55§!"
+ CP_55_blocked:0 "£command_power §R55§!"
+ CP_55_tooltip:0 "Прийняття рішення коштує $CP_55_blocked$"
+
+ CP_60:0 "£command_power §H60§!"
+ CP_60_blocked:0 "£command_power §R60§!"
+ CP_60_tooltip:0 "Прийняття рішення коштує $CP_60_blocked$"
+
+ CP_65:0 "£command_power §H65§!"
+ CP_65_blocked:0 "£command_power §R65§!"
+ CP_65_tooltip:0 "Прийняття рішення коштує $CP_65_blocked$"
+
+ CP_70:0 "£command_power §H70§!"
+ CP_70_blocked:0 "£command_power §R70§!"
+ CP_70_tooltip:0 "Прийняття рішення коштує $CP_70_blocked$"
+
+ CP_75:0 "£command_power §H75§!"
+ CP_75_blocked:0 "£command_power §R75§!"
+ CP_75_tooltip:0 "Прийняття рішення коштує $CP_75_blocked$"
+
+ CP_80:0 "£command_power §H80§!"
+ CP_80_blocked:0 "£command_power §R80§!"
+ CP_80_tooltip:0 "Прийняття рішення коштує $CP_80_blocked$"
+
+ CP_85:0 "£command_power §H85§!"
+ CP_85_blocked:0 "£command_power §R85§!"
+ CP_85_tooltip:0 "Прийняття рішення коштує $CP_85_blocked$"
+
+ CP_90:0 "£command_power §H90§!"
+ CP_90_blocked:0 "£command_power §R90§!"
+ CP_90_tooltip:0 "Прийняття рішення коштує $CP_90_blocked$"
+
+ CP_95:0 "£command_power §H95§!"
+ CP_95_blocked:0 "£command_power §R95§!"
+ CP_95_tooltip:0 "Прийняття рішення коштує $CP_95_blocked$"
+
+ CP_100:0 "£command_power §H100§!"
+ CP_100_blocked:0 "£command_power §R100§!"
+ CP_100_tooltip:0 "Прийняття рішення коштує $CP_100_blocked$"
+
+### Other ###
+ unlock_focuses:0 "§GЦей фокус в підсумку буде автоматично пройдено і розблокує інші фокуси§!\n"
+ unlocks_after_event:0 "§GЦей фокус буде автоматично розблоковано через подію§!\n"
+ if_accepted:0 "Якщо прийнято:"
+ command_economy:0 "Командна економіка"
+ asked_to_join:0 "Інша країна попросила втрутитися."
+ received_equipment_500:0 "Ви отримали §G500§! піхотного спорядження з цієї країни\n"
+ received_equipment_1000:0 "Ви отримали §G1000§! піхотного спорядження з цієї країни\n"
+ received_equipment_1500:0 "Ви отримали §G1500§! піхотного спорядження з цієї країни\n"
+ received_equipment_2000:0 "Ви отримали §G2000§! піхотного спорядження з цієї країни\n"
+ received_equipment_5000:0 "Ви отримали §G5000§! піхотного спорядження з цієї країни\n"
+ generic_head_of_intelligence:0 "Начальник розвідки"
+ generic_research_advances:0 "Наукові досягнення"
+ recruit_generic_spymaster:0 "Завербувати начальника розвідки"
+ recruit_generic_spymaster_desc:0 "Нам потрібно буде призначити когось, хто керуватиме нашим спецслужбою, який може стати ефективним директором."
+ 
+### Generic Ministers ###
+ head_of_government:0 "Глава Уряду"
+ foreign_minister:0 "Міністр зовнішньої політики"
+ economy_minister:0 "Міністр економіки"
+ security_minister:0 "Міністр внутрішніх справ"
+ head_of_intel:0 "Міністр розвідки"
+ 
+### Country-Specific Ministers ###
+ # BAT:
+ knight_captain_of_liv_ord:0 "Лицар-Капітан"
+ # BAT:
+ land_marshal_of_liv_ord:0 "Лендмаршал"
+ # CAN:
+ leader_of_the_british_exiles:0 "Британський Прем'єр-Міністр"
+ # LEC:
+ underworld_boss:0 "Бос Підземного світу"
+ # ROM:
+ marshal_of_the_palace:0 "Маршал палацу"
+ # SAF, SFR:
+ minister_of_native_affairs:0 "Міністр у справах корінних народів"
+ # NFA:
+ national_philosopher:0 "Національний філософ"
+ # JBS:
+ faction_minister:0 "Внутрішня фракція"
+ # POL:
+ kings_trusted_councillor:0 "Довірений радник короля"
+ 
+### Company Traits ###
+
+ generic_arms_company:0 "Загальна збройова компанія"
+ generic_tank_company:0 "Загальна танкова компанія"
+ generic_fighter_company:0 "Загальна винищувальна компанія"
+ generic_artillery_company:0 "Загальна артилерійська компанія"
+ generic_car_company:0 "Загальна моторизована компанія"
+ generic_industrial_company:0 "Загальна промислова компанія"
+ generic_naval_company:0 "Спільна військово-морська компанія"
+
+### Tank ###
+ small_tank_producer_offense_0:0 "Виробник легких танків"
+ small_tank_producer_offense_1:0 "Виробник легких танків"
+ small_tank_producer_offense_2:0 "Виробник легких танків"
+ small_tank_producer_defense_0:0 "Виробник легких танків"
+ small_tank_producer_defense_1:0 "Виробник легких танків"
+ small_tank_producer_defense_2:0 "Виробник легких танків"
+ small_tank_producer_mass_0:0 "Виробник легких танків"
+ small_tank_producer_mass_1:0 "Виробник легких танків"
+ small_tank_producer_mass_2:0 "Виробник легких танків"
+ medium_tank_producer_offense_0:0 "Виробник середніх танків"
+ medium_tank_producer_offense_1:0 "Виробник середніх танків"
+ medium_tank_producer_offense_2:0 "Виробник середніх танків"
+ medium_tank_producer_defense_0:0 "Виробник середніх танків"
+ medium_tank_producer_defense_1:0 "Виробник середніх танків"
+ medium_tank_producer_defense_2:0 "Виробник середніх танків"
+ medium_tank_producer_mass_0:0 "Виробник середніх танків"
+ medium_tank_producer_mass_1:0 "Виробник середніх танків"
+ medium_tank_producer_mass_2:0 "Виробник середніх танків"
+ heavy_tank_producer_offense_0:0 "Виробник важких танків"
+ heavy_tank_producer_offense_1:0 "Виробник важких танків"
+ heavy_tank_producer_offense_2:0 "Виробник важких танків"
+ heavy_tank_producer_defense_0:0 "Виробник важких танків"
+ heavy_tank_producer_defense_1:0 "Виробник важких танків"
+ heavy_tank_producer_defense_2:0 "Виробник важких танків"
+ heavy_tank_producer_mass_0:0 "Виробник важких танків"
+ heavy_tank_producer_mass_1:0 "Виробник важких танків"
+ heavy_tank_producer_mass_2:0 "Виробник важких танків"
+ 
+### Air ###
+ fighter_producer_offense_0:0 "Виробник винищувачів"
+ fighter_producer_offense_1:0 "Виробник винищувачів"
+ fighter_producer_offense_2:0 "Виробник винищувачів"
+ fighter_producer_defense_0:0 "Виробник винищувачів"
+ fighter_producer_defense_1:0 "Виробник винищувачів"
+ fighter_producer_defense_2:0 "Виробник винищувачів"
+ fighter_producer_mass_0:0 "Виробник винищувачів"
+ fighter_producer_mass_1:0 "Виробник винищувачів"
+ fighter_producer_mass_2:0 "Виробник винищувачів"
+ bomber_producer_offense_0:0 "Виробник важких бомбардувальників"
+ bomber_producer_offense_1:0 "Виробник важких бомбардувальників"
+ bomber_producer_offense_2:0 "Виробник важких бомбардувальників"
+ bomber_producer_defense_0:0 "Виробник важких бомбардувальників"
+ bomber_producer_defense_1:0 "Виробник важких бомбардувальників"
+ bomber_producer_defense_2:0 "Виробник важких бомбардувальників"
+ bomber_producer_mass_0:0 "Виробник важких бомбардувальників"
+ bomber_producer_mass_1:0 "Виробник важких бомбардувальників"
+ bomber_producer_mass_2:0 "Виробник важких бомбардувальників"
+ nav_cas_producer_offense_0:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_offense_1:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_offense_2:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_defense_0:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_defense_1:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_defense_2:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_mass_0:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_mass_1:0 "Виробник легких бомбардувальників"
+ nav_cas_producer_mass_2:0 "Виробник легких бомбардувальників"
+ 
+### Arms ###
+ motorised_equipment_producer_offense_0:0 "Виробник автотранспорту"
+ motorised_equipment_producer_offense_1:0 "Виробник автотранспорту"
+ motorised_equipment_producer_offense_2:0 "Виробник автотранспорту"
+ motorised_equipment_producer_defense_0:0 "Виробник автотранспорту"
+ motorised_equipment_producer_defense_1:0 "Виробник автотранспорту"
+ motorised_equipment_producer_defense_2:0 "Виробник автотранспорту"
+ motorised_equipment_producer_mass_0:0 "Виробник автотранспорту"
+ motorised_equipment_producer_mass_1:0 "Виробник автотранспорту"
+ motorised_equipment_producer_mass_2:0 "Виробник автотранспорту"
+ infantry_equipment_producer_offense_0:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_offense_1:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_offense_2:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_defense_0:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_defense_1:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_defense_2:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_assualt_0:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_assualt_1:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_assualt_2:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_allround_0:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_allround_1:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_allround_2:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_mass_0:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_mass_1:0 "Виробник піхотного спорядження"
+ infantry_equipment_producer_mass_2:0 "Виробник піхотного спорядження"
+ support_equipment_producer_mass_0: "Виробник допоміжного спорядження"
+ support_equipment_producer_mass_1: "Виробник допоміжного спорядження"
+ support_equipment_producer_mass_2: "Виробник допоміжного спорядження"
+ artillery_producer_offense_0:0 "Виробник артилерії"
+ artillery_producer_offense_1:0 "Виробник артилерії"
+ artillery_producer_offense_2:0 "Виробник артилерії"
+ artillery_producer_defense_0:0 "Виробник артилерії"
+ artillery_producer_defense_1:0 "Виробник артилерії"
+ artillery_producer_defense_2:0 "Виробник артилерії"
+ artillery_producer_mass_0:0 "Виробник артилерії"
+ artillery_producer_mass_1:0 "Виробник артилерії"
+ artillery_producer_mass_2:0 "Виробник артилерії"
+ army_equipment_producer_0:0 "Військово-промисловий комплекс"
+ army_equipment_producer_1:0 "Військово-промисловий комплекс"
+ army_equipment_producer_2:0 "Військово-промисловий комплекс"
+ 
+### Naval ###
+ capital_ship_producer_offense_0:0 "Виробник великих кораблів"
+ capital_ship_producer_offense_1:0 "Виробник великих кораблів"
+ capital_ship_producer_offense_2:0 "Виробник великих кораблів"
+ capital_ship_producer_defense_0:0 "Виробник великих кораблів"
+ capital_ship_producer_defense_1:0 "Виробник великих кораблів"
+ capital_ship_producer_defense_2:0 "Виробник великих кораблів"
+ capital_ship_producer_mass_0:0 "Виробник великих кораблів"
+ capital_ship_producer_mass_1:0 "Виробник великих кораблів"
+ capital_ship_producer_mass_2:0 "Виробник великих кораблів"
+ cruiser_producer_offense_0:0 "Виробник крейсерів"
+ cruiser_producer_offense_1:0 "Виробник крейсерів"
+ cruiser_producer_offense_2:0 "Виробник крейсерів"
+ cruiser_producer_defense_0:0 "Виробник крейсерів"
+ cruiser_producer_defense_1:0 "Виробник крейсерів"
+ cruiser_producer_defense_2:0 "Виробник крейсерів"
+ cruiser_producer_mass_0:0 "Виробник крейсерів"
+ cruiser_producer_mass_1:0 "Виробник крейсерів"
+ cruiser_producer_mass_2:0 "Виробник крейсерів"
+ small_ship_producer_offense_0:0 "Виробник малих кораблів"
+ small_ship_producer_offense_1:0 "Виробник малих кораблів"
+ small_ship_producer_offense_2:0 "Виробник малих кораблів"
+ small_ship_producer_defense_0:0 "Виробник малих кораблів"
+ small_ship_producer_defense_1:0 "Виробник малих кораблів"
+ small_ship_producer_defense_2:0 "Виробник малих кораблів"
+ small_ship_producer_mass_0:0 "Виробник малих кораблів"
+ small_ship_producer_mass_1:0 "Виробник малих кораблів"
+ small_ship_producer_mass_2:0 "Виробник малих кораблів"
+ convoy_producer_0:0 "Вантажова компанія"
+ convoy_producer_1:0 "Вантажова компанія"
+ convoy_producer_2:0 "Вантажова компанія"
+ 
+### General Industry ###
+ mining_company:0 "Гірничодобувна компанія"
+ chemical_producer:0 "Хімічний концерн"
+ industrial_manufacturer:0 "Промисловий концерн"
+ electronics_manufacturer:0 "Електронний концерн"
+ railroad_company:0 "Залізнична компанія"
+ oil_concern:0 "Нафтова компанія"
+ 
+### General ###
+ fighter_techs:0 "Технолог. винищ."
+ fighter_techs_research:0 "Час дослідження винищ."
+ cat_strategic_destruction:0 "Технолог. стратегічного бомбардування"
+ marine_tech_research:0 "Час дослідження морпіхів"
+ early_fighter:0 "Міжвоєнний винищувач"
+ signal_company_tech:0 "Бригада зв'язківців"
+ maintenance_company_tech:0 "Бригада техніків"
+ cat_line_artillery:0 "Лінійна артилерія"
+ cat_light_armor_research:0 "Швидкість дослідження легких танків"
+ cat_light_spg:0 "Легке СПВО"
+ cat_medium_spg:0 "Середнє СПВО"
+ cat_heavy_spg:0 "Важке СПВО"
+ tank_destroyer_tech:0 "Протитанкова САУ"
+ excavation_tech_research:0 "Швидкість дослідження гірничих робіт"
+ construction_tech_research:0 "Швидкість дослідження будівництва"
+ cat_gunnery:0 "Морська артилерія"
+ cr_tech:0 "Моделі крейсера"
+ acr_tech:0 "Моделі лінійних крейсерів"
+ cat_targeting:0 "Комп'ютери керування вогнем"
+ cat_torpedo:0 "Технологія торпед"
+ carrier_ship_tree:0 "Операції авіаносців"
+ capital_ship_tree:0 "Операції капітальних кораблів"
+ cat_armored_car:0 "Бронеавтомобіль"
+ cat_special_units:0 "Спец.підрозділи"
+
+ early_ship_hull_light:0 "$ship_hull_light_1$"
+ basic_ship_hull_light:0 "$ship_hull_light_2$"
+ improved_ship_hull_light:0 "$ship_hull_light_3$"
+ advanced_ship_hull_light:0 "$ship_hull_light_4$"
+ early_ship_hull_cruiser:0 "$ship_hull_cruiser_1$"
+ improved_ship_hull_cruiser:0 "$ship_hull_cruiser_3$"
+ advanced_ship_hull_cruiser:0 "$ship_hull_cruiser_4$"
+ early_ship_hull_heavy:0 "$ship_hull_heavy_1$"
+ improved_ship_hull_heavy:0 "$ship_hull_heavy_3$"
+ advanced_ship_hull_heavy:0 "$ship_hull_heavy_4$"
+ basic_ship_hull_carrier:0 "$ship_hull_carrier_1$"
+ improved_ship_hull_carrier:0 "$ship_hull_carrier_2$"
+ advanced_ship_hull_carrier:0 "$ship_hull_carrier_3$"
+ early_ship_hull_submarine:0 "$ship_hull_submarine_1$"
+ basic_ship_hull_submarine:0 "$ship_hull_submarine_2$"
+ improved_ship_hull_submarine:0 "$ship_hull_submarine_3$"
+ advanced_ship_hull_submarine:0 "$ship_hull_submarine_4$"
+
+### Hidden Techs ###
+ camel_corps_tech:0 "Верблюжа кавалерія"
+ camel_corps_tech_effect:0 "Відкриває §H$camel_corps_tech$§!\n§HВерблюди\n Пустеля§!\n Атака: §G+15%§!\n Захист: §G+5%§!\n Рух: §G+ 3%§!"
+ 
+ tech_ski_infantry:0 "Лижна піхота"
+ tech_ski_infantry_effect:0 "Відкриває §H$tech_ski_infantry$§!\n§HПіхота\n Пагорби§!\n Атака: §G+5%§!\n Захист: §G+5%§!\n Рух: §G+ 5%§!\n §HГори§!\n Атака: §G+5%§!\n Захист: §G+5%§!\n Рух: §G+10%§!"
+ 
+ tech_marine_bonus:0 "Покращені морські піхотинці"
+ tech_marine_bonus_effect:0 "Відкриває §H$tech_marine_bonus$\nМорські піхотинці§!\n Протипіхот. атака: §G+5%§!\n Протитанк. атака: §G+5%§!\n§HБатальйон Амтрек§!\n Протипіхотна атака: §G+5%§!\n Протитанкова атака: §G+5%§!\n§HБатальйон танків амфібій§!\n Протипіхотна атака: §G+5%§!\n Протитанкова атака : §G+5%§!"
+ 
+ tech_marine_bonus_2:0 "Навчені морські піхотинці"
+ tech_marine_bonus_2_effect:0 "Відкриває §H$tech_marine_bonus_2$\nМорські піхотинці§!\n Протипіхот. атака: §G+2,5%§!\n Протитанк. атака: §G+2,5%§!\n§HБатальйон Амтрек §!\n Протипіхотна атака: §G+5%§!\n Протитанкова атака: §G+5%§!\n§HБатальйон танків амфібій§!\n Протипіхотна атака: §G+5%§!\ n Протитанкова атака: §G+5%§!"
+ 
+ jungle_warfare_effect:0 "Відкриває §H$jungle_warfare$§!\n§HВся піхота\n Джунглі§!\n Атака: §G+10%§!\n Захист: §G+5%§!\n Рух: §G +5%§!\n\n"
+ 
+ improved_field_hospitals:0 "Поліпшення польових шпиталів"
+ improved_field_hospitals_effect:0 "Відкриває §H$improved_field_hospitals$\nПольовий госпіталь§!\n Повертає: §G+20%§!\n Втрата досвіду: §G-10%§!\n\n"
+ 
+ expanded_engineer_corps_tech:0 "Розширена бригада інженерів"
+ expanded_engineer_corps_tech_effect:0 "Відкриває §H$expanded_engineer_corps_tech$\nБригада інженерів§!\n Окопування: §G+2§!\n §HФорт§!\n Атака: §G+10%§!\n Захист: §G+10 %§!"
+ 
+ mountain_training_tech:0 "Гірські тренування"
+ mountain_training_tech_effect:0 "Відкриває §H$mountain_training_tech$\nВся піхота§!\n §HГори§!\n Атака: §G+5%§!\n Захист: §G+5%§!\n Рух: §G+ 10%§!"
+ 
+ improved_recon_units_tech:0 "Навчені розвідники"
+ improved_recon_units_tech_effect:0 "Відкриває §H$improved_recon_units_tech$\nРозвідники§!\n Прорив: §G+1§!\n Розвідка: §G+1§!"
+ 
+ asymmetrical_warfare:0 "Асиметрична війна"
+ asymmetrical_warfare_effect:0 "Відкриває §H$asymmetrical_warfare$\nВся піхота§!\n §HМісто§!\n Атака: §G+10%§!\n Захист: §G+5%§!\n Рух: §G+ 5%§!"
+ 
+ desert_warfare:0 "Тренування у пустелі"
+ desert_warfare_effect:0 "Відкриває §H$desert_warfare$§!\n§HВся піхота\n Пустеля§!\n Атака: §G+10%§!\n Захист: §G+5%§!\n Рух: §G +5%§!"
+ 
+ marsh_warfare:0 "Тренування на болоті"
+ marsh_warfare_effect:0 "Відкриває §H$marsh_warfare$§!\n§HВся піхота\n Болото§!\n Атака: §G+10%§!\n Захист: §G+5%§!\n Рух: §G +5%§!"
+
+ anti_fortification_artillery:0 "Протифортифікаційна артилерія"
+ anti_fortification_artillery_effect:0 "Відкриває §H$anti_fortification_artillery$§!\n§HАртилерія підтримки§!\n Бункера: Атака: §G+20%§!\n§HАртилерія§!\n Бункера: Атака: §G+20%§ !\n§HМоторизована артилерія§!\n Бункера: Атака: §G+20%§!"
+ 
+ tech_integrated_specialists:0 "Інтегрований спецназ"
+ tech_integrated_specialists_effect:0 "Відкриває §H$tech_integrated_specialists$§!\nСпеціальні сили: §G+5%§!\n§HВсі спеціальні сили:§!\n Протипіхот. атака: §G+5%§!\n Протитанк. атака : §G+5%§!\n"
+ 
+ tech_at_cavalry:0 "Протитанкова кавалерія"
+ tech_at_cavalry_effect:0 "Відкриває §H$tech_at_cavalry$\nКавалерія§!\n Бронебійність: §G+75%§!\n Протитанк. атака: §G+10%§!"
+ 
+ tech_dragoon_tactics:0 "Драгунська тактика"
+ tech_dragoon_tactics_effect:0 "Відкриває §H$tech_dragoon_tactics$\nКавалерія§!\n Макс. організація: §G+5§!\n Швидкість відновлення: §G+0.10%§!\n Рух: §G+10%§! \n Нічна атака: §G+10§!"
+ 
+ tech_semi_motorised_cav:0 "Напівмоторизована кавалерія"
+ tech_semi_motorised_cav_effect:0 "Відкриває §H$tech_semi_motorised_cav$\nКавалерія§!\n Макс. організація: §G+5§!\n Швидкість віднов.: §G+0.10%§!\n Рух: §G+15%§! "
+
+ tech_improved_encryption:0 "Покращене шифрування"
+ tech_improved_encryption_effect:0 "Відкриває §H$tech_improved_encryption$§!\n$MODIFIER_CRYPTO_STRENGTH$: [?2|+ = 0]"
+ 
+ tech_mountain_artillery:0 "Гірська артилерія"
+ tech_mountain_artillery_effect:0 "Відкриває §H$tech_mountain_artillery$§!\n§HАртилерія\n Пагорби§!\n Атака: §G+10%§!\n Рух: §G+10%§!\n §HГори§!\ n Атака: §G+10%§!\n Рух: §G+10%§!"
+
+ tech_arctic_commando:0 "Арктичний коммандос"
+ tech_arctic_commando_effect:0 "Відкриває §H$tech_arctic_commando$§!\n Відстрочка перед поповненням припасів військ спеціального призначення: [?48|G1=] год(ов)\n §HСпеціальні сили§!\n Приріст акліматизації до холоду: §G+ 10%§!\n §HХолми§!\n Рух: §G+5%§!\n §HГори§!\n Рух: §G+5%§!"
+ 
+ tech_better_paratroopers:0 "Елітні парашутисти"
+ tech_better_paratroopers_effect:0 "Відкриває §H$tech_better_paratroopers$§!\n§HПарашутисти§!\n Протипіхот. атака: §G+10%§!\n Швидкість віднов.: §G+0.20§!\n Відстрочка постачання для парашутистів: [?24|G1=] час(ів)" 
+
+### Army Command Traits ###
+ 
+### Land ###
+ land_defense_1:0 "Доктрина захисту"
+ land_defense_2:0 "Доктрина захисту"
+ land_defense_3:0 "Доктрина захисту"
+ 
+ land_offensive_1:0 "Доктрина нападу"
+ land_offensive_2:0 "Доктрина нападу"
+ land_offensive_3:0 "Доктрина нападу"
+ 
+ mobile_warfare_1:0 "Маневрена війна"
+ mobile_warfare_2:0 "Маневрена війна"
+ mobile_warfare_3:0 "Маневрена війна"
+ 
+ entrenchment_1:0 "Доктрина Вельткрігу"
+ entrenchment_2:0 "Доктрина Вельткрігу"
+ entrenchment_3:0 "Доктрина Вельткрігу"
+ 
+ morale_1:0 "Надихаючий лідер"
+ morale_2:0 "Надихаючий лідер"
+ morale_3:0 "Надихаючий лідер"
+ 
+ organization_1:0 "Стратег. план-ник"
+ organization_2:0 "Стратег. план-ник"
+ organization_3:0 "Стратег. план-ник"
+ 
+ attrition_1:0 "Акуратний план-ник"
+ attrition_2:0 "Акуратний план-ник"
+ attrition_3:0 "Акуратний план-ник"
+ 
+ supply_use_1:0 "Планщик логістики"
+ supply_use_2:0 "План-ник логістики"
+ supply_use_3:0 "Планщик логістики"
+ 
+### Artillery ###
+ artillery_offense_1:0 "Вогневий вал у напад."
+ artillery_offense_2:0 "Вогневий вал у напад."
+ artillery_offense_3:0 "Вогневий вал у напад."
+ 
+ artillery_defense_1:0 "Вогневий вал у захисті"
+ artillery_defense_2:0 "Вогневий вал у захисті"
+ artillery_defense_3:0 "Вогневий вал у захисті"
+ 
+### Infantry ###
+ infantry_offense_1:0 "Піхотна атака"
+ infantry_offense_2:0 "Піхотна атака"
+ infantry_offense_3:0 "Піхотна атака"
+ 
+ infantry_defense_1:0 "Піхотний захист"
+ infantry_defense_2:0 "Піхотний захист"
+ infantry_defense_3:0 "Піхотний захист"
+ 
+### Tanks ###
+ armored_offense_1:0 "Танкова атака"
+ armored_offense_2:0 "Танкова атака"
+ armored_offense_3:0 "Танкова атака"
+ 
+ armored_defense_1:0 "Танковий захист"
+ armored_defense_2:0 "Танковий захист"
+ armored_defense_3:0 "Танковий захист"
+ 
+### Cavalry ###
+ cavalry_offense_1:0 "Кава-а атака"
+ cavalry_offense_2:0 "Кава-а атака"
+ cavalry_offense_3:0 "Кава-а атака"
+ 
+ cavalry_defense_1:0 "Кава-ий захист"
+ cavalry_defense_2:0 "Кава-ий захист"
+ cavalry_defense_3:0 "Кава-ий захист"
+ 
+### Commando ###
+ commando_offense_1:0 "Атака спецназу"
+ commando_offense_2:0 "Атака спецназу"
+ commando_offense_3:0 "Атака спецназу"
+ 
+ commando_defense_1:0 "Захист спецзназу"
+ commando_defense_2:0 "Захист спецзназу"
+ commando_defense_3:0 "Захист спецзназу"
+ 
+### XP ###
+ army_reform_1:0 "Реформатор армії"
+ army_reform_2:0 "Реформатор армії"
+ army_reform_3:0 "Реформатор армії"
+ 
+### Air ###
+ concealment_1:0 "Маскування"
+ concealment_2:0 "Маскування"
+ concealment_3:0 "Маскування"
+ 
+ air_reform_1:0 "Реформатор авіації"
+ air_reform_2:0 "Реформатор авіації"
+ air_reform_3:0 "Реформатор авіації"
+ 
+ air_safety_1:0 "ТВ у повітрі"
+ air_safety_2:0 "ТВ у повітрі"
+ air_safety_3:0 "ТВ у повітрі"
+ 
+ air_night_operations_1:0 "Нічні операції"
+ air_night_operations_2:0 "Нічні операції"
+ air_night_operations_3:0 "Нічні операції"
+ 
+ air_ground_suppression_1:0 "Придушення з повітря"
+ air_ground_suppression_2:0 "Придушення з повітря"
+ air_ground_suppression_3:0 "Придушення з повітря"
+ 
+ air_weather_1:0 "Всепогодний"
+ air_weather_2:0 "Всепогодний"
+ air_weather_3:0 "Всепогодний"
+ 
+ air_ace_promoter_1:0 "Позитивний героїзм"
+ air_ace_promoter_2:0 "Позитивний героїзм"
+ air_ace_promoter_3:0 "Позитивний героїзм"
+ 
+ #air_naval_strike_1:0 "Морской удар"
+ #air_naval_strike_2:0 "Морской удар"
+ #air_naval_strike_3:0 "Морской удар"
+ 
+ #air_bomber_interception_1:0 "Перехват бомб-ов"
+ #air_bomber_interception_2:0 "Перехват бомб-ов"
+ #air_bomber_interception_3:0 "Перехват бомб-ов"
+ 
+ #air_air_superiority_1:0 "Воздушное превосходство"
+ #air_air_superiority_2:0 "Воздушное превосходство"
+ #air_air_superiority_3:0 "Воздушное превосходство"
+ 
+ #air_close_air_support_1:0 "Поддержка с воздуха"
+ #air_close_air_support_2:0 "Поддержка с воздуха"
+ #air_close_air_support_3:0 "Поддержка с воздуха"
+ 
+ #air_strategic_bombing_1:0 "Стратег. бомб-ки"
+ #air_strategic_bombing_2:0 "Стратег. бомб-ки"
+ #air_strategic_bombing_3:0 "Стратег. бомб-ки"
+ 
+ #air_tactical_bombing_1:0 "Тактич. бомб-ки"
+ #air_tactical_bombing_2:0 "Тактич. бомб-ки"
+ #air_tactical_bombing_3:0 "Тактич. бомб-ки"
+ 
+ #air_airborne_1:0 "Атака ВДВ"
+ #air_airborne_2:0 "Атака ВДВ"
+ #air_airborne_3:0 "Атака ВДВ"
+ 
+### Naval ###
+ #navy_chief_naval_aviation_1:0 "Морская авиация"
+ #navy_chief_naval_aviation_2:0 "Морская авиация"
+ #navy_chief_naval_aviation_3:0 "Морская авиация"
+ 
+ #navy_chief_decisive_battle_1:0 "Доктрина решающей битвы"
+ #navy_chief_decisive_battle_2:0 "Доктрина решающей битвы"
+ #navy_chief_decisive_battle_3:0 "Доктрина решающей битвы"
+ 
+ #navy_chief_commerce_raiding_1:0 "Доктрина рейдов"
+ #navy_chief_commerce_raiding_2:0 "Доктрина рейдов"
+ #navy_chief_commerce_raiding_3:0 "Доктрина рейдов"
+ 
+ #navy_chief_reform_1:0 "Морской реформатор"
+ #navy_chief_reform_2:0 "Морской реформатор"
+ #navy_chief_reform_3:0 "Морской реформатор"
+ 
+ #navy_chief_maneuver_1:0 "Морские маневры"
+ #navy_chief_maneuver_2:0 "Морские маневры"
+ #navy_chief_maneuver_3:0 "Морские маневры"
+ 
+ #navy_anti_submarine_1:0 "Анти-подлодки"
+ #navy_anti_submarine_2:0 "Анти-подлодки"
+ #navy_anti_submarine_3:0 "Анти-подлодки"
+ 
+ #navy_naval_air_defense_1:0 "Защита от авиации"
+ #navy_naval_air_defense_2:0 "Защита от авиации"
+ #navy_naval_air_defense_3:0 "Защита от авиации"
+ 
+ #navy_fleet_logistics_1:0 "Логистика флота"
+ #navy_fleet_logistics_2:0 "Логистика флота"
+ #navy_fleet_logistics_3:0 "Логистика флота"
+ 
+ #navy_amphibious_assault_1:0 "Десант"
+ #navy_amphibious_assault_2:0 "Десант"
+ #navy_amphibious_assault_3:0 "Десант"
+ 
+ #navy_submarine_1:0 "Доктрина подводной войны"
+ #navy_submarine_2:0 "Доктрина подводной войны"
+ #navy_submarine_3:0 "Доктрина подводной войны"
+ 
+ #navy_capital_ship_1:0 "Доктрина главного флота"
+ #navy_capital_ship_2:0 "Доктрина главного флота"
+ #navy_capital_ship_3:0 "Доктрина главного флота"
+ 
+ #navy_screen_1:0 "Доктрина эскорта"
+ #navy_screen_2:0 "Доктрина эскорта"
+ #navy_screen_3:0 "Доктрина эскорта"
+ 
+ #navy_carrier_1:0 "Доктрина авианосцев"
+ #navy_carrier_2:0 "Доктрина авианосцев"
+ #navy_carrier_3:0 "Доктрина авианосцев"
+ 
+ black_monday:0 "Чорний Понеділок"
+ 
+ jet_aircraft_manufacturer:0 "Виробник реактивних винищувачів"
+ 
+### Generic Focus Localisation ###
+ generic_focus:0 "Национальный фокус"
+### Generic Ideas ###
+ generic_liberty_idea:0 "Дух свободы"
+ generic_liberty_idea_desc:0 "Нам дорого далась наша свобода и даже если народ не всегда согласен с нашей политикой, мы можем на него положиться."
+ generic_militarism_focus:0 "Милитаризм"
+ generic_militarism_focus_desc:0 "Народ жаждет видеть армию как естественную часть государства, и каждый призывник знает свою задачу. Это позволяет нам мобилизовать людские резервы в моменты отчаянной нужды."
+ generic_military_youth_focus:0 "Милитаризация молодежи"
+ generic_military_youth_focus_desc:0 "С пелёнок наши граждане живут по военным законам и успешно вписывают их в повседневную жизнь, что, конечно, увеличивает количество добровольцев, желающих стать частью нашей армии."
+ generic_ideological_fanaticism_focus:0 "Идеологическая обработка"
+ generic_ideological_fanaticism_focus_desc:0 "Наша страна — идеологический центр, наша идеология — основа страны. Когда другие в страхе бежали бы, наши граждане будут сражаться до конца."
+ generic_liberty_research_idea:0 "Университетские гранты"
+ generic_liberty_research_idea_desc:0 "Мы платим умеренные, но вполне хорошие стипендии, чтобы каждый подающий надежды студент мог спокойно учиться. Это точно увеличит количество интеллектуалов в нашей стране"
+ generic_welfare_idea:0 "Социальные гарантии"
+ generic_welfare_idea_desc:0 "Мы заботимся о том, чтобы беднейшие слои населения получали необходимую помощь и им не приходилось выживать. Однажды они отплатят нам за нашу щедрость."
+ 
+### Generic Focuses ###
+ generic_army_effort:0 "Развитие армии"
+ generic_army_effort_desc:0 "Несмотря на все новые возможности ведения боевых действий на море и в воздухе, сухопутные войска остаются ключевым элементом войны. При должной подготовке мы сумеем избежать прежнего ада в траншеях."
+ generic_equipment_effort:0 "Развитие снаряжения"
+ generic_equipment_effort_desc:0 "Есть предел тому, какой вес может нести на себе солдат. Мы сосредоточим все усилия на обеспечении армии лучшим снаряжением."
+ generic_motorization_effort:0 "Развитие автотранспорта"
+ generic_motorization_effort_desc:0 "Основные характеристики транспортных средств для пехоты - манёвренность и защищённость. Сосредоточившись на развитии в этом направлении, мы сможем быстрее перебрасывать войска в бой."
+ generic_doctrine_effort:0 "Развитие доктрин"
+ generic_doctrine_effort_desc:0 "Военные доктрины Вельткрига, определявшие методы ведения наземного боя, безнадёжно устарели. Наши лучшие умы должны разработать новые тактики и стратегии."
+ generic_equipment_effort_2:0 "Развитие снаряжения II"
+ generic_equipment_effort_2_desc:0 "Мы будем и дальше прилагать все усилия к тому, чтобы наша пехота и войска поддержки были обеспечены наилучшим образом."
+ generic_mechanization_effort:0 "Развитие механизации"
+ generic_mechanization_effort_desc:0 "Всесторонне развивая моторизированную пехоту, мы научимся создавать самые совершенные транспортные средства."
+ generic_doctrine_effort_2:0 "Развитие доктрины II"
+ generic_doctrine_effort_2_desc:0 "Представление о ведении боевых действий изменилось не только за период между мировыми войнами, но и в ходе недавних конфликтов. Мы должны постоянно совершенствовать свою доктрину с учётом нового опыта."
+ generic_equipment_effort_3:0 "Развитие снаряжения III"
+ generic_equipment_effort_3_desc:0 "Хватит копировать чужие образцы и закупать снаряжение за рубежом! Мы должны стать ведущим мировым производителем пехотного оружия."
+ generic_armor_effort:0 "Развитие бронетехники"
+ generic_armor_effort_desc:0 "Применив знания, полученные в ходе моторизации нашей пехоты, мы также можем усовершенствовать бронетехнику."
+ generic_special_forces:0 "Развитие спецназа"
+ generic_special_forces_desc:0 "Нам необходимы элитные войска; приоритетной задачей должно стать создание горно-стрелковых и воздушно-десантных подразделений."
+ 
+ generic_aviation_effort:0 "Развитие авиации"
+ generic_aviation_effort_tt:0 "Недостаточно стройплощадок для §Yавиабаз§!"
+ generic_aviation_effort_desc:0 "Война в воздухе — это направление, где научно-технический прогресс растёт стремительными темпами. Любая современная держава обязана развивать авиацию."
+ generic_fighter_focus:0 "Ставка на истребители"
+ generic_fighter_focus_desc:0 "Вельткриг научил нас манёвренному воздушному бою, но это было только начало. Чтобы сохранить преимущество в будущем, мы должны создавать самые современные истребители."
+ generic_bomber_focus:0 "Ставка на бомбардировщики"
+ generic_bomber_focus_desc:0 "Когда люди будущего станут говорить об ужасах сегодняшних войн, они вспомнят огонь, падающий с неба. Мы должны сделать всё для того, чтобы такие воспоминания остались только у наших врагов."
+ generic_aviation_effort_2:0 "Развитие авиации II"
+ generic_aviation_effort_2_desc:0 "Необходимо совершенствовать военно-воздушные силы, чтобы координировать их действия с другими родами войск."
+ generic_CAS_effort:0 "Развитие штурмовиков"
+ generic_CAS_effort_desc:0 "Современная армия нуждается в поддержке не только на земле, но и в воздухе."
+ generic_rocket_effort:0 "Развитие ракет"
+ generic_rocket_effort_desc:0 "Ракеты и реактивные двигатели позволяют пилотируемым и беспилотным летательным аппаратам достигать очень высоких скоростей. Прогресс в этой области даст нам возможность заставать врага врасплох."
+ generic_NAV_effort:0 "Развитие аэронавигации"
+ generic_NAV_effort_desc:0 "В новые времена война на море ведётся и под водой, и в воздухе над водной поверхностью."
+ 
+ generic_naval_effort:0 "Развитие военно-морского флота"
+ generic_naval_effort_tt:0 "Недостаточно стройплощадок для §Yверфей§!"
+ generic_naval_effort_desc:0 "Развитие флота должно стать для нас приоритетной задачей. Нужно направить все доступные ресурсы на строительство новых верфей и развитие лёгких надводных кораблей."
+ generic_flexible_navy:0 "ВМФ на основе многоцелевых судов"
+ generic_flexible_navy_desc:0 "Новая тактика ведения войны на море с учётом применения подводных лодок позволит эффективнее наносить удары по вражеским конвоям."
+ generic_large_navy:0 "ВМФ на основе крупных судов"
+ generic_large_navy_desc:0 "Включение крупных судов в нашу доктрину морской войны и обеспечение безопасности торговых конвоев покажет, какие типы кораблей нам нужнее всего."
+ generic_submarine_effort:0 "Развитие подводных лодок"
+ generic_submarine_effort_desc:0 "Война с использованием субмарин стала особенно перспективным направлением с момента появления торпедных катеров. Нам нужно научиться не только защищаться от подлодок противника, но и использовать их против вражеских кораблей."
+ generic_cruiser_effort:0 "Развитие крейсеров"
+ generic_cruiser_effort_desc:0 "Прежде чем заниматься продвинутыми разработками линкоров, нам нужно заменить устаревшие крейсеры."
+ generic_destroyer_effort:0 "Развитие эсминцев"
+ generic_destroyer_effort_desc:0 "Конструируя подводные лодки и изучая методы их применения, мы научились противостоять данной тактике ведения боя. Эсминцы для этого жизненно необходимы."
+ generic_capital_ships_effort:0 "Развитие крупных кораблей"
+ generic_capital_ships_effort_desc:0 "Держава, обладающая самым крупным флотом, будет править морями. Линкоры и авианосцы представляют старый и новый подходы к концепции господства на море."
+ 
+ generic_industrial_effort:0 "Развитие промышленности"
+ generic_industrial_effort_desc:0 "Все политические усилия следует сосредоточить на обеспечении развития промышленности мирного назначения."
+ generic_construction_effort:0 "Развитие строительства"
+ generic_construction_effort_tt:0 "Недостаточно стройплощадок для §Yфабрик§!"
+ generic_construction_effort_desc:0 "Не следует недооценивать гражданскую промышленность, даже когда надвигается мировая война."
+ generic_production_effort:0 "Развитие вооружения"
+ generic_production_effort_tt:0 "Недостаточно стройплощадок для §Yвоенных заводов§!"
+ generic_production_effort_desc:0 "Кто умеет делать тракторы сумеет делать и танки! Мы не можем допустить отставания военной промышленности."
+ generic_construction_effort_2:0 "Развитие строительства II"
+ generic_construction_effort_2_desc:0 "Мы должны усовершенствовать фабрики чтобы ускорить производство товаров и обеспечить дальнейшее строительство."
+ generic_production_effort_2:0 "Развитие вооружения II"
+ generic_production_effort_2_desc:0 "Не стоит пытаться перестроить фабрики на выпуск военной продукции. Мы должны сосредоточиться на развитии военной промышленности как таковой."
+ generic_production_effort_3:0 "Развитие вооружения III"
+ generic_production_effort_3_desc:0 "Необходимо и дальше совершенствовать военные заводы для производства самой современной военной техники."
+ generic_infrastructure_effort:0 "Развитие инфраструктуры"
+ generic_infrastructure_effort_desc:0 "Страна без соответствующей инфраструктуры не может заниматься продвинутыми исследованиями и строительством."
+ generic_infrastructure_effort_tt:0 "Недостаточно стройплощадок для §Yинфраструктуры§!"
+ generic_synth_oil_effort_tt:0 "Недостаточно стройплощадок для здания §YСинтетический нефтеперерабатывающий завод§!"
+ generic_infrastructure_effort_2:0 "Развитие инфраструктуры II"
+ generic_infrastructure_effort_2_desc:0 "Необходимо расширять инфраструктуру, развивая транспорт и средства связи для работы над высокотехнологичными секретными проектами."
+ generic_construction_effort_3:0 "Развитие строительства III"
+ generic_construction_effort_3_desc:0 "Расширение нашей инфраструктуры открыло для нас новые возможности в строительной сфере."
+ 
+ generic_extra_tech_slot:0 "Доп. ячейка для исследований"
+ generic_extra_tech_slot_desc:0 "Развитие промышленности и другие открытия последнего времени позволяют нам вести параллельные научно-технические исследования."
+ generic_extra_tech_slot_2:0 "Доп. ячейка для исследований II"
+ generic_extra_tech_slot_2_desc:0 "Быстрая индустриализация нашей страны открыла новые возможности для технических исследований, которыми нам стоит воспользоваться."
+ generic_technology_sharing:0 "Обмен технологиями"
+ generic_technology_sharing_desc:0 "Обмен новейшими технологиями с союзниками повысит эффективность военно-научных исследований всего нашего альянса."
+ generic_secret_weapons:0 "Секретное оружие"
+ generic_secret_weapons_desc:0 "Направить все свободные ресурсы на строительство танков и самолётов - это заманчиво, однако победу в войне способны обеспечить лишь новейшие научные направления: электроника, ракетостроение и атомная энергетика."
+ 
+ generic_political_effort:0 "Развитие политики"
+ generic_political_effort_desc:0 "Чтобы изменить мир вокруг нас, мы должны сперва изменить собственную страну. Начать стоит с укрепления своих политических позиций."
+ generic_collectivist_ethos_kr:0 "Объединить страну"
+ generic_collectivist_ethos_kr_desc:0 "Мы живём в поистине странное время. Синдикализм с каждым днем набирает силу, демократия стремительно теряет сторонников, и всё больше стран возвращаются к старым авторитарным порядкам. Нам необходимо защитить страну от иностранного влияния и заставить каждого гражданина поверить в идеалы, на которых держится наша страна, иначе грозит катастрофа."
+ generic_militarism:0 "Милитаризм"
+ generic_militarism_desc:0 "Те, кто рассматривает армию лишь как необходимое зло, будут колебаться - вступать в войну или нет. Мы сделаем милитаризм частью своей культуры и станем нацией воинов, если не армией с государством. Если мы что и поняли по окончанию Вельткрига, так это то, что это была не последняя война."
+ generic_military_youth:0 "Милитаризация молодёжи"
+ generic_military_youth_desc:0 "Организации, призванные заниматься поддержанием дисциплины и политическим образованием молодёжи, будут с ранних лет воспитывать её в духе преданности и самопожертвования. Эти основные ценности должны быть впитаны с молоком матери, чтобы следующее поколение без раздумий шло в бой."
+ generic_ideological_fanaticism:0 "Идеологическая обработка"
+ generic_ideological_fanaticism_desc:0 "Поскольку наша идеология является истинной, её следует преподносить как религиозную веру, где каждый верующий должен быть готов умереть за убеждения, как, впрочем, и все иноверцы. Никакого компромисса в этой борьбе не будет."
+ generic_liberty_ethos_kr:0 "Дух свободы"
+ generic_liberty_ethos_kr_desc:0 "Свобода не счастливая случайность, за свободу нужно сражаться. Вельткриг и опасные идеи синдикализма поставили саму основу свободы под сомнение, но нет той страны, что не могла бы завоевать умы и сердца народа и нести свободу всему миру."
+ generic_rights_of_man:0 "Права человека"
+ generic_rights_of_man_desc:0 "Современная демократия стоит на правах человека, провозглашающих равенство всех людей. Странные сомнения в нашей верности этим принципам сопровождали нашу историю, но мы их безжалостно развеем. И только светлое будущее нас ждёт."
+ generic_liberty_research:0 "Университетские гранты"
+ generic_liberty_research_desc:0 "Современная система высшего образования, позволяющая людям даже самого скромного происхождения возвыситься за счет образования, — великое достижение. Но эта система требует грантов, которые позволят бедным, но подающим надежды студентам учиться. Обеспечив университеты грантами, мы гарантируем себе будущее, полное прогресса."
+ generic_welfare:0 "Социальные гарантии"
+ generic_welfare_desc:0 "Равенство прав и равенство перед законом — основа нашего общества, но самым трудным для достижения является экономическое равенство. Мы вряд ли когда-нибудь достигнем полного равенства в этой области, но можно обеспечить самым бедным слоям нашего общества социальные гарантии. Это также поможет нашей экономике."
+ generic_national_identity:0 "Национальная идентичность"
+ generic_national_identity_desc:0 "Мы проигрывали в идеологических спорах на протяжении многих лет, но зато мы не забыли, кто мы есть на самом деле. Мы уникальны, мы знаем нашу историю, нашу культуру, и в будущем нас ждёт только успех."
+
+ ### Debug Tag ###
+ XXA:0 "Debug Tag"
+ XXA_ADJ:0 "Debug"
+ XXA_DEF:0 "the Debug Tag"

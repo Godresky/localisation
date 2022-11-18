@@ -1,0 +1,146 @@
+﻿l_russian:
+
+### Country Names ###
+ MNT:0 "Чорногорія"
+ MNT_ADJ:0 "Чорногорськ"
+ MNT_DEF:0 "Чорногорія"
+ MNT_totalist:0 "Соціалістична Республіка Чорногорія"
+ MNT_totalist_ADJ:0 "Чорногорськ"
+ MNT_totalist_DEF:0 "Соціалістична Республіка Чорногорія"
+ MNT_syndicalist:0 "Соціалістична Республіка Чорногорія"
+ MNT_syndicalist_ADJ:0 "Чорногорськ"
+ MNT_syndicalist_DEF:0 "Соціалістична Республіка Чорногорія"
+ MNT_radical_socialist:0 "Соціалістична Республіка Чорногорія"
+ MNT_radical_socialist_ADJ:0 "Чорногорськ"
+ MNT_radical_socialist_DEF:0 "Соціалістична Республіка Чорногорія"
+
+### Parties ###
+ MNT_totalist_party:0 "ЛКЧ"
+ MNT_totalist_party_long:0 "Ліга комуністів Чорногорії"
+ MNT_syndicalist_party:0 "ЦПР"
+ MNT_syndicalist_party_long:0 "Центральна профспілка робітників"
+ MNT_radical_socialist_party:0 "СРП"
+ MNT_radical_socialist_party_long:0 "Соціалістична робоча партія"
+ MNT_social_democrat_party:0 "СДПЧ"
+ MNT_social_democrat_party_long:0 "Соціал-демократична партія Чорногорії"
+ MNT_social_liberal_party:0 "ЧФП"
+ MNT_social_liberal_party_long:0 "Чорногорська федералістська партія"
+ MNT_market_liberal_party:0 "ДП"
+ MNT_market_liberal_party_long:0 "Демократична партія"
+ MNT_social_conservative_party:0 "НП"
+ MNT_social_conservative_party_long:0 "Народна партія"
+ MNT_authoritarian_democrat_party:0 "ДРЧ"
+ MNT_authoritarian_democrat_party_long:0 "Державна рада Чорногорії"
+ MNT_paternal_autocrat_party:0 "ІНП"
+ MNT_paternal_autocrat_party_long:0 "Істинно народна партія"
+ MNT_national_populist_party:0 "ОСМ"
+ MNT_national_populist_party_long:0 "Об'єднана сербська молодь"
+ 
+ ### Events ###
+
+ mnt.1.t:0 "Реставрация Петрович-Негоша"
+ mnt.1.d:0 "Реставрация Петрович-Негоша"
+ mnt.1.a:0 "Реставрация Петрович-Негоша"
+
+### National ideas ###
+
+ MNT_independent_montenegro:0 "Čojstvo i Junaštvo"
+ MNT_independent_montenegro_desc:0 "«Мужество и героизм» - этический идеал черногорской культуры, описанный Марко Милянов. Черногорцы просты и скромны, но не стесняются защищать тех, кого нужно защищать и храбрость в самые суровые времена. На протяжении веков горные черногорские племена сопротивлялись захватчикам повсюду, а их скромные хайдучи воплощали в себе идеал Мужественности и Героизма."
+ MNT_peasant_cooperatives1:0 "Крестьянские кооперативы"
+
+ MNT_free_education1:0 "Бесплатное образование"
+
+ MNT_for_the_honour1:0 "За право, честь и свободу Черногории"
+
+ MNT_opium1:0 "Опиумная прибыль"
+
+ MNT_serbophobia1:0 "Сербофобия"
+
+### Focuses ###
+
+ montenegro_focus:0 "Фокусы Черногории"
+ MNT_socialist:0 "Социалистическая Черногория"
+ MNT_connection_to_the_people:0 "Связь с народом"
+ MNT_national_equality:0 "Национальное равенство"
+ MNT_agrarian_reform:0 "Аграрная реформа"
+ MNT_industrialisation:0 "Рудник Никшич"
+ MNT_democratic:0 "Демократическая Черногория"
+ MNT_land_reform:0 "Земельная реформа"
+ MNT_peasant_cooperatives:0 "Крестьянские кооперативы"
+ MNT_free_education:0 "Бесплатное образование"
+ MNT_equality_of_religion:0 "Равноправие религии"
+ MNT_reactionary:0 "Традиционная Черногория"
+ MNT_legacy_of_greens:0 "Наследие зеленых"
+ MNT_for_the_honour:0 "Za pravo, cast i slobodu Crne Gore"
+ MNT_serbophobia:0 "Сербофобия"
+ MNT_montenegrin_nationalism:0 "Черногорский национализм"
+ MNT_army:0 "Армия Черногории"
+ MNT_memories_of_christmas_uprising:0 "Воспоминания о Рождественском восстании"
+ MNT_lessons_of_balkan_war:0 "Уроки Балканской войны"
+ MNT_arms_modernisation:0 "Модернизация вооружения"
+ MNT_artillery_modernisation:0 "Модернизация артиллерии"
+ MNT_arms_industry:0 "Оружейная промышленность"
+ MNT_start_of_an_airforce:0 "Рождение ВВС"
+ MNT_economy:0 "Экономика Черногории"
+ MNT_farming_subsidies:0 "Субсидии фермерским хозяйствам"
+ MNT_opium:0 "Опиумные фермы"
+ MNT_wood_industry:0 "Экспорт древесины"
+ MNT_beer:0 "Пивоварня Trebjesa"
+ MNT_railways:0 "Линия Подгорица - Никшич"
+ MNT_port:0 "Порт Бар"
+ MNT_powerplant:0 "Elektroprivreda Crne Gore"
+ MNT_research:0 "Университет Черногории"
+
+### Decisions Categories ###
+
+ MNT_port_decisions:0 "Наше окно в мир"
+
+### Decisions ###
+
+ MNT_connect_to_port:0 "Соединить порт с железной дорогой"
+ MNT_coastal_facilities:0 "Капитальный ремонт береговых сооружений"
+ MNT_merchant_navy:0 "Собрать торговый флот"
+
+### Characters ###
+ MNT_blazo_jovanovic: "Blažo Jovanović"
+ MNT_sekula_drljevic: "Sekula Drljević"
+ MNT_krsto_popovic: "Krsto Popović"
+ MNT_pavle_durisic: "Pavle Đurišić"
+ MNT_mitar_martinovic: "Mitar Martinović"
+ MNT_mihailo_petrovic_njegos: "Mihailo I"
+ MNT_novica_radovic: "Novica Radović"
+ MNT_milovan_djilas: "Milovan Djilas"
+ MNT_vasilija_vukotic: "Vasilija Vukotić"
+ MNT_jovan_plamenac: "Jovan Plamenac"
+ MNT_lazar_mijuskovic: "Lazar Mijušković"
+ MNT_gavrilo_dozic: "Gavrilo Dožić"
+ MNT_ljubomir_vuksanovic: "Ljubomir Vuksanović"
+ MNT_andrija_radovic: "Andrija Radović"
+ MNT_arso_jovanovic: "Arso Jovanović"
+ MNT_blazo_dukanovic: "Blažo Đukanović"
+ MNT_bajo_stanisic: "Bajo Stanišić"
+ MNT_army_reform_group: "Army Reform Group"
+ 
+ ### Cosmetic Tag ###
+
+ MTN_kingdom_social_democrat:0 "Королівство Чорногорія"
+ MTN_kingdom_social_democrat_ADJ:0 "Чорногорськ"
+ MTN_kingdom_social_democrat_DEF:0 "Королівство Чорногорія"
+ MTN_kingdom_social_liberal:0 "Королівство Чорногорія"
+ MTN_kingdom_social_liberal_ADJ:0 "Чорногорськ"
+ MTN_kingdom_social_liberal_DEF:0 "Королівство Чорногорія"
+ MTN_kingdom_market_liberal:0 "Королівство Чорногорія"
+ MTN_kingdom_market_liberal_ADJ:0 "Чорногорськ"
+ MTN_kingdom_market_liberal_DEF:0 "Королівство Чорногорія"
+ MTN_kingdom_social_conservative:0 "Королівство Чорногорія"
+ MTN_kingdom_social_conservative_ADJ:0 "Чорногорськ"
+ MTN_kingdom_social_conservative_DEF:0 "Королівство Чорногорія"
+ MTN_kingdom_authoritarian_democrat:0 "Королівство Чорногорія"
+ MTN_kingdom_authoritarian_democrat_ADJ:0 "Чорногорськ"
+ MTN_kingdom_authoritarian_democrat_DEF:0 "Королівство Чорногорія"
+ MTN_kingdom_paternal_autocrat:0 "Королівство Чорногорія"
+ MTN_kingdom_paternal_autocrat_ADJ:0 "Чорногорськ"
+ MTN_kingdom_paternal_autocrat_DEF:0 "Королівство Чорногорія"
+ MTN_kingdom_national_populist:0 "Королівство Чорногорія"
+ MTN_kingdom_national_populist_ADJ:0 "Чорногорськ"
+ MTN_kingdom_national_populist_DEF:0 "Королівство Чорногорія"

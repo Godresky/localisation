@@ -1,0 +1,34 @@
+﻿l_russian:
+
+### Parties ###
+ SEN_totalist_party:0 "ПАД"
+ SEN_totalist_party_long:0 "Партія Анд-Джов"
+ SEN_syndicalist_party:0 "ГСТС"
+ SEN_syndicalist_party_long:0 "Генеральський союз трудящих Сенегалів"
+ SEN_radical_socialist_party:0 "СПС"
+ SEN_radical_socialist_party_long:0 "Соціалістична партія Сенегалу"
+ SEN_social_democrat_party:0 "ПНС"
+ SEN_social_democrat_party_long:0 "Партія Негритудів Сенегалу"
+ SEN_social_liberal_party:0 "ДПС"
+ SEN_social_liberal_party_long:0 "Демократична партія Сенагалу"
+ SEN_market_liberal_party:0 "СР"
+ SEN_market_liberal_party_long:0 "Союз за Республіку"
+ SEN_social_conservative_party:0 "Розвиток"
+ SEN_social_conservative_party_long:0 "Розвиток"
+ SEN_authoritarian_democrat_party:0 "Кастомаристи"
+ SEN_authoritarian_democrat_party_long:0 "Кастомаристи"
+ SEN_paternal_autocrat_party:0 "СР (А)"
+ SEN_paternal_autocrat_party_long:0 "Серерські рестовратори (Аристократи)"
+ SEN_national_populist_party:0 "СР (Н)"
+ SEN_national_populist_party_long:0 "Серерські рестовратори (Націоналісти)"
+
+### Political Leaders ###
+
+### Military Leaders ###
+
+### Characters ###
+ SEN_lamine_gueye: "Lamine Gueye"
+ SEN_blaise_diagne: "Blaise Diagne"
+ SEN_leopold_sendar_senghor: "Léopold Sédar Senghor"
+ SEN_ngalandou_diouf: "Ngalandou Diouf"
+ SEN_abdoulaye_ndiaye: "Abdoulaye N'Diaye"

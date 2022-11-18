@@ -1,0 +1,40 @@
+﻿l_russian:
+
+### Parties ###
+ CAT_totalist_party:0 "КРЛ"
+ CAT_totalist_party_long:0 "Крайні Республіканські Ліві"
+ CAT_syndicalist_party:0 "НКТ"
+ CAT_syndicalist_party_long:0 "Національна конфедерація трудящих"
+ CAT_radical_socialist_party:0 "ЄСПК"
+ CAT_radical_socialist_party_long:0 "Єдина Соціалістична Партія Каталонії"
+ CAT_social_democrat_party:0 "РЛК"
+ CAT_social_democrat_party_long:0 "Республіканська Ліва Каталонія"
+ CAT_social_liberal_party:0 "КРД"
+ CAT_social_liberal_party_long:0 "Каталонська Республіканська Дія"
+ CAT_market_liberal_party:0 "КРД"
+ CAT_market_liberal_party_long:0 "Каталонська Республіканська Дія"
+ CAT_social_conservative_party:0 "КДС"
+ CAT_social_conservative_party_long:0 "Каталонський Демократичний Союз"
+ CAT_authoritarian_democrat_party:0 "КЛ"
+ CAT_authoritarian_democrat_party_long:0 "Каталонська Ліга"
+ CAT_paternal_autocrat_party:0 "ТС"
+ CAT_paternal_autocrat_party_long:0 "Традиціоналістська Спільнота"
+ CAT_national_populist_party:0 "ТдС"
+ CAT_national_populist_party_long:0 "Тільки для себе!"
+
+### Country Names ###
+ CAT:0 "Каталонія"
+ CAT_ADJ:0 "Каталонськ"
+ CAT_DEF:0 "Каталонія"
+
+### Characters ###
+ CAT_angel_samblancat_i_salanova:0 "Анхель Самбланкат-и-Саланова"
+ CAT_joan_garcia_i_oliver:0 "Хуан Гарсиа-и-Оливер"
+ CAT_joan_comorera_i_soler:0 "Хуан Коморера-и-Солер"
+ CAT_lluis_companys_i_jover:0 "Льюис Компаньс-и-Жовер "
+ CAT_lluis_nicolau_i_dolwer:0 "Луис Николау-и-д'Ольвер"
+ CAT_joaquim_de_camps_i_arboix:0 "Жоаким де Кампс-и-Арбуа"
+ CAT_manuel_carrasco_i_formiguera:0 "Мануэль Карраско-и-Формигера"
+ CAT_francesc_cambo_i_batlle:0 "Франсеск Камбо-и-Батлье"
+ CAT_joaquim_bau_i_nolla:0 "Хоакин Бау-и-Нолья"
+ CAT_daniel_cardona_i_civit:0 "Даниэль Кардона-и-Сивит"

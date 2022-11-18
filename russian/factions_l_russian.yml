@@ -1,0 +1,6 @@
+﻿l_russian:
+ FACTION_LEADER: "Лідер альянсу: §Y$COUNTRY$§!"
+ FACTION_MEMBER: "Член альянсу: §Y$COUNTRY$§!"
+ FACTION_CREATED_UNDER_MASTER_TITLE: "Вступ в альянс метрополії"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE: "Ми вступили в альянс $FACTION|H$ услід за нашою метрополією"
+ FACTION_NAME_IDEOLOGY_DEFAULT: "Прихильники ідеології $IDEOLOGY$"

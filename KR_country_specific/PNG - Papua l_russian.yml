@@ -1,0 +1,28 @@
+﻿l_russian:
+
+### Parties ###
+ PNG_social_democrat_party:0 "СДП"
+ PNG_social_democrat_party_long:0 "Партія Соціал-Демократів"
+ PNG_social_conservative_party:0 "ПК"
+ PNG_social_conservative_party_long:0 "Партія Компасу"
+ PNG_authoritarian_democrat_party:0 "ПНП"
+ PNG_authoritarian_democrat_party_long:0 "Партія Народного прогресу"
+ PNG_paternal_autocrat_party:0 "ВУ"
+ PNG_paternal_autocrat_party_long:0 "Військовий уряд"
+ PNG_national_populist_party:0 "ПП"
+ PNG_national_populist_party_long:0 "Партія Папуа"
+ PNG_social_liberal_party:0 "НДР"
+ PNG_social_liberal_party_long:0 "Народно-Демократичний Рух"
+ PNG_market_liberal_party:0 "ЛПМ"
+ PNG_market_liberal_party_long:0 "Ліберальна Партія Меланезії"
+ PNG_radical_socialist_party:0 "СПНГ"
+ PNG_radical_socialist_party_long:0 "Соціалістична Партія Нової Гвінеї"
+ PNG_syndicalist_party:0 "РПНГ"
+ PNG_syndicalist_party_long:0 "Робоча Партія Нової Гвінеї"
+ PNG_totalist_party:0 "ПМ"
+ PNG_totalist_party_long:0 "Партія Максимістів"
+
+### Country Names ###
+ PNG:0 "Папуа"
+ PNG_ADJ:0 "Папуанськ"
+ PNG_DEF:0 "Папуа"

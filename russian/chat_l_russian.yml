@@ -1,0 +1,6 @@
+﻿l_russian:
+ CHAT_USERJOINEDCHANNEL: "Гравець $NAME$ приєднався."
+ CHAT_USERDISCONNECTED: "Гравець $NAME$ від'єднався."
+ CHAT_USERWASBANNED: "Гравець $NAME$ був виключений."
+ CHAT_USERLEFTCHANNEL: "Гравець $NAME$ покинув канал."
+ CHAT_CHANNEL_GENERAL: "Загальний"

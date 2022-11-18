@@ -1,0 +1,44 @@
+﻿l_russian:
+
+### Moving the Capital ###
+
+ ddr.1.t:0 "Поиск новой столицы"
+ ddr.1.d:0 "Из-за вражеской оккупации нашей естественной столицы Берлина, мы вынуждены выбирать альтернативу."
+ ddr.1.a:0 "Кёнигсберг всегда был нашей столицей"
+ ddr.1.b:0 "Бреслау - хороший временный выбор"
+
+### Country Names ###
+ DDR:0 "Пруссія"
+ DDR_ADJ:0 "Прусськ"
+ DDR_DEF:0 "Пруссія"
+ DDR_totalist:0 "Республіка Пруссія"
+ DDR_totalist_ADJ:0 "Прусськ"
+ DDR_totalist_DEF:0 "Республіка Пруссія"
+ DDR_syndicalist:0 "Республіка Пруссія"
+ DDR_syndicalist_ADJ:0 "Прусськ"
+ DDR_syndicalist_DEF:0 "Республіка Пруссія"
+ DDR_radical_socialist:0 "Республіка Пруссія"
+ DDR_radical_socialist_ADJ:0 "Прусськ"
+ DDR_radical_socialist_DEF:0 "Республіка Пруссія"
+
+### Parties ###
+ DDR_totalist_party:0 "СПЄ"
+ DDR_totalist_party_long:0 "Соціалістична платформа єдності"
+ DDR_radical_socialist_party:0 "ПЄКРП"
+ DDR_radical_socialist_party_long:0 "Прусська єдина селянсько-робоча партія"
+ DDR_syndicalist_party:0 "ПМО"
+ DDR_syndicalist_party_long:0 "Прусська міжнародна організація"
+ DDR_social_democrat_party:0 "СДПН"
+ DDR_social_democrat_party_long:0 "Соціал-демократична партія Німеччини"
+ DDR_social_liberal_party:0 "ПНП"
+ DDR_social_liberal_party_long:0 "Передова народна партія"
+ DDR_market_liberal_party:0 "НЛП"
+ DDR_market_liberal_party_long:0 "Націонало-ліберальна партія"
+ DDR_social_conservative_party:0 "ХВНП"
+ DDR_social_conservative_party_long:0 "Християнсько-демократична народна партія"
+ DDR_authoritarian_democrat_party:0 "НКП"
+ DDR_authoritarian_democrat_party_long:0 "Німецька консервативна партія"
+ DDR_paternal_autocrat_party:0 "ВКП"
+ DDR_paternal_autocrat_party_long:0 "Вільна консервативна партія"
+ DDR_national_populist_party:0 "ВНА"
+ DDR_national_populist_party_long:0 "Всенімецька Асоціація"

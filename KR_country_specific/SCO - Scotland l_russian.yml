@@ -1,0 +1,107 @@
+﻿l_russian:
+
+### Country Names ###
+ SCO:0 "Шотландія"
+ SCO_ADJ:0 "Шотландськ"
+ SCO_DEF:0 "Шотландія"
+ SCO_totalist:0 "Робоча Республіка Шотландія"
+ SCO_totalist_ADJ:0 "Шотландськ"
+ SCO_totalist_DEF:0 "Робоча Республіка Шотландія"
+ SCO_syndicalist:0 "Робоча Республіка Шотландія"
+ SCO_syndicalist_ADJ:0 "Шотландськ"
+ SCO_syndicalist_DEF:0 "Робоча Республіка Шотландія"
+ SCO_radical_socialist:0 "Робоча Республіка Шотландія"
+ SCO_radical_socialist_ADJ:0 "Шотландськ"
+ SCO_radical_socialist_DEF:0 "Робоча Республіка Шотландія"
+
+### Parties ###
+ SCO_totalist_party:0 "ГКЄ"
+ SCO_totalist_party_long:0 "Група Комуністичної Єдності"
+ SCO_syndicalist_party:0 "ШСП"
+ SCO_syndicalist_party_long:0 "Шотландська синдикалістська партія"
+ SCO_radical_socialist_party:0 "ШРРП"
+ SCO_radical_socialist_party_long:0 "Шотландська робоча республіканська партія"
+ SCO_social_democrat_party:0 "ШНП (Л)"
+ SCO_social_democrat_party_long:0 "Шотландська національна партія (Ліві)"
+ SCO_social_liberal_party:0 "НПШ"
+ SCO_social_liberal_party_long:0 "Національна партія Шотландії"
+ SCO_market_liberal_party:0 "ШП"
+ SCO_market_liberal_party_long:0 "Шотландська партія"
+ SCO_social_conservative_party:0 "ЮП"
+ SCO_social_conservative_party_long:0 "Юніоністська партія"
+ SCO_authoritarian_democrat_party:0 "ТУ"
+ SCO_authoritarian_democrat_party_long:0 "Тимчасовий уряд"
+ SCO_paternal_autocrat_party:0 "ДР"
+ SCO_paternal_autocrat_party_long:0 "Державна рада"
+ SCO_national_populist_party:0 "ПН"
+ SCO_national_populist_party_long:0 "Праві націоналісти"
+ SCO_authoritarian_democrat_party_snp:0 "ШНП (П)"
+ SCO_authoritarian_democrat_party_long_snp:0 "Шотландська національна партія (Праві)"
+
+### Leaders ###
+
+### Characters ###
+ SCO_workers_council: "Scottish Workers' Council"
+ SCO_james_maxton: "James Maxton"
+ SCO_roland_muirhead: "Roland Muirhead"
+ SCO_hugh_macdiarmid: "Hugh MacDiarmid"
+ SCO_john_maccormick: "John MacCormick"
+ SCO_compton_mackenzie: "Compton Mackenzie"
+ SCO_isaac_wolfson: "Isaac Wolfson"
+ SCO_walter_elliot: "Walter Elliot"
+ SCO_council_sco: "Council of State"
+ SCO_arthur_donaldson: "Arthur Donaldson"
+ SCO_john_mcgrew: "John McGrew"
+ SCO_unknown: "Unknown"
+ SCO_tom_bell: "Tom Bell"
+ SCO_david_kirkwood: "David Kirkwood"
+ SCO_george_buchanan: "George Buchanan"
+ SCO_andrew_dewar_gibb: "Andrew Dewar Gibb"
+ SCO_hector_mcneil: "Hector McNeill"
+ SCO_helen_crawfurd: "Helen Crawfurd"
+ SCO_neil_maclean: "Neil Maclean"
+ SCO_jimmy_friell: "Jimmy 'Gabriel' Friell"
+ SCO_alexander_macewan: "Alexander MacEwan"
+ SCO_robert_gray: "Robert Gray"
+ SCO_tom_gibson: "Tom Gibson"
+ SCO_john_l_kinloch: "John L. Kinloch"
+ SCO_john_reith: "John Reith"
+ SCO_william_power: "William Power"
+ SCO_edmund_hakewell_smith: "Edmund Hakewell Smith"
+ SCO_roy_urquhart: "Roy Urquhart"
+ SCO_alexander_biggam: "Alexander Biggam"
+ SCO_anthony_miers: "Anthony Miers"
+ SCO_john_inglis_gilmour: "John Inglis Gilmour"
+ SCO_malcolm_stokes: "Malcolm Stokes"
+ SCO_donald_wickeford: "Donald Wickeford"
+ SCO_edwyn_macandrew: "Edwyn MacAndrew"
+ SCO_sandy_glen: "Sandy Glen"
+ SCO_national_war_committee: "Scottish Defence Committee"
+ SCO_no_central_leadership: "No Central Leadership"
+
+### Tooltips ###
+
+### Ideas ###
+
+### Focus ###
+
+ ### Traits ###
+
+ vanguardist_worker:0 "Рабочий авангарда"
+ modest_trade_unionist:0 "Умеренный трейдюнионист"
+ old_clydesider:0 "Старый Клайдезидер"
+ pacifist_patriot:0 "Патриот-пацифист"
+ true_scotsman:0 "Настоящий шотландец"
+ the_king:0 "Король"
+ scottish_legalist:0 "Шотландский легалист"
+
+ red_scottish_suffragette:0 "Красная Суфражистка"
+ ambitious_engineer:0 "Амбициозный инженер"
+ cooperative_advocate:0 "Адвокат кооператива"
+ popular_cartoonist:0 "Популярный мультипликатор"
+ public_health_advocate:0 "Сторонник бесплатной медицины"
+ old_stonemason:0 "Старый масон"
+ steel_magnate:0 "Стальной магнат"
+ cultural_organiser:0 "Культурный организатор"
+ media_pioneer:0 "Пионер медиа"
+ 
