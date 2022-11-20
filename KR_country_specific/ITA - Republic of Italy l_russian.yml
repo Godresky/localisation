@@ -24,7 +24,7 @@
  ITA_national_populist_party: "АІН"
  ITA_national_populist_party_long: "Асоціація Італійських Націоналістів"
 
-### Companies ###
+### CompАІНes ###
  accademia_militare_milano: "Accademia Militare di Milano"
  breda: "Breda"
  beretta: "Beretta"
@@ -35,7 +35,7 @@
  franco_tosi: "Franco Tosi"
  isotta_fraschini: "Isotta Fraschini"
  bianchi: "Bianchi"
- officine_meccaniche: "Officine Meccaniche"
+ officine_meccАІНche: "Officine Meccaniche"
  accademia_navale_venezia: "Accademia Navale di Venezia"
  arsenale_venezia: "Arsenale di Venezia"
  cantiere_navale_camuffo: "Cantiere Navale Camuffo"
@@ -66,7 +66,7 @@
  ITA_austrian_influence: "Австрійський вплив"
  ITA_austrian_influence_desc: "Вплив Австрії відчувається на всіх рівнях нашої країни, від її власності на багато наших компаній до лояльності багатьох наших найвищих політиків. Невдоволення цим впливом дуже велике, бо навіть якщо вони захистили нас від синдикалістів, вони все одно відповідальні за нашу втрату у Велткрігу. Незважаючи на це, розрив зв’язків з Австрією виявиться важким і дорогим завданням."
  ITA_austrian_sanctions: "Наслідки аціоналізації"
- ITA_austrian_sanctions_desc: "Нашій економіці потрібен час, щоб оговтатися після нашого так званого «розлучення» з австрійським пануванням."
+ ITA_austrian_sanctions_desc: "Нашій економіці потрібен час, щоб оговтатися після нашого так званого "розлучення» з австрійським пануванням."
  ITA_decentralize_idea: "Економічні Можливості в Децентралізації"
  ITA_decentralize_idea_desc: "Ідеали Італійської Федерації сприяють сильній регіональній владі. Це має значно полегшити інвестування в органи місцевого самоврядування."
  ITA_increase_limit_idea: "Надзвичайний Стан"
@@ -113,22 +113,22 @@
  ITA_calling_elections_tooltip: "Вибори відбудуться пізніше цього року"
  ITA_the_general_election_has_occurred: "Відбулися загальні вибори 1937 року"
  ITA_anni_di_piombo: "Роки свинцю"
- ITA_the_ani_seized_power: "АІН взяла владу в республіці"
+ ITA_the_ANI_seized_power: "АІН взяла владу в республіці"
  ITA_republic_survives_tooltip: "Республіка зберегла свою демократію"
  ITA_monarchy_has_been_established: "Рада Федерації посилена"
  ITA_italy_has_been_united_tooltip: "Італія була об'єднана. Хай живе єдина Італія!"
- ITA_greenshirt_brigades_tooltip: "«Зелено-сорочники» захищатимуть Італію»"
+ ITA_greenshirt_brigades_tooltip: ""Зелено-сорочники» захищатимуть Італію»"
  ITA_sicgarrison_tt: "Невеликий підрозділ у Римі приєднається до нашої справи"
- ITA_austrian_kingdom: "Ми поступаємося австрійцям і перетворюємось на Італійську федерацію, якою ми є юридично».
+ ITA_austrian_kingdom: "Ми поступаємося австрійцям і перетворюємось на Італійську федерацію, якою ми є юридично."
  ITA_venetian_dissent_eliminated: "Інакомислення у Венеції було ліквідовано"
  ITA_control_any_two: "Будь-які два з §Y[158.GetName]§!, §Y[1004.GetName]§! або §Y[162.GetName]§! контролюються §Y[Root.GetNameDef]§! або суб'єктом"
  ITA_irredentist_decisions: "Може використовувати рішення §YІредентист§!, щоб претендувати на територію\n"
  ITA_supporters_raised: "§Y4§! загони партизанів будуть створені в П'ємонті та Тоскані»
  ITA_can_war_for_libya: "власник §Y[448.GetName]§! є дійсною військовою метою"
- NAME_THEME_HISTORICAL_NAUTILUS_SUBMARINES: "Історичні підводні човни класу «Наутілус»."
+ NAME_THEME_HISTORICAL_NAUTILUS_SUBMARINES: "Історичні підводні човни класу "Наутілус.""
  NAME_THEME_HISTORICAL_SLA_SUBMARINES: "Історичні підводні човни класу 'SLA'"
  NAME_THEME_HISTORICAL_FHNX_SUBMARINES: "Історичні підводні човни класу 'F/H/N/X'"
- NAME_THEME_HISTORICAL_GIACINTO_SUBMARINES: "Історичні підводні човни класу «Джачінто»."
+ NAME_THEME_HISTORICAL_GIACINTO_SUBMARINES: "Історичні підводні човни класу "Джачінто.""
  NAME_THEME_HISTORICAL_SEI_SUBMARINES: "Історичні підводні човни класу SEI"
  NAME_THEME_POPES: "Папи"
  ITA_generals_still_remain: "Все ще є генерали\n"
@@ -233,14 +233,14 @@
  ITA_union_ties_desc: "У той час як багато профспілок підтримали соціалістичне повстання, Ліберально-Демократична Партія тісно співпрацювала з поміркованими профспілками, щоб зміцнити владу нашої республіки під час її бурхливих перших днів. Ми повинні підтвердити нашу відданість продовженню співпраці з профспілками."
  ITA_christian_democracy: "Християнська демократія"
  ITA_christian_democracy_desc: "Християнство підтримує співчуття до людства та встановлює здорові моральні принципи. Ці цінності є невід’ємною частиною демократії нашої нації та мають офіційно стати кредо нашої партії."
- ITA_ubranization: "Урбанізація"
- ITA_ubranization_desc: "Наші міста стагнували через несприятливе завершення світової війни та руйнівні наслідки Громадянської війни, а разом з ними наша промислова потужність також знизилася. Оскільки Чорний понеділок закінчився, ми тепер маємо можливість відновити наші промислові центри і розпочати урбанізацію."
+ ITA_ubrАІНzation: "Урбанізація"
+ ITA_ubrАІНzation_desc: "Наші міста стагнували через несприятливе завершення світової війни та руйнівні наслідки Громадянської війни, а разом з ними наша промислова потужність також знизилася. Оскільки Чорний понеділок закінчився, ми тепер маємо можливість відновити наші промислові центри і розпочати урбанізацію."
  ITA_stable_democracy: "Стабільна демократія"
  ITA_stable_democracy_desc: "Економічна криза добігла кінця, і екстремістські політичні виклики подолано. Італійська демократія тепер функціонує як ніколи раніше, і наша нація стала помітно стабільнішою."
 
-### ANI Path ###
- ITA_ani_elected: "АІН у влади"
- ITA_ani_elected_desc: "Асоціація Італійських Націоналістів взяла владу в Республіці та почала перетворювати Італію на державу легіонерів, оскільки вони обіцяють знищити всіх ворогів Італії та повернути Італії велич».
+### АІН Path ###
+ ITA_АІН_elected: "АІН у влади"
+ ITA_АІН_elected_desc: "Асоціація Італійських Націоналістів взяла владу в Республіці та почала перетворювати Італію на державу легіонерів, оскільки вони обіцяють знищити всіх ворогів Італії та повернути Італії велич."
  ITA_purge_red_meance: "Очищення червоної загрози"
  ITA_purge_red_meance_desc: "Демократія — це обман, а її інституції нездатні протистояти соціалістичному проникненню. Усі державні службовці мають бути всебічно оцінені, і якщо можна виявити будь-який зв’язок із соціалістичною організацією будь-якого роду, вони мають бути негайно усунені зі своїх посад. "
  ITA_italian_militerism: "Італійський мілітаризм"
@@ -275,8 +275,8 @@
  ITA_state_intervention_desc: "Вільний ринок явно зазнав краху, бо якби він був успішним, ліберали залишилися б при владі. Лише через державне втручання ми можемо покласти край падінню наших ринків."
  ITA_build_legitimacy: "Створення легітимності"
  ITA_build_legitimacy_desc: "Для багатьох італійська федерація була в їхньому житті не більше ніж іноземним нав’язуванням. Вони розглядають наш уряд як нерелевантний анахронізм, який незабаром впаде. Ми повинні запевнити їх, що це не так."
- ITA_fight_republicanism: "Боротися з республіканізмом"
- ITA_fight_republicanism_desc: "Тепер ми маємо політичний вплив, щоб активніше боротися з впливом республіканців у нашому уряді. За допомогою політичного маневрування можна виправдати звільнення головою Федерації найбільш ворожих республіканських політиків."
+ ITA_fight_republicANIsm: "Боротися з республіканізмом"
+ ITA_fight_republicАNIsm_desc: "Тепер ми маємо політичний вплив, щоб активніше боротися з впливом республіканців у нашому уряді. За допомогою політичного маневрування можна виправдати звільнення головою Федерації найбільш ворожих республіканських політиків."
  ITA_traditional_values: "Традиційні цінності"
  ITA_traditional_values_desc: "Революційні ідеали, які поширилися в усьому світі, є огидними та порушують мораль. Ми повинні стати оплотом традиціоналізму в Європі."
  ITA_church_ties: "Церковні зв'язки"
@@ -374,7 +374,7 @@
  ITA_create_paratroopers: "Реформуйте Arditi"
  ITA_create_paratroopers_desc: "Arditi представляють найкраще, що може запропонувати Італія. Ці елітні підрозділи спеціалізуються на проникненні, особливо за допомогою нетрадиційних засобів і в суворих умовах. Давайте реорганізуємо Arditi, щоб краще представляти роль сил спеціального призначення в сучасній війні, яка швидко розвивається."
  ITA_high_command_reform: "Реформи верховного командування"
- ITA_high_command_reform_desc: "Верховне командування італійських військ залишилося розколотим через поділ самої землі. Проте з того часу його структура залишилася незмінною. Давайте реорганізуємо Верховне командування відповідно до вимог нашої поточної ситуації».
+ ITA_high_command_reform_desc: "Верховне командування італійських військ залишилося розколотим через поділ самої землі. Проте з того часу його структура залишилася незмінною. Давайте реорганізуємо Верховне командування відповідно до вимог нашої поточної ситуації."
  ITA_italian_armored_cars: "Італійські броньовані автомобілі"
  ITA_italian_armored_cars_desc: "Броньовані автомобілі виявилися ефективними під час Світової війни як спосіб підвищити мобільність військ, так і забезпечити дешеву та ефективну вогневу підтримку. Оскільки наша армія тепер зосереджена на мобільності, наші броньовані автомобілі також повинні бути переобладнані, а їх доктрина змінена, щоб краще відповідати цьому новому стиль бою."
  ITA_cruiser_tanks: "Крейсерські танки"
@@ -411,41 +411,41 @@
  ITA_defend_the_coast_desc: "Новий військово-морський флот має бути орієнтований на захист нашого узбережжя та знищення ворожого торгового флоту."
  ITA_subs: "Італійські підводні човни"
  ITA_subs_desc: "Підводні човни були використані Німеччиною з великим успіхом у Велткригу. Ми повинні мати власний підводний флот, щоб наш флот був ефективним."
- ENG_destroyers: "Італійська берегова охорона"
+ ITA_destroyers: "Італійська берегова охорона"
  ITA_destroyers_desc: "Потрібно створити нову гілку ВМС, яка буде зосереджена на захисті наших територіальних вод."
- ENG_light_cruisers: "Легкі крейсери"
+ ITA_light_cruisers: "Легкі крейсери"
  ITA_light_cruisers_desc: "Легкі крейсери — це універсальні платформи підтримки, які можуть значною мірою допомогти великим і малим кораблям."
- ENG_reenforce_the_coast: "Зміцнення узбережжя"
+ ITA_reenforce_the_coast: "Зміцнення узбережжя"
  ITA_reenforce_the_coast_desc: "Північне узбережжя Адріатичного моря є нашою рятівною лінією до світових ринків, тому ми не можемо дозволити йому потрапити в руки ворога. Ми повинні побудувати нові берегові укріплення, щоб жоден ворог не висадився на цих берегах."
  ITA_republican_marines: "Розширити бригаду Сан-Марко»
  ITA_republican_marines_desc: "Щоб вести війну на чужих берегах або висадитися за лінією ворога та порушити його організацію, нам потрібно буде інвестувати в нове десантне обладнання та методи навчання."
- ENG_rule_the_seas: "Пануй над морями"
+ ITA_rule_the_seas: "Пануй над морями"
  ITA_rule_the_seas_desc: "Наш флот тепер принаймні дорівнює старій Regia Marina, і він повністю готовий захищати Італію та обрушуватися на її ворогів, як велика хвиля."
 
 ### Military Air Force Focuses ###
  ITA_establish_anr: "Aeronautica Nazionale Italiana"
  ITA_establish_anr_desc: "Наші невеликі військово-повітряні сили складаються з волонтерів, які використовують ту невелику кількість літаків, які можна зібрати з іноземних надлишків. Ми повинні створити офіційні військово-повітряні сили та підготуватися до навчання нових пілотів."
- ENG_pilot_training: "Навчання пілотів"
+ ITA_pilot_training: "Навчання пілотів"
  ITA_pilot_training_desc: "Добровольці, які зараз складають основну частину наших військових пілотів, здебільшого колишні ентузіасти-любителі з достатніми навичками в повітрі. Ми повинні залучити цих досвідчених пілотів до роботи, щоб створити режим навчання для нових пілотів."
- ENG_upgrade_air_ports: "Оновити аеропорти"
+ ITA_upgrade_air_ports: "Оновити аеропорти"
  ITA_upgrade_air_ports_desc: "Для розміщення справжніх військово-повітряних сил різні невеликі цивільні аеродроми, які всіяні сільською місцевістю, мають бути націоналізовані та розширені."
  ITA_aviation_industry: "Авіаційна промисловість"
  ITA_aviation_industry_desc: "Італійські виробники літаків загальмували турбулентність, яка охопила півострів після закінчення Великої Вітчизняної війни. Щоб повернути їх до рівня іноземним компаніям, вони повинні були підтримати."
- ENG_army_air_support: "Стратегічний фокус"
+ ITA_army_air_support: "Стратегічний фокус"
  ITA_army_air_support_desc: "Наші військово-повітряні сили мають бути зосереджені на завданні шкоди промисловості та військовому потенціалу супротивника — наступ є ключовим, а не захист."
- ENG_bomber_efforts: "Зусилля бомбардувальника"
+ ITA_bomber_efforts: "Зусилля бомбардувальника"
  ITA_bomber_efforts_desc: "Щоб справді допомогти армії, наші повітряні сили повинні бути здатні знищити укріплені позиції та порушити інфраструктуру противника. Щоб досягти цього, ми повинні зосередитися на розробці нових тактичних і стратегічних бомбардувальників."
- ENG_air_supremcy: "Перевага в повітрі"
+ ITA_air_supremcy: "Перевага в повітрі"
  ITA_air_supremcy_desc: "Небо має бути вільним від ворогів, а наші армії не повинні перешкоджати ворожій авіації. Наші повітряні сили повинні бути зосереджені насамперед на встановленні та підтриманні контролю над повітрям."
  ITA_fighter_support: "Підтримка винищувачів"
  ITA_fighter_support_desc: "Винищувачі є основою будь-яких військово-повітряних сил, і щоб отримати контроль над небом, ми повинні розробити нові моделі."
- ENG_parachutists: "Парашутисти"
+ ITA_parachutists: "Парашутисти"
  ITA_paracadutisi_desc: "Десантники — це новий тип загону, який дозволить розгортати загони у важкодоступних районах. Розробивши більш вдосконалене повітряно-десантне обладнання, ми матимемо унікальну тактичну перевагу над нашими ворогами."
- ENG_female_pilots: "Жінки-пілоти"
+ ITA_female_pilots: "Жінки-пілоти"
  ITA_female_pilots_desc: "Багато жінок-патріотів із досвідом пілотування не можуть безпосередньо внести свій внесок у наші військові зусилля. Жінкам-пілотам має бути дозволено волонтерити для повітряного транспортування та допоміжних ролей."
- ENG_radar_effort: "Зусилля радара"
+ ITA_radar_effort: "Зусилля радара"
  ITA_radar_effort_desc: "Радар — це багатообіцяюча нова технологія, яка з подальшим розвитком може надавати велику кількість інформації про тактику та позиції противника та розкривати курс ворожих літаків."
- ENG_rule_the_skies: "Пануй небом"
+ ITA_rule_the_skies: "Пануй небом"
  ITA_rule_the_skies_desc: "Військово-повітряні сили більше не є збором волонтерів, а повністю функціонуючим органом нашої армії. Давайте правити небом Італії та за її межами!"
 
 ### Events ###
@@ -470,473 +470,473 @@
  ita.3.d: "Чорний понеділок вразив Італійську Республіку, прем’єр-міністр Іваное Бономі вирішив скликати дострокові загальні вибори. Вибори відбудуться в 1936 році, а не в 1937 році, як було заплановано. Сподіваємось, ці вибори Прем’єр-міністр зможе зміцнити підтримку своєї політики щодо врегулювання економічної кризи."
  ita.3.a: "Сподіваюся..."
 
- ita.4.t: "Balbo's Speech"
- ita.4.d: "Italo Balbo of the Associazione Nazionalista Italiana delivered a speech in the city of Verona today. During the speech, he blamed the government of the republic for causing the economic crisis. Moreover, he went on to describe Austria's role in keeping Italy divided and weak, and that the syndicalists were only allowed to continue to exist as a foil to the Republic. Balbo promises that it is only the ANI that is able to restore Italy to glory and destroy all her enemies."
- ita.4.a: "We should keep an eye on him"
+ ita.4.t: "Промова Бальбо»
+ ita.4.d: "Італо Бальбо з Асоціації Італійських Націоналістів виступив сьогодні в місті Верона з промовою. Під час промови він звинуватив уряд республіки у спричиненні економічної кризи. Крім того, він продовжив описувати роль Австрії у збереженні Італії роз’єднаною та слабкою, і що синдикалістам було дозволено продовжувати існування лише як перешкоду Республіці. Бальбо обіцяє, що тільки АІН здатна повернути Італії славу та знищити всіх її ворогів."
+ ita.4.a: "Ми повинні стежити за ним"
 
- ita.5.t: "The Church Comments on the Crisis"
- ita.5.d: "A number of influential figures within the church have been rallying support for political figures during their sermons. Of particular note are the Archbishops of Milan and Venice, who have urged parishioners to follow traditional Catholic values during this crisis, a none too subtle nod of support for the conservative Popolare Italiano party. However some bishops, though not as influential as those in Milan and Venice, have instead urged support for Catholic Social Teaching and the ruling Liberal Democratic party. In both cases, people are listening to the advice of the church."
- ita.5.a: "Let us hope the Church is right"
+ ita.5.t: "Церква коментує кризу»
+ ita.5.d: "Кілька впливових осіб у церкві збирали підтримку політичних діячів під час своїх проповідей. Особливо слід відзначити архієпископів Мілана та Венеції, які закликали парафіян дотримуватися традиційних католицьких цінностей під час цієї кризи, не надто тонкий кивок на підтримку консервативної партії Popolare Italiano.Однак деякі єпископи, хоча й не такі впливові, як у Мілані та Венеції, натомість закликали підтримати Католицьке соціальне вчення та правлячу Ліберально-демократичну партію.В обох випадках люди прислухаючись до порад церкви."
+ ita.5.a: "Будемо сподіватися, що Церква права»
 
- ita.6.t: "Rosselli Supports Bonomi"
- ita.6.d: "Carlo Rosselli, leader of the Lega Democratica Riformista, the Social Democratic party in coalition with Ivanoe Bonomi, has given a speech in Milan supporting the prime minister. This has given valuable support to the besieged ruling party."
- ita.6.a: "Thank you, Rosselli"
+ ita.6.t: "Росселлі підтримує Бономі"
+ ita.6.d: "Карло Росселлі, лідер Ліга Демократичних Реформаторів, соціал-демократичної партії в коаліції з Іваное Бономі, виступив у Мілані з промовою, підтримуючи прем’єр-міністра. Це дало цінну підтримку обложеній правлячій партії."
+ ita.6.a: "Дякую, Росселлі"
 
- ita.7.t: "Protests Against Farm Auctions"
- ita.7.d: "The current economic crisis has caused a lot of farmers to default on their loans and mortgages, and their livestock and property are normally auctioned away to the highest bidder by local authorities. The practice is deeply unpopular among Italian farmers, but its proponents claim that debts must be repaid and that the auctions are a necessary evil in a free market economy. Yesterday, the Italian People's Party proposed a bill that would ban the auctions. What is the government's position on the issue?"
- ita.7.a: "Allow the auctions to continue"
- ita.7.b: "Pass the bill and ban the auctions"
+ ita.7.t: "Протести проти фермерських аукціонів"
+ ita.7.d: "Поточна економічна криза призвела до того, що багато фермерів не виплачують свої позики та іпотечні кредити, а місцева влада зазвичай продає їхню худобу та майно тому, хто запропонує найвищу ціну. Така практика вкрай непопулярна серед італійських фермерів , але його ініціатори стверджують, що борги повинні бути повернуті і що аукціони є необхідним злом у вільній ринковій економіці. Вчора Італійська народна партія запропонувала законопроект, який забороняє аукціони. Яка позиція уряду з цього питання?"
+ ita.7.a: "Дозволити продовження аукціонів"
+ ita.7.b: "Прийняти закон і заборонити аукціони»
 
- ita.8.t: "Influence in the Italian Government"
- ita.8.d: "In 1919, we signed an armistice with the Kingdom of Italy, which allowed us to garrison Lombardy and Venetia until a treaty was signed. The Italians were little pleased with this defeat, and rose up in revolution against their Savoyard monarch. Soon, he and his son abdicated, and there was a power vacuum in Italy, as socialist rebels seemed primed to overrun the entire nation. We offered the desperate Italians the aid of our armies in stopping the socialist advance, in exchange for joining a new Italian Federation, a legitimate government we could deal with. The Savoyards, White republicans, and southern forces agreed to our terms, and our armies pushed the socialists out of Lombardy. We did concede to the republicans that a republican leader would be the interim head of the Federation, though the Federation Council would retain some power behind the scenes. However, when the socialists made moves to attack the southern states of the Federation in 1926, we were embroiled in the Illyrian crisis, and could not promise to attack the socialists in support. Outraged, Sardinia, the Bourbons in Naples, and even the Holy Father himself abandoned our Federation, leaving us with only Milan. Unfortunately, the Federation Council there was allowed to lapse in 1930, and has not been renewed since. Even worse, we recently withdrew our military from their nation due to the Black Monday crisis, leaving them far more independent than they were.\n\nNow the current liberal government under Ivanoe Bonomi has pushed forward the election in a bid for more support in the legislature. However, their victory is not a sure thing, and we have some leeway to influence the election. The three moderate parties that have a real chance at winning are the Liberal Democrats, currently in power, the People's Party, a conservative party who has enjoyed our support in the past, and the Italian Republicans, hostile to monarchy but also vehemently anti-ANI and anti-socialist. We can give our support and backing to one of the pro-Austrian political parties to ensure that the right one takes power in Milan. Some ministers, however, are concerned that overt involvement might result in further support for the far right and anti-Austrian Italian Nationalist Association."
- ita.8.a: "Support the Liberal Democrats"
- ita.8.b: "Support the People's Party"
- ita.8.e: "Overt influence would merely empower the ANI"
+ ita.8.t: "Вплив на італійський уряд»
+ ita.8.d: "У 1919 році ми підписали перемир’я з Королівством Італія, яке дозволило нам розмістити гарнізони в Ломбардії та Венеції до підписання договору. Італійці були мало задоволені цією поразкою і підняли революцію проти своїх Савоярський монарх. Незабаром він і його син зреклися престолу, і в Італії виник вакуум влади, оскільки соціалістичні повстанці, здавалося, були готові захопити всю країну. Ми запропонували зневіреним італійцям допомогу нашої армії, щоб зупинити соціалістичний прогрес в обмін на приєднання до нової Італійської Федерації, законного уряду, з яким ми могли б мати справу. Савоярди, білі республіканці та південні сили погодилися на наші умови, і наші армії витіснили соціалістів з Ломбардії. Ми визнали республіканцям, що республіканський лідер буде Тимчасовий голова Федерації, хоча Рада Федерації збереже певну владу за лаштунками. Проте, коли соціалісти зробили кроки, щоб напасти на південні штати Федерації в 1926 році, ми були втягнуті в Іллірійська криза не могла обіцяти напасти на підтримку соціалістів. Обурена Сардинія, Бурбони в Неаполі і навіть сам Святіший Отець покинули нашу Федерацію, залишивши нам лише Мілан. На жаль, Рада Федерації припинила свою діяльність у 1930 році, і відтоді її не було поновлено. Навіть гірше, нещодавно ми вивели наших військових з їхньої країни через кризу Чорного понеділка, зробивши їх набагато незалежнішими, ніж були.\n\nТепер нинішній ліберальний уряд під керівництвом Іваное Бономі просунув вибори, намагаючись отримати більше підтримки в законодавча влада. Однак їхня перемога не є гарантією, і ми маємо певну свободу дій для впливу на вибори. Три помірковані партії, які мають реальні шанси на перемогу, — це ліберал-демократи, які зараз перебувають при владі, Народна партія, консервативна партія, яка користувалася нашою підтримкою в минулому, та італійські республіканці, ворожі до монархії, але також категорично проти АНІ. і антисоціалістичні. Ми можемо надати нашу підтримку та підтримку одній із проавстрійських політичних партій, щоб переконатися, що правильна прийме владу в Мілані. Деякі міністри, однак, стурбовані тим, що відкрита участь може призвести до подальшої підтримки ультраправих і антиавстрійської Асоціації Італійських Націоналістів."
+ ita.8.a: "Підтримайте ліберал-демократів»
+ ita.8.b: "Підтримай Народну партію»
+ ita.8.e: "Відкритий вплив лише розширить повноваження АІН»
 
- ita.9.t: "Austria Supports the Liberal Democrats"
- ita.9.d: "The Austrians have given support to the ruling Liberal Democrats in an attempt to help them win the election. While this has indeed had the intended effect, and encouraged more support for the ruling Liberal Democrats, it has also drawn far more attention to the far right and Anti-Austrian ANI party."
- ita.9.a: "Hopefully this helps us stay in power"
+ ita.9.t: "Австрія підтримує ліберал-демократів"
+ ita.9.d: "Австрійці надали підтримку правлячим ліберал-демократам у спробі допомогти їм виграти вибори. Хоча це справді мало очікуваний ефект і сприяло більшій підтримці правлячих ліберал-демократів, це також привернуло набагато більше уваги ультраправій і антиавстрійській партії АІН."
+ ita.9.a: "Сподіваюся, це допоможе нам залишатися при владі»
 
- ita.10.t: "Austria Supports the Partito Popolare Italiano"
- ita.10.d: "The Austrians have given support to the Partito Popolare Italiano in an attempt to help them win the election. While this has indeed the intended effect, and encouraged more support for the Popolares, it has also drawn far more attention to the far right and Anti-Austrian ANI party."
- ita.10.a: "Even our allies want regime change, it would seem"
+ ita.10.t: "Австрія підтримує Італійську народну партію"
+ ita.10.d: "Австрійці підтримали Італійську народну партію, намагаючись допомогти їм виграти вибори. Хоча це справді мало очікуваний ефект і сприяло більшій підтримці Popolares, це також привернуло набагато більше уваги ультраправій і антиавстрійській партії AІН."
+ ita.10.a: "Навіть наші союзники хочуть зміни режиму, здається»
 
- ita.12.t: "The General Election"
- ita.12.d: "Today, the Italian people choose a new parliament. The election is tightly fought and very likely will decide the course of Italy for the near future, with four predicted outcomes. Firstly, the liberal democratic coalition under Prime Minister Bonomi can continue, or a liberal coalition led by the anti-autocratic and centre-left Liberale Italiano party could ride to victory. Alternately, the conservative coalition led by the Popolare Italiano could be victorious, but few can afford to forget the surprisingly popular Associazione Nazionalista Italiana. Whom do the Italian people choose?"
- ita.12.a: "Partito Liberale Democratico"
- ita.12.b: "Partito Liberale Italiano"
- ita.12.c: "Partito Popolare Italiano"
- ita.12.e: "Associazione Nazionalista Italiana"
+ ita.12.t: "Загальні вибори"
+ ita.12.d: "Сьогодні італійський народ обирає новий парламент. Вибори проходять у напруженій боротьбі та, ймовірно, вирішать курс Італії на найближче майбутнє з чотирма прогнозованими результатами. По-перше, ліберально-демократична коаліція під керівництвом прем’єр-міністра Бономі може продовжити, або ліберальна коаліція на чолі з антиавтократичною та лівоцентристською партією Liberale Italiano може перемогти. З іншого боку, консервативна коаліція на чолі з Popolare Italiano може перемогти, але мало хто може дозволити собі забути напрочуд популярну Associazione Italiano. націоналіст. Кого обирає італійський народ?"
+ ita.12.a: "Ліберально-демократична партія"
+ ita.12.b: "Ліберальна партія Італії"
+ ita.12.c: "Італійська народна партія"
+ ita.12.e: "Асоціація італійських націоналістів»
 
- ita.13.t: "Italians Wish to Ally"
- ita.13.d: "The Italians have requested to formally join our alliance, and many in Vienna have suggested that we let them do so, though there are also voices that suggest otherwise."
- ita.13.a: "Let the Italians join"
- ita.13.b: "We don't need them"
+ ita.13.t: "Італійці бажають союзу»
+ ita.13.d: "Італійці подали прохання офіційно приєднатися до нашого альянсу, і багато хто у Відні запропонували, щоб ми дозволили їм це зробити, хоча є також голоси, які стверджують протилежне."
+ ita.13.a: "Нехай італійці приєднаються"
+ ita.13.b: "Вони нам не потрібні"
 
- ita.14.t: "Austrian and Italian Friendship"
- ita.14.d: "The Austrians have allowed us into their alliance. While some may bristle at being formally within the Austrian sphere of influence, it does provide Italy with safety and protection against the threat of godless syndicalism."
- ita.14.a: "To everlasting friendship!"
+ ita.14.t: "Австрійсько-італійська дружба"
+ ita.14.d: "Австрійці допустили нас до свого альянсу. Хоча дехто може щетинитися через те, що ми формально перебуваємо в австрійській сфері впливу, це забезпечує Італії безпеку та захист від загрози безбожного синдикалізму."
+ ita.14.a: "До вічної дружби!»
 
- ita.15.t: "Austrians do not Re-confirm Friendship"
- ita.15.d: "The Austrians have not allowed us into their alliance. The ANI wasted no time in issuing a statement denouncing the attempt to 'formalise our slavery to the Austrian barbarians'."
- ita.15.a: "We should have expected this"
+ ita.15.t: "Австрійці не підтверджують дружбу»
+ ita.15.d: "Австрійці не допустили нас до свого союзу. АНІ не гаяв часу, випустивши заяву, засуджуючи спробу "оформити наше рабство перед австрійськими варварами."
+ ita.15.a: "Ми повинні були цього очікувати"
 
- ita.16.t: "Partito Liberale Democratico Leadership Conference"
- ita.16.d.lib_dem_in_power: "Today the Leadership Conference of the Partito Liberale Democratico begins. While Prime Minister Ivanoe Bonomi holds the vast majority of the party's confidence, some are wondering if he should step down and let Feruccio Parri lead the party. How shall the party vote?"
- ita.16.d.lib_dem_not_in_power: "Today the Leadership Conference of the Partito Liberale Democratico begins. While party leader Ivanoe Bonomi holds the vast majority of the party's confidence, some are wondering if he should step down and let Feruccio Parri lead the party. How shall the party vote?"
- ita.16.a: "Ivanoe Bonomi!"
- ita.16.b: "Feruccio Parri!"
+ ita.16.t: "Конференція керівництва Ліберально-демократичної партії»
+ ita.16.d.lib_dem_in_power: "Сьогодні розпочинається конференція керівництва Ліберально-демократичної партії. Хоча прем’єр-міністр Іваное Бономі користується переважною довірою партії, деякі думають, чи варто йому піти у відставку і дозволити Феруччо Паррі очолювати партію. Як буде голосувати партія?»
+ ita.16.d.lib_dem_not_in_power: "Сьогодні розпочинається конференція керівництва Ліберально-демократичної партії. Хоча лідер партії Іваное Бономі користується переважною довірою партії, деякі думають, чи варто йому піти у відставку і дозволити Феруччо Паррі очолювати партію. Як буде голосувати партія?»
+ ita.16.a: "Іваное Бономі!"
+ ita.16.b: "Феруччо Паррі!"
 
- ita.17.t: "Partito Liberale Italiano Leadership Conference"
- ita.17.d.italy_republicans_in_power: "Today the Leadership Conference of the Partito Liberale Italiano begins. While Prime Minister Luigi Einaudi holds the vast majority of the party's confidence, some are wondering if he should step down and let Marcello Soleri lead the party. How shall the party vote?"
- ita.17.d.italy_republicans_not_in_power: "Today the Leadership Conference of the Partito Liberale Italiano begins. While Party leader Luigi Einaudi holds the vast majority of the party's confidence, some are wondering if he should step down and let Marcello Soleri lead the party. How shall the party vote?"
- ita.17.a: "Luigi Einaudi!"
- ita.17.b: "Marcello Soleri!"
+ ita.17.t: "Конференція керівництва італійської ліберальної партії»
+ ita.17.d.italy_republicans_in_power: "Сьогодні розпочинається конференція керівництва Італійської ліберальної партії. Хоча прем’єр-міністр Луїджі Ейнауді користується переважною довірою партії, деякі думають, чи варто йому піти у відставку й дозволити Марчелло Солері очолювати партію. Як буде голосувати партія?»
+ ita.17.d.italy_republicans_not_in_power: "Сьогодні розпочинається конференція керівництва Італійської ліберальної партії. Хоча лідер партії Луїджі Ейнауді користується переважною довірою партії, деякі думають, чи варто йому піти у відставку і дозволити Марчелло Солері керувати партією. Як буде голосувати партія?»
+ ita.17.a: "Луїджі Ейнауді!"
+ ita.17.b: "Марчелло Солері!"
 
- ita.19.t: "The [GetYear] Elections"
- ita.19.d: "The [GetYear] Elections are now upon us. Will President [From.GetLeader] remain as the head of the Italian Republic or shall a new party win the election?"
- ita.19.a: "Partito Liberale Democratico"
- ita.19.b: "Partito Liberale Italiano"
- ita.19.c: "Partito Popolare Italiano"
- ita.19.e: "Lega Democratica Riformista"
+ ita.19.t: "Вибори [GetYear]"
+ ita.19.d: "Вибори [GetYear] настали. Чи залишиться президент [From.GetLeader] главою Італійської Республіки чи на виборах виграє нова партія?»
+ ita.19.a: "Ліберально-демократична партія"
+ ita.19.b: "Італійська Ліберальна Партія"
+ ita.19.c: "Італійська Народна Партія"
+ ita.19.e: "Ліга Демократичних Реформаторів"
 
- ita.20.t: "The ANI Holds a Rally"
- ita.20.d: "Though our Federation government has gained a great deal of popular support, the ANI have continued to encourage illegal violence and political action against our government. Now, they have re-appeared in Udine, where Italo Balbo has called yet again for our removal from 'his great nation.' The local police were unwilling to arrest the man, and now some in our government are calling for military intervention."
- ita.20.a: "Send the military in"
- ita.20.b: "His support will fade in time"
+ ita.20.t: "АІН проводить мітинг"
+ ita.20.d: "Хоча наш уряд Федерації отримав велику підтримку населення, АІН продовжує заохочувати незаконне насильство та політичні дії проти нашого уряду. Тепер вони знову з’явилися в Удіне, де Італо Бальбо закликав ще раз за наше видалення від "його великого народу." Місцева поліція не бажала арештовувати чоловіка, і тепер дехто в нашому уряді закликає до військового втручання."
+ ita.20.a: "Надіслати військових"
+ ita.20.b: "Його підтримка з часом зникне»
 
- ita.21.t: "The Social Democrats Refuse to Participate"
- ita.21.d: "Speaking in Venice, Carlo Rosselli and other leaders of the Lega Democratica Riformista party have denounced the cowardly liberal parties for agreeing to the deal that restored the Federation, and have declared that they will boycott the elections as a 'farce' and a 'blight against democracy'."
- ita.21.a: "Traitors!"
+ ita.21.t: "Соціал-демократи відмовляються брати участь»
+ ita.21.d: "Виступаючи у Венеції, Карло Росселлі та інші лідери партії Ліга Демократичних Реформаторів засудили боягузливі ліберальні партії за згоду на угоду, яка відновила Федерацію, і оголосили, що вони бойкотуватимуть вибори як " фарс» і "загана демократії."
+ ita.21.a: "Зрадники!"
 
- ita.23.t: "Dealing with the Syndicalist Economy"
- ita.23.d: "Now that we have taken control of the territory of the Socialist Republic of Italy the question of what to do with the Syndicalist factories and farms has been brought forth to the Parliament. Those on the left believe in largely leaving the collective farms and factories alone, and letting new companies be private enterprises. This notion has already been denounced by right-wing members of parliament as 'siding with syndicalism', and suggest they should be de-collectivised and privatised. Those in the centre believe that the economy should be de-syndicalised, but slowly, as to not arouse the anger of the syndicalists."
- ita.23.a: "Leave them alone"
- ita.23.b: "Slowly de-syndicalise the economy"
- ita.23.c: "Immediately de-syndicalise the economy"
+ ita.23.t: "Робота з синдикалістською економікою»
+ ita.23.d: "Тепер, коли ми взяли під контроль територію Соціалістичної Республіки Італія, питання про те, що робити з синдикалістськими заводами та фермами, було винесено на розгляд парламенту. Колгоспи та фабрики, а також дозволити новим компаніям бути приватними підприємствами. Цю ідею вже засудили праві члени парламенту як "прихильність синдикалізму» та пропонують їх деколективізувати та приватизувати. Ті, хто в центрі вважаю, що економіка має бути десиндикалізованою, але повільно, щоб не викликати гніву синдикалістів."
+ ita.23.a: "Залиште їх у спокої"
+ ita.23.b: "Повільно десиндикалізувати економіку»
+ ita.23.c: "Негайно десиндикалізувати економіку»
 
- ita.24.t: "Integrating Generals"
- ita.24.d: "Today, several of the generals that previously fought for the Kingdom of the Two Sicilies have requested to fight for [Root.GetName]. Some feel that they should not fight for Italy, seeing as they fought against us, but others think that allowing them to fight for our shared country would make for an excellent statement of national unity."
- ita.24.a: "They should fight for Italy!"
- ita.24.b: "We don't need people who fought against us"
+ ita.24.t: "Інтеграція генералів"
+ ita.24.d: "Сьогодні кілька генералів, які раніше воювали за Королівство Обох Сицилій, попросили воювати за [Root.GetName]. Деякі вважають, що їм не варто воювати за Італію, оскільки вони воювали проти нас , але інші вважають, що дозволити їм воювати за нашу спільну країну було б чудовою заявою про національну єдність."
+ ita.24.a: "Вони повинні воювати за Італію!"
+ ita.24.b: "Нам не потрібні люди, які воювали проти нас»
 
- ita.25.t: "Integrating Generals"
- ita.25.d: "Today, a few of the generals that fought for Sardinia have requested to fight for [Root.GetName]. Some feel that they should not fight for Italy, seeing as they fought against us, but others think that allowing them to fight for our shared country would make for an excellent statement of national unity."
- ita.25.a: "They should fight for Italy!"
- ita.25.b: "We don't need people who fought against us"
+ ita.25.t: "Інтеграція генералів"
+ ita.25.d: "Сьогодні кілька генералів, які воювали за Сардинію, попросили воювати за [Root.GetName]. Деякі вважають, що вони не повинні воювати за Італію, оскільки вони воювали проти нас, але інші вважають, що дозволити їм воювати за нашу спільну країну було б чудовою заявою про національну єдність."
+ ita.25.a: "Вони повинні воювати за Італію!"
+ ita.25.b: "Нам не потрібні люди, які воювали проти нас»
+ 
+ ita.28.t: "Королівська академія Італії"
+ ita.28.d: "Сьогодні Reale Accademia d'Italia (Королівська академія Італії) була заснована королівським указом, натхненним Французькою академією, і шістдесят італійців були відібрані за їхні наукові, літературні та мистецькі досягнення. Члени академії надається проїзд у першому класі національними залізницями, звертаються до вас як "Ваша Високоповажність» і отримують 3000 лір на місяць. Хоча однією із заявлених цілей була підтримка та сприяння наукам, літературі та мистецтву, інша Мета полягає в тому, щоб допомогти новій монархії краще прийняти народ Італії. З обох сторін це досягає успіху, хоча й повільно."
+ ita.28.a: "Благородна ініціатива»
 
- ita.28.t: "The Royal Academy of Italy"
- ita.28.d: "Today the Reale Accademia d'Italia(Royal Academy of Italy) was founded by royal decree, inspired by the French Academy, and sixty Italians have been selected for their scientific, literary, and artistic achievements. Members of the academy are granted first-class travel on the national railroads, are to be addressed as 'Your Excellency', and receive 3,000 lire a month. While one of the stated goals was to support and promote the sciences, literature and the arts, another goal is to help the new monarchy be better accepted by the people of Italy. To both ends it is succeeding, if slowly."
- ita.28.a: "A noble initiative"
+ ita.29.t: "Національна академія драматичного мистецтва"
+ ita.29.d: "Сьогодні Національну академію драматичного мистецтва було засновано в Римі, щоб служити центром сценічного мистецтва в межах [Root.GetName] тепер, коли Рим знову став нашою столицею. Академія сприятиме освіті людей, які прагнуть увійти в мистецтво"
+ ita.29.a: "Підтримаймо культуру»
 
- ita.29.t: "The Accademia Nazionale di Arte Drammatica"
- ita.29.d: "Today the Accademia Nazionale di Arte Drammatica was founded in Rome to serve as the centre of the performing arts within the [Root.GetName] now that Rome is our capital once again. The Academy shall promote the education of people who seek to enter the arts"
- ita.29.a: "Let us support culture"
+ ita.30.t: "Інтервенція в Італії?"
+ ita.30.d: "Ставало дедалі очевиднішим, що АНІ не може контролювати ситуацію в Італії, хоча й венеціанське повстання не може взяти гору. Якби ми вирішили втрутитися, зараз настав час це зробити, хоча з прицілом на відновлення влади Італійської Федерації під головою Габсбургів, а не на відновлення невдалої Італійської республіки. Звичайно, для цього знадобиться згода Венеції, але напевно вони не відмовляться від нашої допомоги?»
+ ita.30.a: "Запропонуйте допомогу венеціанцям"
+ ita.30.b: "Вони самі по собі"
 
- ita.30.t: "Intervention in Italy?"
- ita.30.d: "It has become increasingly clear that the ANI cannot control the situation in Italy - though neither can the Venetian revolt get the upper hand. If we were to consider intervening, now would be the time to do it - though with an eye towards restoring the power of the Italian Federation under a Habsburg Head, and not towards restoring the failed Italian Republic. Of course, it would require Venetian agreement, but surely they would not refuse our help?"
- ita.30.a: "Offer help to the Venetians"
- ita.30.b: "They are on their own"
+ ita.31.t: "Допомога від австрійців?"
+ ita.31.d: "[AUS.GetNameDefCap] запропонував допомогу в нашій битві проти [ITA.GetNameDef]. Якщо вони втрутяться та досягнуть успіху, це означатиме підпорядкування австрійському впливу після закінчення війни – вони захочуть відмовитися від Італійської республіки і натомість відновити владу стародавньої Італійської федерації... безсумнівно, під пануванням правителя Габсбургів, такого як Великий Герцог Тоскани.Однак нас запевнили, що наша автономія буде відновлена що було до виборів"
+ ita.31.a: "Це не має значення - нам потрібна допомога"
+ ita.31.b: "Ні, ми можемо впоратися з цим самостійно"
 
- ita.31.t: "Help from the Austrians?"
- ita.31.d: "[AUS.GetNameDefCap] has offered to help in our battle against [ITA.GetNameDef]. If they intervene, and succeed, it will mean submitting to Austrian influence once the war is over - they will want to dispense with the Italian Republic, and instead restore the power of the Italian Federation of old... no doubt under the domination of a Habsburg ruler, such the Grand Duke of Tuscany. However, we have been assured that our autonomy will be restored to what it was before the election"
- ita.31.a: "It doesn't matter - we need the help"
- ita.31.b: "No, we can handle this on our own"
+ ita.32.t: "Венеціанці відмовляються»
+ ita.32.d: "Венеціанці, мабуть, надто обережно ставлячись до нашого майбутнього втручання, відмовилися від нашої допомоги та мають намір вести громадянську війну самостійно. Ми змушені спостерігати за розвитком ситуації збоку."
+ ita.32.a: "Так тому!"
 
- ita.32.t: "The Venetians Refuse"
- ita.32.d: "Apparently too wary of our future interference, the Venetians have refused our help and are determined to fight the civil war on their own. We are forced to watch the situation unfold from the sidelines."
- ita.32.a: "So be it!"
+ ita.33.t: "Час настав"
+ ita.33.d.austriawar: "Зрозуміло, що [ITA.GetNameDef] втратив контроль над ситуацією у своїй країні, не в змозі взяти верх над венеціанськими повстанцями. Це призвело [AUS.GetNameDef] до війни на боці венеціанців, і це спонукає до запитання і до нашого уряду: чи варто нам робити крок до нападу? Це означатиме змагання з австрійцями за те, щоб першими захопити Мілан, і ризикує прямим контактом з Австрійські підрозділи на полі бою... ситуація може загостритися, якщо ми не будемо обережні."
+ ita.33.d.austriarefuse: "Очевидно, що [ITA.GetNameDef] втратив контроль над ситуацією у своїй країні, не маючи змоги взяти верх над венеціанськими повстанцями. Можливо, гарною новиною для нас є те, що австрійці відмовилися втрутитися, що, можливо, залишає нам можливість атакувати. Чи варто нам робити крок, поки наші вороги слабкі?»
+ ita.33.d.noaustria: "Очевидно, що [ITA.GetNameDef] втратив контроль над ситуацією у своїй країні, не в змозі взяти верх над венеціанськими повстанцями. Ще кращою новиною є те, що білі не мають Австрії, щоб захистіть їх цього разу. Вони воюють між собою і вразливі. Чи зараз час для удару?"
+ ita.33.a: "Тепер наш шанс»
+ ita.33.b: "Ми не можемо ризикувати"
 
- ita.33.t: "The Time Has Come"
- ita.33.d.austriawar: "It is clear that [ITA.GetNameDef] has lost control of the situation in their country, unable to gain the upper hand against the Venetian rebels. This has brought [AUS.GetNameDef] into the war on the side of the Venetians, and it prompts a question for our government as well: should we make a move to attack? It will mean a race against the Austrians to be the first to capture Milan, and runs the risk of direct contact with Austrian units on the battlefield... a situation which could escalate, if we are not careful."
- ita.33.d.austriarefuse: "It is clear that [ITA.GetNameDef] has lost control of the situation in their country, unable to gain the upper hand against the Venetian rebels. Perhaps good news for us is that the Austrians have refused to intervene, something which possibly leaves an opening for us to attack. Should we make a move while our enemies are weak?"
- ita.33.d.noaustria: "It is clear that [ITA.GetNameDef] has lost control of the situation in their country, unable to gain the upper hand against the Venetian rebels. Even better news is that the Whites have no Austria to protect them this time. They are fighting amongst themselves and vulnerable. Is now the time to strike?"
- ita.33.a: "Now is our chance"
- ita.33.b: "We can't risk it"
+ ita.34.t: "Соціалістична Республіка атакує"
+ ita.34.d.haswar: "[SRI.GetNameDefCap] відреагував на наше втручання у війну в Італії, почавши штурм [ITA.GetNameDef]. Це означатиме гонку, хто першим захопить Мілан! Нехай ми сподіваємося, що це не вийде з-під контролю."
+ ita.34.d.nowar: "[SRI.GetNameDefCap] відреагував на наше рішення не втручатися від імені венеціанських повстанців, почавши напад на [ITA.GetNameDef]. Можливо, ми пошкодуємо про своє рішення, хоча Можливість зустрітися з соціалістами на полі бою - це не те, що ми б насолоджувалися."
+ ita.34.a: "Ми будемо уважно стежити за цим..."
 
- ita.34.t: "The Socialist Republic Attacks"
- ita.34.d.haswar: "[SRI.GetNameDefCap] has reacted to our intervention in the Italian war by launching an assault on [ITA.GetNameDef]. It will mean a race to see who is the first to capture Milan! Let us hope this does not spiral out of control."
- ita.34.d.nowar: "[SRI.GetNameDefCap] has reacted to our decision to not intervene on behalf of the Venetian rebels by launching an assault on [ITA.GetNameDef]. Perhaps we will grow to regret our decision, though the possibility of meeting the socialists on the battlefield is not something we would relish."
- ita.34.a: "We'll be keeping a close eye on this..."
+ ita.37.t: "[From.GetNameDefCap] відмовляється від миру"
+ ita.37.d: "Наші спроби добитися миру з [From.GetNameDef] були відкинуті. Вони мають намір боротися з нами до самого кінця."
+ ita.37.a: "Так тому!"
 
- ita.37.t: "[From.GetNameDefCap] Refuses Peace"
- ita.37.d: "Our attempts to sue for peace with [From.GetNameDef] have been rebuffed. They intend to fight with us until the very end."
- ita.37.a: "So be it!"
+ ita.38.t: "Окупація [759.GetName]"
+ ita.38.d: "Після анексії [ITA.GetNameDef] [SRI.GetNameDef] стан [759.GetName] залишився відрізаним — і місцеві жителі закликали [Root.GetNameDef], щоб втрутитися і врятувати їх від соціалістичного контролю."
+ ita.38.a: "Хороша ідея"
 
- ita.38.t: "The Occupation of [759.GetName]"
- ita.38.d: "With the annexation of [ITA.GetNameDef] by [SRI.GetNameDef], the state of [759.GetName] has been left cut off - and the locals have cried out to [Root.GetNameDef] to step in and save them from socialist control."
- ita.38.a: "A good idea"
+ ita.39.t: "Окупація [759.GetName]"
+ ita.39.d: "З анексією [ITA.GetNameDef] [SRI.GetNameDef] штат [759.GetName] залишився відрізаним від наших сил – і місцеві жителі, очевидно, звернулися до [Від .GetNameDef] втрутитись і врятувати їх від нашого контролю. Зараз ми буквально нічого не можемо зробити."
+ ita.39.a: "З часом ми розберемося з ними"
 
- ita.39.t: "The Occupation of [759.GetName]"
- ita.39.d: "With the annexation of [ITA.GetNameDef] by [SRI.GetNameDef], the state of [759.GetName] has been left cut off from our forces - and the locals there have apparently appealed to [From.GetNameDef] to step in and save them from our control. There is literally nothing we can do, at present."
- ita.39.a: "We will deal with them in time"
+ ita.40.t: "Італійський уряд повалено"
+ ita.40.d: "Зіткнувшись з населенням, яке стає все більш розчарованим через затягнуту війну проти венеціанців, уряд зіткнувся зі збитим натовпом і був змушений тікати. Тимчасовий уряд, очолюваний військовими, підписали мирну угоду з [VNC.GetNameDef] і підкорилися їх анексії. Що станеться далі, остаточно вирішуватиме їм."
+ ita.40.a: "Стільки про це"
 
- ita.40.t: "Italian Government Overthrown"
- ita.40.d: "Faced with a population that has become increasingly frustrated with the drawn out war against the Venetians, the government has been faced down by an assembled mob and forced to flee. The temporary government, headed by the military, has signed a peace accord with [VNC.GetNameDef] and submitted to their annexation. What happens next will ultimately be up to them."
- ita.40.a: "So much for that"
+ ita.41.t: "Італійський уряд повалено"
+ ita.41.d: "Не маючи змоги здобути швидку перемогу проти венеціанського уряду, уряд АІН в легіонній Італії зіткнувся зі зібраним натовпом і був змушений тікати. Військовий уряд, який зайняв його місце, підписав мирну угоду з [Root.GetNameDef] і передано на нашу анексію. Що станеться далі, буде повністю залежати від нас."
+ ita.41.a: "Добре!"
 
- ita.41.t: "Italian Government Overthrown"
- ita.41.d: "Unable to score a quick victory against the Venetian government, the ANI government in Legionnary Italy has been faced down by an assembled mob and forced to flee. The military government which has taken its place has signed a peace accord with [Root.GetNameDef] and submitted to our annexation. What happens next will be entirely up to us."
- ita.41.a: "Good!"
+ ita.42.t: "Венеціанська перемога!"
+ ita.42.d.noaustria: "Ми контролюємо всю Ломбардію, і опір АІН майже придушено. Тепер ми повинні вирішити, що буде далі для країни. Висока підтримка відновлення старої Італійської федерації у повному обсязі - держави-члени з широкими повноваженнями автономії, причому всі, крім самої Венеції, повертаються під правління монархії, всі керуються Федеральною радою. Той, хто очолює цю раду, матиме значну владу, і головними кандидатами є великий герцог Тоскани Габсбургів , граф Вісконті з Мілана та венеціанський лідер повстання Джузеппе Вольпі. Незважаючи на це, є інші, які кажуть, що Венеція повинна залишатися незалежною, і не має жодних причин приєднуватися до федерації взагалі."
+ ita.42.d.austria: "Ми контролюємо всю Ломбардію, а опір АІН майже придушено. Тепер настав час виконати нашу угоду з австрійцями — відновлення старої Італійської федерації у повному обсязі. Її держави-члени матимуть широкі повноваження щодо автономії, і всі, крім самої Венеції, повернуться під правління монархії, усіма керуватиме Федеральна рада. Деякі кажуть, що ми повинні залишатися незалежними, але насправді ми повинні подякувати австрійцям за те, що вони знову вступили і захищав нас. Якби не вони, ймовірно, ми б взагалі не досягли перемоги."
+ ita.42.a: "Відновити Федерацію під керівництвом Великого Герцога Тосканського»
+ ita.42.b: "Відновити Федерацію за графа Вісконті»
+ ita.42.c: "Відновити Федерацію під керівництвом Джузеппе Вольпі»
+ ita.42.e: "Ми залишимося незалежними як [Root.GetNameDef]"
 
- ita.42.t: "Venetian Victory!"
- ita.42.d.noaustria: "We have control over the whole of Lombardia, and the ANI resistance has been all but crushed. Now we must decide what comes next for the country. Support is high for the restoration of the old Italian Federation in full - member states with broad powers of autonomy, with all but Venice itself returned to rule by the monarchy, all governed by the Federal Council. Who heads that council will have considerable power, and the main candidates are the Habsburg Grand Duke of Tuscany, Count Visconti of Milan, and Venice's own leader of the revolt, Giuseppe Volpi. Even so, there are others who say that Venice should remain independent, and has no reason to join a federation at all."
- ita.42.d.austria: "We have control over the whole of Lombardia, and the ANI resistance has been all but crushed. Now the time has come to live up to our agreement with the Austrians - a restoration of the old Italian Federation in full. Its member states will have broad powers of autonomy, with all but Venice itself returned to rule by the monarchy, all governed by the Federal Council. Some say we should remain independent, but truly we should thank the Austrians for once again stepping in and defending us. If not for them, likely we would not have achieved victory at all."
- ita.42.a: "Restore the Federation under the Grand Duke of Tuscany"
- ita.42.b: "Restore the Federation under Count Visconti"
- ita.42.c: "Restore the Federation under Giuseppe Volpi"
- ita.42.e: "We shall remain independent as [Root.GetNameDef]"
+ ita.43.t: "Італійська федерація відновлена"
+ ita.43.d.habsburg: "Стара Італійська Федерація була відновлена, відкинувши республіку на користь автономних держав, керованих аристократією та очолюваних Федеральною радою... з великим герцогом Габсбурга П’єтро Тосканським, який сидів на її Голова. Великий князь звернувся до нас, вітаючи дружні відносини між Федерацією та [Root.GetNameDef]. Це справді найкращий результат, на який ми могли сподіватися."
+ ita.43.d.visconti: "Стара Італійська Федерація була відновлена, відкинувши республіку на користь автономних держав, керованих аристократією та очолюваних Федеральною радою... хоча вони вибрали графа Мілана Вісконті її голова, а не Великий Герцог Габсбургів. Незважаючи на це, це, мабуть, хороший знак, що граф звернувся до [Root.GetNameDef] і запропонував нашим країнам продовжувати добрі стосунки."
+ ita.43.d.volpi: "Стару Італійську Федерацію було відновлено, відкинувши республіку на користь автономних держав, керованих аристократією та очолюваних Федеральною радою... хоча вони вибрали президента Венеції, Джузеппе Вольпі, який очолює його, а не Великий князь Габсбургів. Незважаючи на це, можливо, це хороший знак, що Вольпі звернувся до [Root.GetNameDef] і запропонував нашим країнам продовжувати добрі відносини."
+ ita.43.a: "Ми вітаємо їх у нашому альянсі»
+ ita.43.b: "Поки що ми відновимо нашу гарантію їх незалежності»
+ ita.43.c: "Ми з нетерпінням чекаємо майбутньої співпраці»
 
- ita.43.t: "The Italian Federation Restored"
- ita.43.d.habsburg: "The old Italian Federation has been restored, casting aside the republic in favour of autonomous states ruled by the aristocracy and headed by the Federal Council... with the Habsburg Grand Duke Pietro of Tuscany sitting at its head. The Grand Duke has reached out to us, welcoming friendly relations between the Federation and [Root.GetNameDef]. It is truly the best outcome we could have hoped for."
- ita.43.d.visconti: "The old Italian Federation has been restored, casting aside the republic in favour of autonomous states ruled by the aristocracy and headed by the Federal Council... though they have elected to put Count Visconti of Milan at its head rather than the Habsburg Grand Duke. Even so, it is perhaps a good sign that the Count has reached out to [Root.GetNameDef] and suggested that our countries continue their good relations."
- ita.43.d.volpi: "The old Italian Federation has been restored, casting aside the republic in favour of autonomous states ruled by the aristocracy and headed by the Federal Council... though they have elected to put the president of Venice, Giuseppe Volpi, at its head rather than the Habsburg Grand Duke. Even so, it is perhaps a good sign that Volpi has reached out to [Root.GetNameDef] and suggested that our countries continue their good relations."
- ita.43.a: "We welcome them into our alliance"
- ita.43.b: "We will restore our guarantee of their independence, for now"
- ita.43.c: "We look forward to future cooperation"
+ ita.44.t: "Ломбардія впала"
+ ita.44.d.austria: "Незважаючи на втручання Австрії, цього було недостатньо, щоб запобігти захопленню Ломбардії [SRI.GetNameDef]. Тепер [Root.GetNameDef] сам по собі, з ще меншими можливостями для захисту від соціалістичних орд, ніж раніше."
+ ita.44.d.noaustria: "Схоже, що наша громадянська війна забезпечила [SRI.GetNameDef] саме ту слабкість, яку вони шукали. Вони наздогнали Ломбардію, і тепер ми самі по собі, маючи ще менше можливостей захистити себе від соціалістів орди, ніж раніше."
+ ita.44.a: "Зверніться до австрійців за захистом»
+ ita.44.b: "Ми розберемося самі"
 
- ita.44.t: "Lombardia Has Fallen"
- ita.44.d.austria: "Despite Austria's intervention, it was not enough to prevent Lombardia from being overrun by [SRI.GetNameDef]. Now [Root.GetNameDef] is on its own, with even less ability to protect itself against the socialist hordes than before."
- ita.44.d.noaustria: "It appears our civil war provided [SRI.GetNameDef] exactly the weakness they were looking for. They have overtaken Lombardia, and now we are on our own with even less ability to protect ourselves against the socialist hordes than before."
- ita.44.a: "Turn to the Austrians for protection"
- ita.44.b: "We will figure it out on our own"
+ ita.45.t: "Венеція просить захисту"
+ ita.45.d.austria: "Нашого втручання було недостатньо, щоб запобігти захопленню Ломбардії [SRI.GetNameDef]. Тепер [Root.GetNameDef] сам по собі, маючи ще менше можливостей захистити себе від соціалістичних орд, ніж раніше. Вони просили нашого захисту... хоча пропонування цього може призвести нас до війни проти Третього Інтернаціоналу."
+ ita.45.d.noaustria: "Схоже, громадянська війна в Італії забезпечила [SRI.GetNameDef] саме ту слабкість, яку вони шукали. Вони наздогнали Ломбардію, і тепер [VNC.GetNameDef] залишився беззахисним. Вони запитали для нашого захисту... хоча пропозиція цього може призвести нас до війни проти Третього Інтернаціоналу."
+ ita.45.a: "Звичайно, ми захищатимемо їх, як тільки зможемо»
+ ita.45.b: "Вони самі по собі"
 
- ita.45.t: "Venice Asks For Protection"
- ita.45.d.austria: "Our intervention was not enough to prevent Lombardia from being overrun by [SRI.GetNameDef]. Now [Root.GetNameDef] is on its own, with even less ability to protect itself against the socialist hordes than before. They have asked for our protection... though offering it might bring us into war against the Third Internationale."
- ita.45.d.noaustria: "It appears the civil war in Italy provided [SRI.GetNameDef] exactly the weakness they were looking for. They have overtaken Lombardia, and now [VNC.GetNameDef] has been left defenceless. They have asked for our protection... though offering it might bring us into war against the Third Internationale."
- ita.45.a: "Of course we will protect them however we can"
- ita.45.b: "They are on their own"
+ ita.46.t: "Австрія пропонує захист"
+ ita.46.d: "На щастя, австрійці побачили нашу цінність і запропонували свій захист. Якщо соціалісти підуть на нас, їх чекає більша боротьба, ніж вони очікували."
+ ita.46.a: "Яке полегшення"
 
- ita.46.t: "Austria Offers Protection"
- ita.46.d: "Thankfully, the Austrians have seen our value and have offered their protection. If the socialists come after us, they will be in for a bigger fight than they bargained."
- ita.46.a: "What a relief"
+ ita.47.t: "Австрія відмовляється від захисту"
+ ita.47.d: "Австрія відмовилася запропонувати нам захист, принаймні на даний момент. Ми самі."
+ ita.47.a: "Хай буде так"
 
- ita.47.t: "Austria Refuses Protection"
- ita.47.d: "Austria has refused to offer us protection, at least for the time being. We are on our own."
- ita.47.a: "So be it"
-
- ita.50.t: "The Battle for the Lira"
- ita.50.d: "The first of Four Economic 'battles' designed to fix the economy, the battle for the Lira will stabilise the currency of the Republic. As all battles are, it may be a struggle, but by stabilising the currency of the Republic we will be able to fulfil our Italian destiny."
+ ita.50.t: "Битва за Ліру»
+ ita.50.d: "Перша з чотирьох економічних "битв», спрямованих на виправлення економіки, битва за ліру стабілізує валюту Республіки. Як і всі битви, це може бути боротьба, але стабілізація валюти Республіки ми зможемо виконати наше італійське призначення.
  ita.50.a: "Viva l'Italia!"
 
- ita.51.t: "The Battle for the Land"
- ita.51.d: "The Second Economic Battle, the Battle for the Land, will bring a transformation to the land itself. Swamps and marshes shall be drained, farmland will be irrigated, and the people will be encouraged to move to the countryside in order to help our agriculture thrive."
+ ita.51.t: "Битва за землю»
+ ita.51.d: "Друга економічна битва, битва за землю, змінить саму землю. Болота та болота будуть осушені, сільськогосподарські угіддя будуть зрошені, а людей буде заохочено переселятися в сільську місцевість щоб допомогти нашому сільському господарству процвітати."
  ita.51.a: "Viva l'Italia!"
 
- ita.52.t: "The Battle for the Grain"
- ita.52.d: "Following the success of the Battle for the Land comes the Battle for the Grain. The new farmlands will be made to support the growing population of Italy and her armies. An army marches on its stomach after all and the Italian army will be marching to war."
+ ita.52.t: "Битва за зерно»
+ ita.52.d: "Після успіху Битви за землю настає Битва за зерно. Нові сільськогосподарські угіддя будуть створені для підтримки зростаючого населення Італії та її армій. Зрештою, армія марширує на животі, і Італійська армія піде на війну."
  ita.52.a: "Viva l'Italia!"
 
- ita.53.t: "The Battle for the Births"
- ita.53.d: "The final of the economic battles is the Battle of the Births. This is a program designed to help couples have more children. The policies include paid maternal and paternal leave for families and tax benefits and loans for having children, while at the same time the government will only hire men and women who are married. Through such a policy the future generations of Italy shall be created and secured."
+ ita.53.t: "Битва за народження»
+ ita.53.d: "Фіналом економічних битв є "Битва народжень." Це програма, розроблена, щоб допомогти парам мати більше дітей. Політика включає оплачувану відпустку по вагітності та пологах для сімей, податкові пільги та кредити для народження дітей У той же час уряд прийматиме на роботу тільки одружених чоловіків і жінок. Завдяки такій політиці майбутні покоління Італії будуть створені та забезпечені."
  ita.53.a: "Viva l'Italia!"
 
- ita.54.t: "The Unitary Republic"
- ita.54.d: "The laws have been passed swiftly in the capital, rescinding the rights and autonomies enjoyed by Lombardy and Venetia - or, indeed, any state that is part of the republic. The ANI party line is that this is 'for the good of the country', an explanation which also applies to the suspension of future elections. Italy cannot afford to weaken itself to greed and outside loyalties, not now and perhaps not ever. This news has not gone over well in Venetia, however, where the state legislators have expressed fury as what they see as a power grab by the central government. Already people are taking to the streets, and we may expect more formal action to be taken in the days to come."
- ita.54.a: "Let's hope this amounts to nothing"
+ ita.54.t: "Унітарна республіка"
+ ita.54.d: "Закони були швидко прийняті в столиці, скасовуючи права та автономії, якими користуються Ломбардія та Венеція — або, власне, будь-яка держава, яка є частиною республіки. Лінія партії АІН полягає в тому, що це для блага країни", пояснення, яке також стосується призупинення майбутніх виборів. Італія не може дозволити собі послабити жадібність і зовнішню лояльність, не зараз і, можливо, ніколи. Однак ця новина не сприйняла Венеції , де законодавці штату висловили гнів як те, що вони бачать як захоплення влади центральним урядом. Люди вже виходять на вулиці, і ми можемо очікувати, що найближчими днями будуть вжиті більш офіційні дії."
+ ita.54.a: "Будемо сподіватися, що це нічого не приведе"
 
- ita.55.t: "Riots in Venice"
- ita.55.d: "Opposition to the unitary republic has grown throughout Italy, with much of it concentrated in the city of Venice. There, Partito Repubblicano Veneto leader Giuseppe Volpi has given fiery speeches denouncing the ANI and calling on 'loyal Venetians' to rise up and fight against its tyranny. Riots have broken out throughout the city, with violence concentrated against central government offices and troops. Officials fear it is just a matter of days before the state legislature takes a vote on whether or not to withdraw from the republic."
- ita.55.a: "As if we would allow such a thing!"
+ ita.55.t: "Заворушення у Венеції"
+ ita.55.d: "Опозиція унітарній республіці зросла по всій Італії, більша частина якої зосереджена у місті Венеція. Там лідер Венеціанська Республіканська Рартія Джузеппе Вольпі виголосив палкі промови, засуджуючи АІН та закликаючи "лояльних венеціанців» повстати і боротися проти його тиранії. Заворушення спалахнули по всьому місту, насильство зосереджено проти центральних урядових установ і військ. Чиновники побоюються, що це лише питання днів, коли законодавчий орган штату проголосує, чи виходити з республіка."
+ ita.55.a: "Як би ми дозволили таке!"
 
- ita.56.t: "The Venetian Revolt"
- ita.56.d: "As predicted, the vote in Venice - with the controlling Partito Repubblicano Veneto voting unanimously in favour - has led to the declaration of their opposition to the unitary republic. Until, and if, state rights are restored they will see the Republic of Venice separated from [ITA.GetNameDef]. Last-minute talks are being held, but at the moment all government troops are being ordered out of Venetia, and militia forces are quickly being assembled - most likely with aid and assistance by the Austrians."
- ita.56.a: "This cannot be allowed to stand"
- ita.56.b: "Fight for La Serrenisima! (Play as Venice)"
+ ita.56.t: "Венеціанське повстання»
+ ita.56.d: "Як і передбачалося, голосування у Венеції — контрольна Partito Repubblicano Veneto одностайно проголосувала за — призвело до оголошення їхньої опозиції до унітарної республіки. Доки права держави не будуть відновлені, вони будуть подивіться, як Венеціанська республіка відокремилася від [ITA.GetNameDef]. В останню хвилину ведуться переговори, але на даний момент усім урядовим військам наказано залишити Венецію, а сили ополчення швидко збираються - швидше за все, за допомогою та сприянням австрійці."
+ ita.56.a: "Цьому не можна дозволити стояти"
+ ita.56.b: "Бій за Ла Серренісіму! (Грати за Венецію)»
 
- ita.57.t: "The Venetian Revolt"
- ita.57.d: "It appears the experiment of the Italian Republic is truly over. With the ANI having won the Italian elections, they have attempted to turn the nation into a unitary republic, stripping the composite states of their rights - and now Venetia has rebelled against them. Venetia has called for our help, though we must wait at least a few months before we can directly intervene without it appearing like we are interested only in conquest. If we do intervene, many within the Austrian government are suggesting that our only interest would be in restoring the old Italian Federation, this time under a Habsburg ruler. Indeed, the Italians are so fed up with this failure of democracy, they might welcome such an option with open arms."
- ita.57.a: "We will need to watch this carefully"
+ ita.57.t: "Венеціанське повстання»
+ ita.57.d: "Схоже, що експеримент з Італійською Республікою справді закінчився. Оскільки АІН виграла вибори в Італії, вони намагалися перетворити націю на унітарну республіку, позбавляючи складові держави їхніх прав – і тепер Венеція повстала проти них. Венеція попросила нашої допомоги, хоча ми повинні почекати принаймні кілька місяців, перш ніж ми зможемо безпосередньо втрутитися, щоб не виглядало, що ми зацікавлені лише в завоюванні. Якщо ми все-таки втрутимося, багато хто в австрійському уряді пропонує що наш єдиний інтерес полягатиме у відновленні старої Італійської Федерації, цього разу під правлінням Габсбургів. Дійсно, італійці настільки втомилися від цієї невдачі демократії, що вони можуть прийняти такий варіант з розпростертими обіймами."
+ ita.57.a: "Нам потрібно уважно стежити за цим"
 
- ita.58.t: "War with Venice"
- ita.58.d: "The Venetian rebellion grows even worse and armed militias are forcing out loyal and patriotic Italians. This can not stand. We must move quickly - if we do not demonstrate within a matter of months that we have the situation under control, we run the risk of interventions by the Austrians or, far worse, the Socialist Republic of Italy feeling bold enough to attack without drawing international ire."
- ita.58.a: "Time to put these Venetians in their place"
+ ita.58.t: "Війна з Венецією»
+ ita.58.d: "Венеціанське повстання стає ще гіршим, і озброєні ополченці витісняють лояльних і патріотичних італійців. Це терпіти не може. Ми повинні діяти швидко, якщо ми не продемонструємо протягом кількох місяців, що у нас ситуація контроль, ми ризикуємо втручання австрійців або, що набагато гірше, Соціалістичної Республіки Італія, відчуваючи себе достатньо сміливим, щоб напасти, не викликаючи міжнародного гніву."
+ ita.58.a: "Час поставити цих венеціанців на місце»
 
- ita.60.t: "The Verona Trials"
- ita.60.d: "Today in the city of Verona the trial for the leaders of the Socialist Republic of Italy is has begun. Unsurprisingly Mussolini and his lot are found guilty of betraying Italy and sentenced to death. This turns out to be the fate for the rest of the leadership of the false republic. Syndicalism is now dead."
- ita.60.a: "Death to Mussolini and his traitors!"
+ ita.60.t: "Веронський процес»
+ ita.60.d: "Сьогодні у місті Верона розпочався судовий процес над лідерами Соціалістичної Республіки Італія. Не дивно, що Муссоліні та його долю визнають винними у зраді Італії та засуджують до страти. Це виявляється доля для решти керівництва фальшивої республіки. Синдикалізм тепер мертвий."
+ ita.60.a: "Смерть Муссоліні та його зрадникам!»
 
- ita.61.t: "Let Carina Massone Negrone Fly?"
- ita.61.d: "With the republic now at war, Carina Massone Negrone has asked to fly for the Republic's Air Force. It is highly unusual that a lady would make such a request, and a number of ministers believe that she should be refused. However, as a personal friend, the great statesman Italo Balbo believes that a compromise could be reached where she can lead a force of female aviators to fly non-combat missions. This would allow more men to actually fly."
- ita.61.a: "Let her fly!"
- ita.61.b: "She should stay at home."
- ita.61.c: "Let her set up a school."
+ ita.61.t: "Дозволити Каріні Массоне Негроне літати?"
+ ita.61.d: "Оскільки республіка зараз перебуває у стані війни, Каріна Массоне Негроне попросила літати для військово-повітряних сил Республіки. Це дуже незвично, що жінка робить таке прохання, і ряд міністрів вважають, що вона повинна бути відмовився. Однак, як особистий друг, великий державний діяч Італо Бальбо вважає, що можна досягти компромісу, коли вона зможе очолити групу жінок-авіаторів для виконання небойових завдань. Це дозволить більшій кількості чоловіків справді літати."
+ ita.61.a: "Нехай вона летить!"
+ ita.61.b: "Вона повинна залишитися вдома."
+ ita.61.c: "Нехай вона створить школу."
 
- ita.62.t: "The Order of the Roman Eagle"
- ita.62.d: "The order of the Roman Eagle has been created to reward people who brought merit to Italy. It is considered the highest reward that any person can receive in service of the country. This new order will help inspire people to do their all for Italy."
- ita.62.a: "Let us honour these men."
+ ita.62.t: "Орден римського орла"
+ ita.62.d: "Орден Римського орла був створений для нагородження людей, які принесли заслуги Італії. Це вважається найвищою нагородою, яку будь-яка людина може отримати за службу країні. Цей новий орден допоможе надихнути людей зробити все для Італії."
+ ita.62.a: "Давайте вшануємо цих людей."
 
- ita.63.t: "The Corporatist State"
- ita.63.d: "By decree of Il Duce himself, the National Council of Corporations has been created. The council is to be organised along corporatist lines with ten different sectors, with ministers representing the various sectors of the economy. In the official decree it was described as - 'the National Council of Corporations is to the Italian economy what the Staff is in the Armed Forces - the thinking brain which prepares and coordinates.'"
+ ita.63.t: "Корпоративна держава"
+ ita.63.d: "За указом самого Іль Дуче було створено Національну раду корпорацій. Рада має бути організована за корпоративістськими принципами з десятьма різними секторами, з міністрами, які представляють різні сектори економіки. У декреті це було описано так: "Національна рада корпорацій є для італійської економіки тим же, чим є штаб у збройних силах — розумовим мозком, який готує та координує."
  ita.63.a: "Avanti Italia!"
 
  ita.64.t: "Opera Nazionale Balilla"
- ita.64.d: "The Opera Nazionale Balilla was recently created by order from Il Duce. Taking its name from the nickname of the Italian boy which started a revolt against Hapsburg forces during the war of Austrian succession. The organisation is similar to a scouting group for children. The organisation has two similar structures one for boys and the other for girls with both being divided into three groups for different age brackets. The organisation is to help prepare the future youth to the roles that they will have within society as well as make sure that they are loyal Italians."
- ita.64.a: "Book and rifle, perfect Italian."
+ ita.64.d: "Національна опера Балілла була нещодавно створена на замовлення Il Duce. Свою назву вона отримала від прізвиська італійського хлопчика, який підняв повстання проти військ Габсбургів під час війни за австрійську спадщину. Організація схожа на скаутська група для дітей. Організація має дві подібні структури, одну для хлопчиків, а іншу для дівчат, і обидві поділяються на три групи для різних вікових груп. Організація має допомогти підготувати майбутню молодь до ролей, які вони виконуватимуть у суспільстві як а також переконатися, що вони лояльні італійці."
+ ita.64.a: "Книга і гвинтівка, ідеальна італійська."
 
  ita.65.t: "Opera Nazionale Dopolavoro"
- ita.65.d: "The Opera Nazionale Dopolavoro(National Recreational Club) has been created by decree from Il Duce. The OND supports a number of recreational activities for the people to help boost tourism, as well as help ensure the loyalty of citizens to the Italian State. Italian culture from Opera, plays, and music to book clubs and vacations through the countryside are sponsored by the OND. It has quickly proven to be highly popular throughout the Republic."
+ ita.65.d: "Opera Nazionale Dopolavoro (Національний рекреаційний клуб) був створений указом Il Duce. OND підтримує ряд рекреаційних заходів для людей, щоб сприяти розвитку туризму, а також допомогти забезпечити лояльність громадян італійській державі. Італійська культура від опери, вистав і музики до бронювання клубів і відпочинку в сільській місцевості спонсорується OND. Вона швидко виявилася надзвичайно популярною в усій Республіці."
  ita.65.a: "Avanti Italia!"
 
- ita.66.t: "Creation of OVRA"
- ita.66.d: "In order to protect the Republic and all Italians from all threats, the Organizzazione per la Vigilanza e la Repressione dell'Antinazionalismo(Organisation for Vigilance and Repression of Anti-Nationalism) or, OVRA for short, has been created. The OVRA will function as the secret police for the republic and make sure that all those within the republic that dare betray the Italian State will be severely punished."
- ita.66.a: "Everything within the state, nothing outside the state, nothing against the state."
+ ita.66.t: "Створення OVRA"
+ ita.66.d: "Щоб захистити Республіку та всіх італійців від усіх загроз, OrgАІНzzazione per la Vigilanza e la Repressione dell'Antinazionalismo (Організація пильності та придушення антинаціоналізму) або, скорочено OVRA, була заснована OVRA функціонуватиме як таємна поліція республіки та стежитиме за тим, щоб усі ті в республіці, які насміляться зрадити італійську державу, були суворо покарані."
+ ita.66.a: "Усе всередині держави, нічого поза державою, нічого проти держави."
 
- ita.67.t: "Green or Blue?"
- ita.67.d: "The official colours of the Italian football team have been blue, descended from the colours of the Kingdom of Italy. Now that we are in power, we have the ability to finally change the colours away from blue to green to better reflect the colours of Italy instead of the house of Savoy. However, this will likely upset a number of fans who like the colour blue."
- ita.67.a: "We shall keep the colours."
- ita.67.b: "We shall switch colours."
+ ita.67.t: "Зелений чи синій?"
+ ita.67.d: "Офіційними кольорами італійської футбольної збірної були сині, що походять від кольорів Королівства Італія. Тепер, коли ми при владі, у нас є можливість нарешті змінити кольори з синього на зелений щоб краще відображати кольори Італії, а не дому Савойя. Однак це, швидше за все, засмутить багатьох шанувальників, яким подобається синій колір."
+ ita.67.a: "Ми збережемо кольори."
+ ita.67.b: "Ми поміняємо кольори."
 
- ita.68.t: "Greenshirt Brigades"
- ita.68.d: "The Greenshirts, founded during the Civil War, are formally the Milizia Volontaria per la Sicurezza Nazionale (Voluntary Militia for National Security) or MVSN for short, but are most often called by their informal name due to their distinctive green shirts. The Greenshirts are organised in a military fashion modelled on the Arditi soldiers, which also extends to the Uniforms. While they have been muscle for the ANI for some time, now that we are at war, they have stepped up to defend the republic from all enemies."
- ita.68.a: "Death to the enemies of Italy!"
+ ita.68.t: "Бригади зелених сорочок»
+ ita.68.d: "Зелено-сорочники, засновані під час Громадянської війни, формально є Milizia Volontaria per la Sicurezza Nazionale (Добровільне Ополчення Національної Безпеки) або скорочено MVSN (ДОНБ), але найчастіше їх називають неофіційною назвою через їх характерну особливість. зелені сорочки. Зеленосорочники організовані за військовим зразком солдатів Ардіті, що також поширюється на уніформу. Хоча вони деякий час були м’язами для АІН, тепер, коли ми у війні, вони активізувалися, щоб захистити республіку від усіх ворогів."
+ ita.68.a: "Смерть ворогам Італії!"
 
- ita.69.t: "Venetian Admirals Join the Revolt!"
- ita.69.d: "The Venetian admirals Alberto Da Zara and Giuseppe Fioravanzo have decided to join in the revolt against our authority as they decry our government as tyrannical. Unfortunately, they have managed to take the [ITA.GetAdjective] fleet with them."
- ita.69.a: "They shall pay for their treachery!"
+ ita.69.t: "Венеціанські адмірали приєднуються до повстання!"
+ ita.69.d: "Венеціанські адмірали Альберто Да Зара та Джузеппе Фіораванцо вирішили приєднатися до повстання проти нашої влади, оскільки вони засуджують наш уряд як тиранічний. На жаль, їм вдалося забрати з собою [ITA.GetAdjective] флот ."
+ ita.69.a: "Вони заплатять за свою зраду!"
 
- ita.81.t: "Empower the Federation in Italy?"
- ita.81.d.early_demands: "The Italian Republic is a threat, whether they admit it or not. Though they may claim to be part of the Federation, they could easily betray us after taking Torino, thinking themselves powerful enough. We must request that they reorganise their government to be more like the Federation they ostensibly are."
- ita.81.d.yes_i_can: "With the godless syndicalists in the Socialist Republic of Italy now destroyed, the question of what to do about the Republic of Italy has arisen. The threat of the Socialist Republic of Italy has always kept the alliance in check and the Republic acted as a bulwark against the tide of Syndicalism. Now that threat is gone, and the question is whether should we send an ultimatum to demand that the Republic reform into a Federation, something that will be more acceptable to Vienna. Alternately, we could always drop the matter."
- ita.81.a: "Send the Ultimatum"
- ita.81.b: "Drop the Matter"
+ ita.81.t: "Розширити повноваження Федерації в Італії?"
+ ita.81.d.early_demands: "Італійська Республіка є загрозою, визнають вони це чи ні. Хоча вони можуть стверджувати, що є частиною Федерації, вони можуть легко зрадити нас після взяття Торіно, вважаючи себе достатньо могутніми. Ми повинні вимагають, щоб вони реорганізували свій уряд, щоб він був більше схожий на Федерацію, якою вони нібито є."
+ ita.81.d.yes_i_can: "Оскільки безбожні синдикалісти в Соціалістичній Республіці Італія зараз знищені, постало питання, що робити з Італійською Республікою. Загроза Соціалістичної Республіки Італія завжди тримала альянс в і Республіка діяла як оплот проти хвилі синдикалізму. Тепер ця загроза зникла, і питання полягає в тому, чи повинні ми надсилати ультиматум із вимогою реформування Республіки у Федерацію, що буде більш прийнятним для Відня. , ми завжди можемо відмовитися від цього."
+ ita.81.a: "Надіслати ультиматум"
+ ita.81.b: "Залиште справу"
 
- ita.82.t: "The Austrian Ultimatum"
- ita.82.d.early_demands: "The Austrians have renewed active foreign policy, and as part of this new drive has demanded that we reform our government to be more like the Italian Federation we claim to be. With [SRI.GetNameDef] watching us hungrily, we can hardly afford to squabble with our protector."
- ita.82.d.yes_i_can: "The Austrians have sent us an ultimatum. With [SRI.GetNameDef] no longer around, we are no longer a necessary bulwark against syndicalism, and so they seek to make us empower the long behind the scenes Federation Council. We can, of course, accept and crown Peter Ferdinand as Head of the Italian Federation, or we can say no and risk war."
- ita.82.a: "We accept"
- ita.82.b: "We refuse!"
+ ita.82.t: "Австрійський ультиматум"
+ ita.82.d.early_demands: "Австрійці відновили активну зовнішню політику, і в рамках цього нового руху вимагають, щоб ми реформували наш уряд, щоб він був більше схожий на Італійську Федерацію, якою ми себе називаємо. Під спостереженням [SRI.GetNameDef] ми жадібні, ми навряд чи можемо дозволити собі сваритися з нашим захисником."
+ ita.82.d.yes_i_can: "Австрійці надіслали нам ультиматум. Оскільки [SRI.GetNameDef] більше немає, ми більше не є необхідним оплотом проти синдикалізму, тому вони прагнуть змусити нас розширити повноваження за лаштунками Рада Федерації. Ми, звичайно, можемо прийняти і коронувати Пітера Фердинанда головою Італійської федерації, або ми можемо сказати "ні» і ризикнути війною."
+ ita.82.a: "Ми приймаємо"
+ ita.82.b: "Ми відмовляємося!"
 
- ita.83.t: "The Italians Accept"
- ita.83.d: "The Italians have accepted our ultimatum and Peter Ferdinand will soon be crowned Pietro Ferdinando of Tuscany and Head of the Italian Federation."
- ita.83.a: "God save Italia!"
+ ita.83.t: "Італійці приймають"
+ ita.83.d: "Італійці прийняли наш ультиматум, і Пітер Фердинанд незабаром буде коронований як П’єтро Фердінандо Тоскани та голова італійської Федерації."
+ ita.83.a: "Боже, бережи Італію!"
 
- ita.84.t: "The Italians Refuse"
- ita.84.d: "The Italians have rejected our ultimatum. Should we show them what a foolish mistake they made, or drop the matter?"
- ita.84.a: "War it shall be!"
- ita.84.b: "Drop the matter"
+ ita.84.t: "Італійці відмовляються»
+ ita.84.d: "Італійці відхилили наш ультиматум. Чи повинні ми показати їм, яку дурну помилку вони зробили, чи припинити справу?»
+ ita.84.a: "Війна буде!"
+ ita.84.b: "Залиште справу"
 
- ita.85.t: "Italian Irredentism"
- ita.85.d: "We must decide the policy of the republic. There are still rightful Italian lands that others, such as Austria, claim. Some suggest focusing on just the land in Austria while others think that we should also give our attention to Malta."
- ita.85.a: "Claim our rightful lands."
- ita.85.b: "Claim our rightful lands and Malta."
+ ita.85.t: "Італійський ірредентизм»
+ ita.85.d: "Ми повинні визначити політику республіки. Є ще законні італійські землі, на які претендують інші, наприклад Австрія. Деякі пропонують зосередитись лише на землі в Австрії, тоді як інші вважають, що ми також повинні приділити увагу на Мальту."
+ ita.85.a: "Вимагайте наші законні землі."
+ ita.85.b: "Вимагайте наші законні землі та Мальту."
 
- ita.86.t: "Greater Italia"
- ita.86.d: "With the unification of Italy now complete, we can proclaim Greater Italy. There are many around our Republic that still hold rightful Italian lands, all of which will soon be ours."
+ ita.86.t: "Велика Італія"
+ ita.86.d: "Оскільки об’єднання Італії завершилося, ми можемо проголосити Велику Італію. Навколо нашої Республіки є багато людей, які все ще володіють законними італійськими землями, і всі вони незабаром будуть нашими."
  ita.86.a: "Avanti Italia."
 
- ita.87.t: "The New Lands"
- ita.87.d: "It has been some time but we have finally liberated our rightful land. Now that the Republic has reclaimed these lands, we can feel secure in their support for Italy."
+ ita.87.t: "Нові землі»
+ ita.87.d: "Минув деякий час, але ми нарешті звільнили нашу законну землю. Тепер, коли Республіка повернула ці землі, ми можемо відчувати себе в безпеці в їхній підтримці Італії."
  ita.87.a: "Avanti Italia."
 
- ita.88.t: "The New Lands"
- ita.88.d: "It has been some time but we have finally liberated our rightful land. Now that the Republic has reclaimed these lands, we can feel secure in their support for Italy."
+ ita.88.t: "Нові землі»
+ ita.88.d: "Пройшло деякий час, але ми нарешті звільнили нашу законну землю. Тепер, коли Республіка повернула ці землі, ми можемо відчувати себе в безпеці в їхній підтримці Італії."
  ita.88.a: "Avanti Italia."
 
- ita.89.t: "The Anni di Piombo"
- ita.89.d: "A number of Greenshirts of the Associazione Nazionalista Italiana have denounced the government and proclaimed war against [ITA.GetNameDef]. This declaration was quickly met with a bloody gunfight in a number of small towns that were taken over by the ANI, though in larger towns like Verona and Padua the attack by the ANI was repelled by the army and police. This war is already being called by journalists within and without the Federation as the Anni di Piombo or 'Years of Lead'. Let us hope this does not last that long."
- ita.89.a: "They shall pay."
+ ita.89.t: "Анні ді Пьомбо"
+ ita.89.d: "Кілька Зеленно-сорочників з Асоціації Італійський Націоналістів засудили уряд і оголосили війну проти [ITA.GetNameDef]. Ця заява була швидко зустрінута кривавою перестрілкою в кількох маленьких містах, які були захоплені АІН, хоча у великих містах, таких як Верона та Падуя, напад АІН був відбитий армією та поліцією.Цю війну вже називають журналісти в Федерації та за її межами Anni di Piombo або "Свинцевими роками." Ми сподіваємося, що це не триватиме так довго."
+ ita.89.a: "Вони заплатять."
 
- ita.90.t: "ANI Bombing"
- ita.90.d: "The Greenshirts have targeted a factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. The Carabinieri are on the scene, and while they have captured a couple of these terrorists, the ringleaders are still at large. Surely they will soon be found and brought to justice."
- ita.90.a: "Damn ANI."
+ ita.90.t: "Бомбардування АІН"
+ ita.90.d: "Зеленосорочники націлилися на фабрику в [attack_state.GetName], завдавши великої шкоди та забравши багато життів. Карабінери на місці події, і поки вони затримали пару цих терористів , ватажки поки що на свободі, напевно, незабаром їх знайдуть і притягнуть до відповідальності."
+ ita.90.a: "Проклята АІН".
 
- ita.91.t: "ANI Bombing"
- ita.91.d: "The Greenshirts have targeted an arms factory in [attack_state.GetName], causing a great deal of damage and the loss of many lives. The Carabinieri are on the scene, and while they have captured a couple of these terrorists, the ringleaders are still at large. Surely they will soon be found and brought to justice."
- ita.91.a: "Damn ANI."
+ ita.91.t: "Бомбардування АІН"
+ ita.91.d: "Зелено-сорочники націлилися на збройовий завод у [attack_state.GetName], завдавши великої шкоди та втративши багато життів. Карабінери на місці події, і поки вони захопили пару таких терористів, ватажки досі на свободі, напевно, скоро їх знайдуть і притягнуть до відповідальності."
+ ita.91.a: "Проклята АІН."
 
- ita.92.t: "ANI bombing"
- ita.92.d: "The ANI have set off a series of bombs in the [attack_state.GetName] region, causing considerable damage to the railways destroying many trains and costing countless innocent lives."
- ita.92.a: "Damn ANI."
+ ita.92.t: "Бомбардування АІН"
+ ita.92.d: "АІН підірвали серію бомб у регіоні [attack_state.GetName], завдавши значної шкоди залізницям, знищивши багато поїздів і забравши незліченну кількість невинних життів."
+ ita.92.a: "Проклята АНІ."
 
- ita.93.t: "ANI attack Carabinieri!"
- ita.93.d: "During the night, a Carabinieri barracks in [attack_state.GetName] was attacked by the ANI, who slaughtered the soldiers sleeping there. The Carabinieri have vowed revenge and plan to take further steps to thoroughly eliminate them, ending this national disgrace."
- ita.93.a: "They can only run."
+ ita.93.t: "АІН атакує карабінерів!"
+ ita.93.d: "Вночі казарми карабінерів у [attack_state.GetName] зазнали нападу АІН, які вбили солдатів, які там спали. Карабінери поклялися помститися та планують вжити подальших заходів для їх повного знищення, закінчивши ця національна ганьба."
+ ita.93.a: "Вони можуть лише бігти."
 
- ita.94.t: "Assassination Attempt Foiled"
- ita.94.d.habsburg: "Today an attempt on life of the head of the Federation, Grand Duke Pietro Ferdinando, was foiled by the brave men of the Carabinieri. The news has shaken the government and the people have already declared their wish for the ANI to be found. However, a spokesman for the ANI has declared that next time they will not fail at ridding the world of the 'Austrian lapdog'."
- ita.94.d.visconti: "Today an attempt on life of the head of the Federation, Count Adriano Visconti, was foiled by the brave men of the Carabinieri. The news has shaken the government and the people have already declared their wish for the ANI to be found. However, a spokesman for the ANI has declared that next time they will not fail at ridding the world of the 'false king'."
- ita.94.d.volpi: "Today an attempt on life of the head of the Federation, Giuseppe Volpi, was foiled by the brave men of the Carabinieri. The news has shaken the government and the people have already declared their wish for the ANI to be found. However, a spokesman for the ANI has declared that next time they will not fail at ridding the world of the 'Venetian poof'."
- ita.94.a: "Thank God!"
+ ita.94.t: "Спробу вбивства зірвано"
+ ita.94.d.habsburg: "Сьогодні замах на життя глави Федерації, великого герцога П’єтро Фердінандо, був зірваний відважними карабінерами. Ця новина сколихнула уряд, і люди вже оголосили про своє бажання Проте, речник АІН заявив, що наступного разу вони не зазнають невдачі, щоб позбавити світ від "австрійської болонки."
+ ita.94.d.visconti: "Сьогодні замах на голову Федерації, графа Адріано Вісконті, був зірваний хоробрими карабінерами. Ця новина сколихнула уряд, і люди вже заявили про своє бажання АІН буде знайдено. Проте речник AІН заявив, що наступного разу вони не зазнають невдач у звільненні світу від "фальшивого короля."
+ ita.94.d.volpi: "Сьогодні замах на голову Федерації Джузеппе Вольпі був завалений відважними карабінерами. Ця новина сколихнула уряд, і люди вже заявили про своє бажання АІН буде знайдено. Однак речник АІН заявив, що наступного разу вони не зазнають невдач, щоб позбавити світ від "венеціанського пуфа."
+ ita.94.a: "Слава Богу!"
 
- ita.95.t: "Minister assassinated"
- ita.95.d: "Today a member of parliament, known for his outspoken royal views, was assassinated by one of the ANI as he was giving a speech in Padua. While the Assassin was caught, the leaders of the ANI still remain at large."
- ita.95.a: "Damn ANI."
+ ita.95.t: "Міністра вбито"
+ ita.95.d: "Сьогодні член парламенту, відомий своїми відвертими королівськими поглядами, був убитий одним із АІН, коли він виголошував промову в Падуї. Поки вбивцю спіймали, лідери АІН все ще залишаються в великий."
+ ita.95.a: "Проклята АІН."
 
- ita.96.t: "The ANI Strike"
- ita.96.d: "Today the Greenshirts of the ANI managed to capture the city of Brescia. The fall of Brescia to these terrorists represents the greatest victory for the ANI in their war against the regime so far. The people of Brescia have welcomed them as liberators, flying a flag of Italy with its centre coat of arms cut out. Greenshirts patrol the streets of the city and violence against anyone suspected of being a monarchist has already begun."
- ita.96.a: "We must reclaim Brescia!"
+ ita.96.t: "Страйк АІН"
+ ita.96.d: "Сьогодні зеленосорочникам АІН вдалося захопити місто Брешіа. Передача Брешії цим терористам є найбільшою перемогою АІН у їхній війні проти режиму. Люди Брешії вітали їх як визволителів, що майорять під прапором Італії з вирізаним центральним гербом. Зеленосорочники патрулюють вулиці міста, і насильство проти будь-кого, кого підозрюють у тому, що він монархіст, уже почалося."
+ ita.96.a: "Ми повинні повернути Брешію!»
 
- ita.97.t: "Liberation of Brescia"
- ita.97.d: "We finally were able to liberate the city of Brescia from the ANI scum. The battle was bloody and fighting was block by bloody block but we were able to drive them out of the city. Though the ANI were welcomed at first as liberators, the terror the Greenshirts inflicted in their purge of monarchists soured their opinions. Today the Army is being welcomed as the real liberators of the city."
- ita.97.a: "They're on the run."
+ ita.97.t: "Звільнення Брешії»
+ ita.97.d: "Нарешті ми змогли звільнити місто Брешіа від покидьків АІН. Битва була кровопролитною, бої йшли блок за блоком, але ми змогли вибити їх з міста. Хоча AІН вітали спочатку як визволителів, терор, який зеленосорочники чинили під час чистки монархістів, зіпсував їхні думки. Сьогодні армію вітають як справжніх визволителів міста."
+ ita.97.a: "Вони тікають."
 
- ita.98.t: "Ringleaders caught"
- ita.98.d: "Earlier today, several of the ringleaders behind the ANI organisation were apprehended by Carabinieri investigators. This is a serious blow to the nationalistic terrorists, and brings the country one step closer to eliminating them for good."
- ita.98.a: "It's only a matter of time."
+ ita.98.t: "Ватажки спіймані"
+ ita.98.d: "Сьогодні кілька ватажків організації АІН були затримані карабінерами. Це серйозний удар по терористам-націоналістам і наближає країну до їх остаточного знищення."
+ ita.98.a: "Це лише питання часу."
 
- ita.99.t: "The Anni di Piombo is over"
- ita.99.d: "Today, we have declared victory against the ANI terrorists. They are finally destroyed. No more will these far-right nationalists trouble our country."
- ita.99.a: "Finally they are destroyed."
+ ita.99.t: "Anni di Piombo закінчилася"
+ ita.99.d: "Сьогодні ми оголосили про перемогу над терористами АІН. Їх нарешті знищено. Ці ультраправі націоналісти більше не будуть турбувати нашу країну."
+ ita.99.a: "Нарешті вони знищені."
 
- ita.102.t: "Creation of the Mille Miglia"
- ita.102.d: "With Italy once again reunited a number of automotive companies and auto-enthusiasts have come up with what they believe will be the premier racing competition in Italy – The Mille Miglia. The Mille Miglia or 'Thousand Miles' starts in Brescia and goes all the way down to Rome before returning via a different route to Brescia."
- ita.102.a: "See them go!"
+ ita.102.t: "Створення Mille Miglia"
+ ita.102.d: "Італія знову об’єдналася, ряд автомобільних компаній і автолюбителів придумали те, що, на їхню думку, стане головним гоночним змаганням в Італії – Mille Miglia. Mille Miglia або старти "Тисяча миль» у Брешії і спускається аж до Риму, а потім повертається іншим шляхом до Брешії."
+ ita.102.a: "Дивіться, як вони йдуть!"
 
- ita.103.t: "The Palazzo Mezzanotte"
- ita.103.d: "In Milan, the Palazzo Mezzanotte was unveiled today. The Palazzo Mezzanotte is to be the replacement for the old Stock Exchange of the Republic, designed with a tasteful mixture of neoclassical and modern architecture. With Black Monday now dissipating, the Palazzo Mezzanotte is already being considered the principal stock exchange in Italy."
- ita.103.a: "Money is good."
+ ita.103.t: "Палаццо Меццанотте"
+ ita.103.d: "Сьогодні в Мілані було відкрито палаццо Меццанотте. Палаццо Меццанотте має стати заміною старої Фондової біржі Республіки, спроектовано зі смаком поєднавши неокласичну та сучасну архітектуру. Чорний понеділок зараз розсіюється , Палаццо Меццанотте вже вважається головною фондовою біржею в Італії."
+ ita.103.a: "Гроші — це добре."
 
  ita.104.t: "Legnano"
- ita.104.d: "Today, the Historical Epic film 'Legnano' was released across the republic to widespread acclaim. The film tells the story of the Holy Roman Emperor Barbarossa and his attempt to control Italy, leading to the creation of the Lombard League and the Battle of Legnano. It was directed by Romolo Marcellini, and stars Fosco Giachetti, Luisa Ferida, and Osvaldo Valenti and funded by the ANI. Due to obvious parallels with the Austrian Empire, it has drawn criticism from the Austrians, despite that the Italian public seems to enjoy the film."
- ita.104.a: "Today we expel the Black Eagle from Lombardy!"
+ ita.104.d: «Сьогодні історичний епічний фільм «Legnano» вийшов на екрани по всій республіці, отримавши широке визнання. Фільм розповідає історію імператора Священної Римської імперії Барбароссу та його спроби контролювати Італію, що призвело до створення лангобардської держави. Ліга та битва при Леньяно. Режисер Ромоло Марчелліні, головні ролі — Фоско Джакетті, Луїза Феріда та Освальдо Валенті, фінансований АІН. Через очевидні паралелі з Австрійською імперією він викликав критику з боку австрійців, незважаючи на це італійській публіці, здається, подобається фільм».
+ ita.104.a: «Сьогодні ми виганяємо Чорного Орла з Ломбардії!»
 
- ita.105.t: "1936 Cansiglio Earthquake"
- ita.105.d: "In the early hours before dawn, the regions of Northeastern Italy on the Cansiglio were shaken by a terrific earthquake. Tragically 19 people were killed and countless more injured. Many of the smaller towns in the region were destroyed or damaged."
- ita.105.a: "May God save them."
+ ita.105.t: "Землетрус Кансільо 1936 року"
+ ita.105.d: «У перші години перед світанком регіони північно-східної Італії на Кансільйо сколихнув жахливий землетрус. Трагічно 19 людей загинули та незліченна кількість отримали поранення. Багато менших міст у регіоні були зруйновані або пошкоджений».
+ ita.105.a: «Хай Бог їх береже».
 
- ita.106.t: "Anniversary of the Golden Ambrosian Republic"
- ita.106.d: "500 years ago in Milan, the citizens of the city chased out the Visconti and set up a Republic in the city. Though the city would be betrayed and become a monarchy again, the ideas of the Republic still resonate with the people in and around Milan. Within Milan, there is a big celebration and a week-long festival celebrating the 500th anniversary of their attempt at a republic."
- ita.106.a: "Long live the Republic!"
+ ita.106.t: "Річниця Золотої Амвросіанської Республіки"
+ ita.106.d: "500 років тому в Мілані жителі міста вигнали Вісконті та заснували в місті республіку. Хоча місто буде зраджено та знову стане монархією, ідеї республіки все ще актуальні з людьми в Мілані та його околицях. У Мілані відбувається велике святкування та тижневий фестиваль, присвячений 500-річчю спроби республіки».
+ ita.106.a: "Хай живе Республіка!"
 
- ita.107.t: "Milan Fashion Week"
- ita.107.d: "With the economy strong, a number of fashion designers in Milan have decided to set up a week-long event in the Spring so that Milan, and with her Italy, can become the fashion capital of the world. Already a number of the various fashion companies are working to make sure that Milan takes pride of place among the cultural and fashion capitals of the world."
- ita.107.a: "Milan shall be the fashion capital of the world!"
+ ita.107.t: «Тиждень моди в Мілані»
+ ita.107.d: «Зважаючи на сильну економіку, кілька дизайнерів одягу в Мілані вирішили організувати тижневий захід навесні, щоб Мілан, а разом з ним Італія, могли стати світовою столицею моди. Низка різноманітних модних компаній вже працюють над тим, щоб Мілан зайняв почесне місце серед культурних і модних столиць світу».
+ ita.107.a: "Мілан стане світовою столицею моди!"
 
- ita.108.t: "Carina Massone Negrone Sets a New Record"
- ita.108.d: "The famed Italian aviator Carina Massone Negrone has set a new record for aviation by flying up to 12,043 metres(39,402 feet) in her biplane and breaking a new record. A personal friend of Italo Balbo himself, her new record has made her popular within the republic, especially in nationalist circles."
- ita.108.a: "A new record for Italy."
+ ita.108.t: «Каріна Массоне Негроне встановила новий рекорд»
+ ita.108.d: «Відома італійська льотчиця Каріна Массоне Негроне встановила новий авіаційний рекорд, пролетівши на своєму біплані на висоту 12 043 метри (39 402 футів) і побивши новий рекорд. Особистий друг самого Італо Бальбо, її новий запис зробив її популярною в республіці, особливо в націоналістичних колах».
+ ita.108.a: «Новий рекорд Італії».
 
- ita.109.t: "Gabriella Angelini's Solo Flight"
- ita.109.d: "Gabriella 'Gaby' Angelini has just completed her solo trip from Delhi. Already famous for visiting eight different countries, the young Aviator has become one of the most popular figures within Italy. At 25 years old she has captivated the people within the republic and even from outside of the republic. The Corriere della Sera was quoted as writing, 'This young Italian girl showed how females can be daring and not lose any of their truly exquisite femininity'."
- ita.109.a: "Three cheers for Gaby Angelini!"
+ ita.109.t: «Окремий політ Габріелли Анджеліні»
+ ita.109.d: "Габріелла "Габі" Анджеліні щойно завершила свою сольну подорож з Делі. Уже відома тим, що відвідала вісім різних країн, молода Авіаторка стала однією з найпопулярніших фігур в Італії. У 25 років вона захопила люди всередині республіки і навіть за межами республіки. Corriere della Sera цитує, що пише: «Ця молода італійська дівчина показала, як жінки можуть бути сміливими і не втрачати своєї справді вишуканої жіночності».
+ ita.109.a: "Тричі ура за Габі Анджеліні!"
 
- ita.110.t: "The Enciclopedia Italiana"
- ita.110.d: "The Enciclopedia Italiana project has finally been completed. The Enciclopedia Italiana di Scienze, Lettere ed Arti or just 'Enciclopedia Italiana' for short is a 35 volume encyclopaedia of the sciences and arts. Meant to showcase the intellectual might of the ANI who sponsored it, it has proven rather popular throughout the intellectual community of the Republic. Even those that against the ANI find the work an achievement to be proud of."
- ita.110.a: "A valuable work, regardless of the intent."
+ ita.110.t: "Італійська енциклопедія"
+ ita.110.d: «Проект «Італійська енциклопедія» нарешті завершено. «Італійська енциклопедія» (Італійська енциклопедія наук, літератури та мистецтв) або просто «Італійська енциклопедія» (Enciclopedia Italiana) — це 35-томна енциклопедія наук і мистецтв. Покликана демонструвати інтелектуальну силу АІН, який його спонсорував, він виявився досить популярним серед інтелектуальної спільноти Республіки. Навіть ті, хто виступає проти АІН, вважають цю роботу досягненням, яким можна пишатися».
+ ita.110.a: «Цінна робота, незалежно від наміру».
 
- ita.120.t: "The War Against Italy"
- ita.120.d: "We are losing badly in the war against [ITA.GetNameDef]. While it's possible we might still be able to turn things around, we do have another option: offer them our lands in southern Tyrol and the Littoral, and hope they will take that offer and leave us be. If they do not... it is entirely possible they might reach all the way to Vienna, and then our empire is lost to us for good."
- ita.120.a: "Let's end this while we can."
- ita.120.b: "Surrender to the Italians? Never!"
+ ita.120.t: «Війна проти Італії»
+ ita.120.d: «Ми дуже програємо у війні проти [ITA.GetNameDef]. Хоча можливо, що ми все ще зможемо змінити ситуацію, у нас є інший варіант: запропонувати їм наші землі в південному Тіролі та на Прибережжі , і сподіваюся, що вони приймуть цю пропозицію та залишать нас у спокої. Якщо вони цього не зроблять... цілком можливо, що вони можуть дійти аж до Відня, і тоді наша імперія буде втрачена для нас назавжди».
+ ita.120.a: «Покінчимо з цим, поки можемо».
+ ita.120.b: «Здаватись італійцям? Ніколи!»
 
- ita.121.t: "Austria Proposes Peace"
- ita.121.d.nogermany: "The Austrians are on the run, and have clearly realised they stand no chance against our forces. They have offered to turn over all our claimed territory, though there are some in the [ROOT.GetAdjective] leadership who are suggesting that now might be the time to defeat them utterly and force their subjugation. That option does not enjoy popular support, though it does hold some appeal."
- ita.121.d.germanycanlimited: "The Austrians are on the run, and have clearly realised they stand no chance against our forces. The question before us now is how far we push our demands. Push too far, or refuse to make peace at all, and [GER.GetNameDef] might decide to intervene on behalf of their old ally. Defy them, and we could end up at war with the entire Reichspakt. That is, of course, if the Germans agree to intervene at all."
- ita.121.d.germanycannotlimited: "The Austrians are on the run, and have clearly realised they stand no chance against our forces. Forced to attend peace talks, we are the ones who find ourselves in a conundrum. Austria is unwilling to give up anything they hold, and should we push our claims or refuse to make peace they have threatened to turn to [GER.GetNameDef] for support. Defy them, and we could end up at war with the entire Reichspakt. That is, of course, if the Germans agree to intervene at all."
- ITA_germany_may_intervene: "§Y[AUS.GetNameDef]§! will call on §Y[GER.GetNameDef]§! to intervene in the peace talks\n"
- ita.121.a: "We will keep our land claims limited"
- ita.121.b: "No, we will push for all our claims!"
- ita.121.c: "Let us end this now"
- ita.121.d: "We intend to wipe out the Austrians completely"
+ ita.121.t: "Австрія пропонує мир"
+ ita.121.d.nogermany: «Австрійці тікають і чітко усвідомлюють, що не мають шансів проти наших військ. Вони запропонували передати всю територію, на яку ми претендуємо, хоча деякі з них є в [ROOT.GetAdjective] керівництво, яке припускає, що зараз, можливо, настав час остаточно перемогти їх і змусити їх підкорити. Цей варіант не користується підтримкою населення, хоча він має певну привабливість».
+ ita.121.d.germanycanlimited: «Австрійці тікають і чітко усвідомили, що не мають жодного шансу проти наших військ. Питання, яке стоїть перед нами зараз, полягає в тому, наскільки далеко ми просуваємо наші вимоги. Просуваємося надто далеко або відмовляємося укладати мир взагалі, і [GER.GetNameDef] може вирішити втрутитися від імені свого старого союзника. Кинути їм виклик, і ми можемо опинитися у війні з усім Рейхспактом. Це, звичайно, якщо німці погодяться на втручання взагалі."
+ ita.121.d.germanycannotlimited: «Австрійці тікають і чітко усвідомлюють, що не мають жодного шансу проти наших сил. Змушені бути присутніми на мирних переговорах, ми є тими, хто опиняється в головоломці. Австрія не бажає дати все, що вони володіють, і якщо ми висуватимемо наші претензії чи відмовимося укласти мир, вони погрожували звернутися до [GER.GetNameDef] за підтримкою. Киньте їм виклик, і ми можемо опинитися у війні з усім рейхспактом. Це, звичайно , якщо німці взагалі погодяться втрутитися».
+ ITA_germany_may_intervene: "§Y[AUS.GetNameDef]§! звернеться до §Y[GER.GetNameDef]§! втрутитись у мирні переговори\n"
+ ita.121.a: «Ми обмежимо наші претензії на землю»
+ ita.121.b: "Ні, ми висуватимемо всі наші претензії!"
+ ita.121.c: "Давайте закінчимо це зараз"
+ ita.121.d: «Ми маємо намір повністю знищити австрійців»
 
- ita.122.t: "Venetia is Lost"
- ita.122.d: "The war against [ITA.GetNameDef] has definitely not gone as planned. We were unable to prevent them from overtaking Venetia, and now we must make the decision whether to continue the war or pull out completely and leave Italy to its own fate. Any peace could be temporary, of course - it's not impossible that the Italians could turn around and attack us again, but perhaps the breather would be worth it?"
- ita.122.a: "We must pull out at once"
- ita.122.b: "Surrender to the Italians? Never!"
+ ita.122.t: "Венеція втрачена"
+ ita.122.d: «Війна проти [ITA.GetNameDef] точно пішла не так, як планувалося. Ми не змогли перешкодити їм захопити Венецію, і тепер ми повинні прийняти рішення, чи продовжувати війну, чи повністю вийти з неї Італія на свою долю. Звичайно, будь-який мир може бути тимчасовим - не виключено, що італійці можуть розвернутися й атакувати нас знову, але, можливо, передихнути варто було б?»
+ ita.122.a: "Ми повинні вийти негайно"
+ ita.122.b: «Здаватись італійцям? Ніколи!»
 
- ita.123.t: "Austria Withdraws from Venice"
- ita.123.d: "We have taken control over Venetia, despite the Austrian intervention, and now they are busy pulling their troops out as quickly as they can. So much for their lordship over Italy."
- ita.123.a: "We will come for them later."
+ ita.123.t: "Австрія виходить із Венеції"
+ ita.123.d: «Ми взяли під свій контроль Венецію, незважаючи на втручання Австрії, і тепер вони зайняті тим, щоб якнайшвидше вивести звідти свої війська. Так багато про їх панування над Італією».
+ ita.123.a: «Ми прийдемо за ними пізніше».
 
- ita.126.t: "Venice Has Fallen"
- ita.126.d: "Venice has fallen to the forces of [SRI.GetNameDef], and now they threaten [Root.GetNameDef] itself. Should we call an end to this war, while we still can?"
+ ita.126.t: "Венеція впала"
+ ita.126.d: «Венеція впала під руки [SRI.GetNameDef], і тепер вони загрожують самому [Root.GetNameDef]. Чи маємо ми припинити цю війну, поки ще можемо?»
 
- ita.127.t: "Austria in Trouble"
- ita.127.d: "[From.GetNameDefCap] has pushed far into Austria, and apparently intends to conquer the entire thing instead of sticking to its claims. It is clearly dangerous."
- ita.127.a: "We should help Austria!"
- ita.127.b: "There is nothing we can do"
+ ita.127.t: "Австрія в біді"
+ ita.127.d: «[From.GetNameDefCap] просунувся далеко в Австрію і, очевидно, має намір завоювати всю країну замість того, щоб дотримуватися своїх вимог. Це явно небезпечно».
+ ita.127.a: "Ми повинні допомогти Австрії!"
+ ita.127.b: "Ми нічого не можемо зробити"
 
- ita.128.t: "The German Intervention"
- ita.128.d: "It seems that [From.GetNameDef] has become alarmed by our aggressive invasion of [AUS.GetNameDef]. Fearing our intention is to conquer it outright, the Germans have come to the aid of their former Weltkrieg allies."
- ita.128.a: "Damn it!"
+ ita.128.t: "Німецьке втручання"
+ ita.128.d: «Схоже, що [From.GetNameDef] стривожений нашим агресивним вторгненням до [AUS.GetNameDef]. Побоюючись, що ми маємо намір завоювати його повністю, німці прийшли на допомогу своїм колишнім союзникам з Вельткригу."
+ ita.128.a: "Прокляття!"
 
- ita.130.t: "The Italian Demands"
- ita.130.d: "The Italians have demanded every bit of land they have a claim on, owned either by us or our subject states. We do have the option of turning to our old allies in [GER.GetNameDef] and asking for their intervention... that would, at least, force the Italians to keep their demands more limited, even if it would make [Root.GetNameDef] look weak."
- ita.130.a: "We ARE weak - appeal to the Germans"
- ita.130.b: "Give the Italians whatever they want"
+ ita.130.t: «Італійські вимоги»
+ ita.130.d: «Італійці вимагали кожну частину землі, на яку вони претендували, яка належить нам або нашим підлеглим державам. У нас є можливість звернутися до наших старих союзників у [GER.GetNameDef] і попросити їхнє втручання... це принаймні змусило б італійців обмежити свої вимоги, навіть якщо [Root.GetNameDef] виглядатиме слабким».
+ ita.130.a: "МИ СЛАБІ - звертайтеся до німців"
+ ita.130.b: "Дайте італійцям все, що вони хочуть"
 
- ita.131.t: "No German Intervention"
- ita.131.d: "It seems the Austrian threat was as much hot air as their military capabilities. There will be no German intervention in the peace talks, and we will get all the land we claim."
- ita.131.a: "Excellent!"
+ ita.131.t: «Німеччині не втручатися»
+ ita.131.d: «Схоже, австрійська загроза була такою ж гарячою, як і їхній військовий потенціал. Німеччини не буде втручання в мирні переговори, і ми отримаємо всю землю, на яку претендуємо».
+ ita.131.a: "Чудово!"
 
- ita.132.t: "The Austrians are in Trouble"
- ita.132.d: "Amazingly, it appears as if [AUS.GetNameDef] is incapable of holding [ITA.GetNameDef] at bay. The Italians have forced them into peace talks. The Austrians have approached us, however, saying that the Italians have demanded too much territory, and are asking for our intervention. Doing so makes us look good, but it does mean we risk war should the Italians refuse."
- ita.132.a: "Of course we will help our old allies"
- ita.132.b: "The Austrians are on their own"
+ ita.132.t: «Австрійці в біді»
+ ita.132.d: «Дивно, але виглядає так, ніби [AUS.GetNameDef] не в змозі стримати [ITA.GetNameDef]. Італійці змусили їх розпочати мирні переговори. Проте австрійці звернулися до нас, кажучи, що Італійці вимагають занадто багато території і вимагають нашого втручання. Це робить нас гарними, але це означає, що ми ризикуємо війною, якщо італійці відмовляться».
+ ita.132.a: «Звичайно, ми допоможемо нашим старим союзникам»
+ ita.132.b: "Австрійці самі по собі"
 
- ita.133.t: "The Germans Have Refused"
- ita.133.d: "It seems our ties with [GER.GetNameDef] do not run as deeply as we thought. They have refused our request, and we are left with no choice but to submit to the full Italian demands."
- ita.133.a: "Alas!"
+ ita.133.t: «Німці відмовилися»
+ ita.133.d: «Схоже, наші зв’язки з [GER.GetNameDef] не такі глибокі, як ми думали. Вони відхилили наш запит, і нам не залишається іншого вибору, окрім як підкоритися повним вимогам Італії».
+ ita.133.a: "На жаль!"
 
- ita.134.t: "The Germans Have Agreed"
- ita.134.d: "The German government has agreed to our request for an intervention! Surely the Italians will back down on their unreasonable demands and make peace now?"
- ita.134.a: "How humiliating for us, even so"
+ ita.134.t: "Німці домовилися"
+ ita.134.d: «Німецький уряд погодився на наше прохання про втручання! Напевно, італійці відступлять від своїх нерозумних вимог і зараз укладуть мир?»
+ ita.134.a: «Як принизливо для нас, навіть так»
 
- ita.135.t: "The Germans Have Intervened"
- ita.135.d: "While it is outrageous that they would stick their noses where they're not welcome, the Germans have agreed to aid their old Austrian allies. Their diplomats have informed us that either we restrict ourselves to modest gains only or they will turn the power of the entire Reichspakt upon us."
- ita.135.a: "Very well, we accept their terms"
- ita.135.b: "Never! Bring on all their armies!"
+ ita.135.t: «Німці втрутилися»
+ ita.135.d: «Хоча обурливо, що вони сунуть свої носи туди, куди їх не чекають, німці погодилися допомогти своїм старим австрійським союзникам. Їхні дипломати повідомили нам, що або ми обмежимося лише скромними прибутками, або вони звернуть на нас владу всього Рейхспакту».
+ ita.135.a: "Дуже добре, ми приймаємо їхні умови"
+ ita.135.b: "Ніколи! Викличте всі їхні армії!"
 
  ita.150.t: "Withdrawal from the Italian Republic"
- ita.150.d: "Black Monday has hit [AUS.GetNameDef] hard... hard enough that many of our companies have been forced to withdraw from [ITA.GetNameDef]. Not only has our economic hold over the Italians weakened, we also cannot afford to maintain our occupation forces there. For good or ill, [ITA.GetNameDef] is now effectively independent. We will have to maintain a working relationship with them, at least until we can restore our own strength."
+ ita.150.d: "Black Monday has hit [AUS.GetNameDef] hard... hard enough that many of our compАІНes have been forced to withdraw from [ITA.GetNameDef]. Not only has our economic hold over the Italians weakened, we also cannot afford to maintain our occupation forces there. For good or ill, [ITA.GetNameDef] is now effectively independent. We will have to maintain a working relationship with them, at least until we can restore our own strength."
  ita.150.a: "Our sphere of influence retracts."
 
  ita.151.t: "The Austrian Withdrawal"
- ita.151.d: "Black Monday has hit [AUS.GetNameDef] hard. Their markets have plunged so low that many Austrian stockholders of Austro-Italian companies have panicked and sold countless bonds to native Italians, weakening the Austrian stranglehold over our economy. Not only have we rid ourselves of foreign economic influence, the Austro-Hungarian Reichskriegsminister has recalled the divisions stationed in our territory, unable to afford the financial burden of keeping us safe from what many in Vienna foolishly believe to be an empty Socialist threat. For good or ill, [ITA.GetNameDef] is now effectively independent of Austrian domination, at least until they regain their full strength. Many Italians are worried about whether or not this will leave us exposed to attack by [SRI.GetNameDef]. A war right now would be a terrible prospect."
+ ita.151.d: "Black Monday has hit [AUS.GetNameDef] hard. Their markets have plunged so low that many Austrian stockholders of Austro-Italian compАІНes have pАІНcked and sold countless bonds to native Italians, weakening the Austrian stranglehold over our economy. Not only have we rid ourselves of foreign economic influence, the Austro-Hungarian Reichskriegsminister has recalled the divisions stationed in our territory, unable to afford the financial burden of keeping us safe from what many in Vienna foolishly believe to be an empty Socialist threat. For good or ill, [ITA.GetNameDef] is now effectively independent of Austrian domination, at least until they regain their full strength. Many Italians are worried about whether or not this will leave us exposed to attack by [SRI.GetNameDef]. A war right now would be a terrible prospect."
  ita.151.a: "Is this a step towards a free Italy?"
 
- ita.152.t: "ANI Protests Elections"
- ita.152.d: "Massive demonstrations were held today in Milan as well as other cities throughout [Root.GetNameDef], with ANI leader Italo Balbo accusing the government of rigging the elections with Austrian assistance. Austrian influence is felt everywhere throughout the country, Balbo said, and suggested that Italians would never have true independence until they overthrew their oppressors. While Balbo has yet to show any true evidence of rigging, his words still found many eager listeners... and there is a growing concern that his cadre of followers might cause trouble for the government."
- ita.152.a: "Outlaw the ANI and shut them down."
+ ita.152.t: "АІН Protests Elections"
+ ita.152.d: "Massive demonstrations were held today in Milan as well as other cities throughout [Root.GetNameDef], with АІН leader Italo Balbo accusing the government of rigging the elections with Austrian assistance. Austrian influence is felt everywhere throughout the country, Balbo said, and suggested that Italians would never have true independence until they overthrew their oppressors. While Balbo has yet to show any true evidence of rigging, his words still found many eager listeners... and there is a growing concern that his cadre of followers might cause trouble for the government."
+ ita.152.a: "Outlaw the АІН and shut them down."
  ita.152.b: "Keep a close eye on him - this is still a democracy."
 
  ita.153.t: "Greenshirts Wreak Havoc"
- ita.153.d: "In response to the recent government crackdown, Italo Balbo's most ardent supporters within the Associazione Nazionalista Italiana, dubbed 'Greenshirts' by the media, have been spreading chaos throughout the nation. Already they have been directly implicated in two riots and several bombings, with posters accusing the Italian government of conspiracy and selling out to foreign interests being plastered everywhere in the capital. Their wave of chaos is spreading, and many are accusing Prime Minister [Root.GetLeader] of incompetence for taking too strong a stance against the ANI and provoking the violence."
+ ita.153.d: "In response to the recent government crackdown, Italo Balbo's most ardent supporters within the Associazione Nazionalista Italiana, dubbed 'Greenshirts' by the media, have been spreading chaos throughout the nation. Already they have been directly implicated in two riots and several bombings, with posters accusing the Italian government of conspiracy and selling out to foreign interests being plastered everywhere in the capital. Their wave of chaos is spreading, and many are accusing Prime Minister [Root.GetLeader] of incompetence for taking too strong a stance against the АІН and provoking the violence."
  ita.153.a: "How long will this go on?"
 
  ita.154.t: "Anti-Government Demonstrations"
- ita.154.d: "As the terror campaign by the Associazione Nazionalista Italiana continues, protests against the government's inept handling of the violence have erupted throughout the country. The largest of these drew well over a hundred thousand in Milan, bringing the nation to a standstill as protestors threatened to start a national strike if the government does not round up the ANI ringleaders soon. Despite the protests, it is clear that the police actions against Balbo's group are having limited effect - indeed, he appears to be gaining as many followers as he loses to the mass arrests."
+ ita.154.d: "As the terror campaign by the Associazione Nazionalista Italiana continues, protests against the government's inept handling of the violence have erupted throughout the country. The largest of these drew well over a hundred thousand in Milan, bringing the nation to a standstill as protestors threatened to start a national strike if the government does not round up the АІН ringleaders soon. Despite the protests, it is clear that the police actions against Balbo's group are having limited effect - indeed, he appears to be gaining as many followers as he loses to the mass arrests."
  ita.154.a: "We are doing what we can!"
 
  ita.155.t: "The March on Milan Fails"
@@ -954,21 +954,21 @@
  ita.157.b: "Restore the Federation under Count Visconti."
  ita.157.c: "Disband the Republic completely."
 
- ita.158.t: "ANI Recruiting in the Military"
- ita.158.d: "The popularity of the Associazione Nazionalista Italiana continues to grow unchecked, and now it appears Italo Balbo has been campaigning hard amongst the generals of the Republican army. It is unknown whether any have agreed to join his cause, but rancor against the government has been increasing and many officials fear a coup could be in the offing. Taking a stand against the ANI now, however, could provoke the kind of violence which might drive the army towards supporting Balbo even if they weren't already considering it. What shall we do?"
+ ita.158.t: "АІН Recruiting in the Military"
+ ita.158.d: "The popularity of the Associazione Nazionalista Italiana continues to grow unchecked, and now it appears Italo Balbo has been campaigning hard amongst the generals of the Republican army. It is unknown whether any have agreed to join his cause, but rancor against the government has been increasing and many officials fear a coup could be in the offing. Taking a stand against the АІН now, however, could provoke the kind of violence which might drive the army towards supporting Balbo even if they weren't already considering it. What shall we do?"
  ita.158.a: "We must act now, no matter the consequences."
  ita.158.b: "Campaign for our own support and prepare for the worst."
 
- ita.159.t: "Massive ANI Demonstrations"
- ita.159.d: "As support for the ANI increases, and violent riots in [ITA.GetNameDef] become commonplace, protests against the government's inept handling of the situation have erupted throughout the country. The largest of these drew well over a hundred thousand in Milan, bringing the nation to a standstill as protestors threatened to start a national strike if the government does not deal with the ANI ringleaders soon. Protestors are suggesting that the government's inaction is tantamount to incompetence."
+ ita.159.t: "Massive АІН Demonstrations"
+ ita.159.d: "As support for the АІН increases, and violent riots in [ITA.GetNameDef] become commonplace, protests against the government's inept handling of the situation have erupted throughout the country. The largest of these drew well over a hundred thousand in Milan, bringing the nation to a standstill as protestors threatened to start a national strike if the government does not deal with the АІН ringleaders soon. Protestors are suggesting that the government's inaction is tantamount to incompetence."
  ita.159.a: "We are doing the best we can!"
 
  ita.160.t: "The March on Milan"
- ita.160.d: "Italo Balbo, leader of the ANI, today called for a massive march on the royal palace in Milan, suggesting that a show of force is the only way to force the government to resign and clear the country of Austrian influence and corruption. The crowds pouring into the central square are massive, and as the Italian police and military move in it is clear that the resulting bloodshed will be horrific. Already, even before it is determined whether Balbo's coup might be successful, there are members of the opposition calling for a vote of confidence concerning the government's handling of the situation. Such calls might be moot, however, if Balbo's sheer numbers win the day..."
+ ita.160.d: "Italo Balbo, leader of the АІН, today called for a massive march on the royal palace in Milan, suggesting that a show of force is the only way to force the government to resign and clear the country of Austrian influence and corruption. The crowds pouring into the central square are massive, and as the Italian police and military move in it is clear that the resulting bloodshed will be horrific. Already, even before it is determined whether Balbo's coup might be successful, there are members of the opposition calling for a vote of confidence concerning the government's handling of the situation. Such calls might be moot, however, if Balbo's sheer numbers win the day..."
  ita.160.a: "Balbo's coup is successful."
  ita.160.b: "Balbo and his supporters are dispersed."
 
- ita.161.t: "ANI Ringleaders Finally Caught"
+ ita.161.t: "АІН Ringleaders Finally Caught"
  ita.161.d: "While the leader of the Associazione Nazionalista Italiana, Italo Balbo, remains at large, today it was announced that most of his co-conspirators in the nationwide terror campaign have finally been captured. Most are now awaiting trial, while the country breathes a sigh of relief. Many consider this to be a sign that the worst of [ITA.GetNameDef]'s political struggles are over."
  ita.161.a: "It's about time!"
 
@@ -985,21 +985,21 @@
  ita.172.a: "It will change nothing"
 
  ita.175.t: "[From.GetNameDefCap] Claims Libya"
- ita.175.d: "Citing the fact that their Libyan colony was only unjustly wrested from Italy thanks to their loss in the Weltkrieg, the [From.GetAdjective] government today announced that it was now claiming the entirety of Tripolitania as their own. Whether that will mean a demand is forthcoming, or even war, remains to be seen."
+ ita.175.d: "Citing the fact that their Libyan colony was only unjustly wrested from Italy thanks to their loss in the Weltkrieg, the [From.GetAdjective] government today announced that it was now claiming the entirety of TripolitАІНa as their own. Whether that will mean a demand is forthcoming, or even war, remains to be seen."
  ita.175.a: "How dare they!"
 
  ita.176.t: "[From.GetNameDefCap] Demands Libya"
- ita.176.d.owns: "The [From.GetAdjective] government has issued an ultimatum to us: turn over all our territory in Tripolitania at once - which they claim, in its entirety - or they will be forced to invade. Already, [From.GetAdjective] ships are crossing the Mediterranean and making their intentions rather obvious."
- ita.176.d.subject: "The [From.GetAdjective] government has issued an ultimatum to us: turn over all our territory in Tripolitania at once. This includes cutting [LBA.GetNameDef] loose from our control. which [From.GetNameDef] would presumably then invade. Already, [From.GetAdjective] ships are crossing the Mediterranean and making their intentions rather obvious."
+ ita.176.d.owns: "The [From.GetAdjective] government has issued an ultimatum to us: turn over all our territory in TripolitАІНa at once - which they claim, in its entirety - or they will be forced to invade. Already, [From.GetAdjective] ships are crossing the Mediterranean and making their intentions rather obvious."
+ ita.176.d.subject: "The [From.GetAdjective] government has issued an ultimatum to us: turn over all our territory in TripolitАІНa at once. This includes cutting [LBA.GetNameDef] loose from our control. which [From.GetNameDef] would presumably then invade. Already, [From.GetAdjective] ships are crossing the Mediterranean and making their intentions rather obvious."
  ita.176.a: "Fine, give them what they want"
  ita.176.b: "If it's a war they want, they'll get it!"
 
  ita.177.t: "[From.GetNameDefCap] Abandons Us"
- ita.177.d: "[From.GetNameDefCap] has responded to a demand by the [From.From.GetAdjective] government, which claims Tripolitania as its own, by agreeing to cut us loose - already [From.GetAdjective] officials and [From.GetAdjective] forces are busy leaving [Root.GetNameDef]. One assumes that a declaration of war from [From.From.GetNameDef] will be forthcoming shortly."
+ ita.177.d: "[From.GetNameDefCap] has responded to a demand by the [From.From.GetAdjective] government, which claims TripolitАІНa as its own, by agreeing to cut us loose - already [From.GetAdjective] officials and [From.GetAdjective] forces are busy leaving [Root.GetNameDef]. One assumes that a declaration of war from [From.From.GetNameDef] will be forthcoming shortly."
  ita.177.a: "We shall see!"
 
  ita.178.t: "[From.GetNameDefCap] Has Relented"
- ita.178.d.give: "Apparently too terrified at the prospect of starting a war with us over the territory, [From.GetNameDef] has relented to our ultimatum and turned over all their owned land within Tripolitania. Diplomacy has won the day!"
+ ita.178.d.give: "Apparently too terrified at the prospect of starting a war with us over the territory, [From.GetNameDef] has relented to our ultimatum and turned over all their owned land within TripolitАІНa. Diplomacy has won the day!"
  ita.178.d.abandon: "Apparently too terrified at the prospect of starting a war with us over the territory, [From.GetNameDef] has relented to our ultimatum and cut [LBA.GetNameDef] loose. They are no longer responsible for the [LBA.GetAdjective] government and will not protect them. We are free and clear to invade, if we should so wish."
  ita.178.a: "Excellent"
 
@@ -1008,12 +1008,12 @@
  ita.179.a: "So be it!"
 
  ita.180.t: "The Italians are Winning"
- ita.180.d: "The war is going poorly. [libya_italy.GetNameDefCap] has succeeded in occupying Tripolitania, and we are so far unable to dislodge them from it. Nor have we been able to occupy any of their mainland territory. Many within the [Root.GetAdjective] government feel that now is the time to sue for peace and stop this war before it goes on any longer."
+ ita.180.d: "The war is going poorly. [libya_italy.GetNameDefCap] has succeeded in occupying TripolitАІНa, and we are so far unable to dislodge them from it. Nor have we been able to occupy any of their mainland territory. Many within the [Root.GetAdjective] government feel that now is the time to sue for peace and stop this war before it goes on any longer."
  ita.180.a: "End this now"
  ita.180.b: "We must keep fighting!"
 
  ita.181.t: "[From.GetNameDefCap] Sues for Peace"
- ita.181.d: "It seems the [From.GetAdjective] government has decided it would rather sue for peace than keep on defending Tripolitania. If we end the war now, they will hand it over - and that will be that."
+ ita.181.d: "It seems the [From.GetAdjective] government has decided it would rather sue for peace than keep on defending TripolitАІНa. If we end the war now, they will hand it over - and that will be that."
  ita.181.a: "That's all we want"
  ita.181.b: "No, we shall pursue this to the end!"
 
@@ -1023,7 +1023,7 @@
  ita.182.b: "No, we can still win!"
 
  ita.183.t: "[From.GetNameDefCap] Sues for Peace"
- ita.183.d: "It seems the [From.GetAdjective] government has decided its pursuit of Libya has come at too high a price. They have offered to give up their claims on Tripolitania entirely, and hand over any land that we or our allies claim (if any exist), if we will simply call off the war now."
+ ita.183.d: "It seems the [From.GetAdjective] government has decided its pursuit of Libya has come at too high a price. They have offered to give up their claims on TripolitАІНa entirely, and hand over any land that we or our allies claim (if any exist), if we will simply call off the war now."
  ita.183.a: "Yes, let's end this now"
  ita.183.b: "They started this, now we will see it through"
 
@@ -1092,25 +1092,25 @@
 
 ### Characters ###
  ITA_italo_balbo: "Italo Balbo"
- ITA_italo_balbo_leader_desc: «Розривний. Надзвичайний. Екстремальний. Жорстокий. Але ніколи не нудний. Мало хто міг передбачити, що Італійська Республіка, яка довго розривалася між аристократичною федерацією, яку підтримувала Австрія, та демократією, яку підтримували ідеалісти, буде повалена людиною, яка зневажала обох. на праху, Італо Бальбо проголосив себе Дуче перед своїми легіонерами, і його не зупинять: ні пристойність, ні загроза повстання, ні вторгнення австрійців, ні червона загроза на Захід.\n\nБальбо виріс поблизу Феррари, і Він захоплювався героями Рісорджіменто, особливо Джузеппе Мадзіні, і в 14 років спробував втекти, щоб приєднатися до спроби Річчотті Гарібальді звільнити Албанію від Османської імперії.\n\nКоли спалахнув Велткріг, він перервав навчання та приєднався до Альпіні. Він швидко відзначився своєю мужністю та фанатизмом проти австрійців, отримавши численні нагороди та звання капітана. Під час війни він також вперше був представлений у повітря ремесло: він добровільно пішов на льотну підготовку, коли хвиля почала повертатися проти Антанти. Незважаючи на всі зусилля італійців, вони зазнали поразки, і в 1919 році було підписано перемир’я.\n\nНезважаючи на те, що він виріс під впливом республіканських і соціалістичних поглядів, Бальбо розвинув ненависть до соціалістичної революції. Після того, як залишив свою комісію на знак протесту проти їхньої капітуляції перед австрійцями, він організував власне ополчення для придушення соціалістичної діяльності. Це привернуло до нього увагу однодумця Габріеле Д'Аннунціо, який допоміг заснувати Асоціацію італійських націоналістів.\n\nАНІ став сумно відомим у новоствореній «Італійській федерації» своїми насильницькими актами тероризму проти про- Австрійські та просоціалістичні діячі. Багато землевласників закривали очі на їхню діяльність, і Бальбо став сумно відомим як один із примусових діячів Д'Аннунціо, легко захоплюючи керівництво після смерті першого.\n\nТепер, змивши своїх політичних опонентів, бачення Бальбо ірредентиста, тоталітарного і націоналістична Італія може бути реалізована. Але чи це дурість, чи він справді наступний Мадзіні, одне можна сказати напевно: попереду довгий шлях».
+ ITA_italo_balbo_leader_desc: "Розривний. Надзвичайний. Екстремальний. Жорстокий. Але ніколи не нудний. Мало хто міг передбачити, що Італійська Республіка, яка довго розривалася між аристократичною федерацією, яку підтримувала Австрія, та демократією, яку підтримували ідеалісти, буде повалена людиною, яка зневажала обох. на праху, Італо Бальбо проголосив себе Дуче перед своїми легіонерами, і його не зупинять, ні пристойність, ні загроза повстання, ні вторгнення австрійців, ні червона загроза на Захід.\n\nБальбо виріс поблизу Феррари, і Він захоплювався героями Рісорджіменто, особливо Джузеппе Мадзіні, і в 14 років спробував втекти, щоб приєднатися до спроби Річчотті Гарібальді звільнити Албанію від Османської імперії.\n\nКоли спалахнув Велткріг, він перервав навчання та приєднався до Альпіні. Він швидко відзначився своєю мужністю та фанатизмом проти австрійців, отримавши численні нагороди та звання капітана. Під час війни він також вперше був представлений у повітря ремесло: він добровільно пішов на льотну підготовку, коли хвиля почала повертатися проти Антанти. Незважаючи на всі зусилля італійців, вони зазнали поразки, і в 1919 році було підписано перемир’я.\n\nНезважаючи на те, що він виріс під впливом республіканських і соціалістичних поглядів, Бальбо розвинув ненависть до соціалістичної революції. Після того, як залишив свою комісію на знак протесту проти їхньої капітуляції перед австрійцями, він організував власне ополчення для придушення соціалістичної діяльності. Це привернуло до нього увагу однодумця Габріеле Д'Аннунціо, який допоміг заснувати Асоціацію італійських націоналістів.\n\nАНІ став сумно відомим у новоствореній "Італійській Федерації» своїми насильницькими актами тероризму проти про- Австрійські та просоціалістичні діячі. Багато землевласників закривали очі на їхню діяльність, і Бальбо став сумно відомим як один із примусових діячів Д'Аннунціо, легко захоплюючи керівництво після смерті першого.\n\nТепер, змивши своїх політичних опонентів, бачення Бальбо ірредентиста, тоталітарного і націоналістична Італія може бути реалізована. Але чи це дурість, чи він справді наступний Мадзіні, одне можна сказати напевно: попереду довгий шлях."
  
  ITA_pietro_ferdinando: "Pietro Ferdinando d'Asburgo-Lorena"
- ITA_pietro_ferdinando_leader_desc: "Хоча багато хто в Італії мріє про великі зміни, інші озираються назад у минуле — коли все було по-іншому. Для багатьох із таких ностальгіків вони дивляться на Гарібальді чи Мадзіні, на час, коли Італія була сильною та об’єднаною. Є меншість, яка оглядається ще далі.Схоже, що їхня мрія збулася: Великий Герцог П’єтро Фердінандо д’Асбурго-Лорена прийняв титул Президента відновленої Італійської Федерації, сукупності італійських держав до Рісорджіменто. Його сходження на престол, безсумнівно, частково є винагородою за вірне покровительство Австрії італійським аристократам і консерваторам.\n\nП'єтро Фердінандо народився в Зальцбурзі в родині колишнього великого герцога Фердинанда IV Тосканського, однієї з найбільших держав в Італії. Його батько був був скинутий, і у вигнанні зрікся своїх претензій на трон на користь австрійського імператора.Третій син у своїй сім'ї та з огляду на політичні обставини, П'єтро Фердінандо не сподівався повернутися до Тоскани і вступив до австрійської армії.\n\nПід час Світової війни він служив командиром піхоти та допомагав в окупації Північної Італії. Коли перемир’я було вперше підписано, австрійські планувальники почали розробляти плани відновлення старого статус-кво з невеликим поворотом, існуватиме вільна федерація на чолі з Папою, яка буде керувати Італією та придушувати італійські націоналістичні настрої. Оскільки обидва його брати одружилися морганатично, генерал П’єтро Фердинанд був обраний Карлом новим великим герцогом Тоскани.\n\nЦі плани виявилися надто амбітними. Австрійський наступ так і не дійшов до Тоскани, і соціалістичні повстанці заполонили регіон. Крім того, до 1930 року Федерація розпалася, Сицилія та Сардинія залишили, а австрійські війська пішли з півночі. Було проголошено республіку, і П’єтро Фердинанд фактично застряг у юридичному безвиході. Принаймні досі.\n\nЩоб розважитися, князь Габсбургів, як відомо, цінував мистецтво. Він є далеким родичем дому Бурбон-Парма по лінії матері».
+ ITA_pietro_ferdinando_leader_desc: "Хоча багато хто в Італії мріє про великі зміни, інші озираються назад у минуле — коли все було по-іншому. Для багатьох із таких ностальгіків вони дивляться на Гарібальді чи Мадзіні, на час, коли Італія була сильною та об’єднаною. Є меншість, яка оглядається ще далі.Схоже, що їхня мрія збулася: Великий Герцог П’єтро Фердінандо д’Асбурго-Лорена прийняв титул Президента відновленої Італійської Федерації, сукупності італійських держав до Рісорджіменто. Його сходження на престол, безсумнівно, частково є винагородою за вірне покровительство Австрії італійським аристократам і консерваторам.\n\nП'єтро Фердінандо народився в Зальцбурзі в родині колишнього великого герцога Фердинанда IV Тосканського, однієї з найбільших держав в Італії. Його батько був був скинутий, і у вигнанні зрікся своїх претензій на трон на користь австрійського імператора.Третій син у своїй сім'ї та з огляду на політичні обставини, П'єтро Фердінандо не сподівався повернутися до Тоскани і вступив до австрійської армії.\n\nПід час Світової війни він служив командиром піхоти та допомагав в окупації Північної Італії. Коли перемир’я було вперше підписано, австрійські планувальники почали розробляти плани відновлення старого статус-кво з невеликим поворотом, існуватиме вільна федерація на чолі з Папою, яка буде керувати Італією та придушувати італійські націоналістичні настрої. Оскільки обидва його брати одружилися морганатично, генерал П’єтро Фердинанд був обраний Карлом новим великим герцогом Тоскани.\n\nЦі плани виявилися надто амбітними. Австрійський наступ так і не дійшов до Тоскани, і соціалістичні повстанці заполонили регіон. Крім того, до 1930 року Федерація розпалася, Сицилія та Сардинія залишили, а австрійські війська пішли з півночі. Було проголошено республіку, і П’єтро Фердинанд фактично застряг у юридичному безвиході. Принаймні досі.\n\nЩоб розважитися, князь Габсбургів, як відомо, цінував мистецтво. Він є далеким родичем дому Бурбон-Парма по лінії матері."
  
  ITA_adriano_visconti: "Adriano Visconti"
  ITA_adriano_visconti_leader_desc: "Давним-давно родина Вісконті правила Міланським герцогством. Здавалося б, велике багатство дозволило їм повернутися до влади, а потім і деяким: Адріано Вісконті, австрійський обраний граф Ломбардії, став президентом Італійська федерація. Це іронічний, можливо, навмисний вибір - міланці були одними з найбільш ворожих до імперського правління в Північній Італії, і поразка улюбленого кандидата Австрії у вигляді П'єтро Фердінандо з Тоскани могла сигналізувати про більший ступінь незалежності цієї федерації від Австрії. Можливо, під керівництвом цього молодого графа та повітряного аса Італійська федерація буде чимось більшим, ніж просто маріонетковою державою Габсбургів.\n\nСин Галеаццо Вісконті, Адріано народився під час світової війни в тодішній італійській Лівії, але він був ще маленьким. Коли він повернувся до Італії, він приєднався до військово-повітряних сил у 1936 році, на тлі зростання напруженості на півострові, і продемонстрував неабиякий талант пілота-винищувача. як завжди бачив себе одним. Зухвалий і запальний молодий чоловік, який обійняв посаду графа, щоб забезпечити стабільність у Ломбардії, мало піклувався про дипломатичні витонченості чи думку про те, що граф не може пілотувати винищувач, але все одно лояльний і не має наміру пропускати обов’язки його позицію, бо він бачив зверху наслідки синдикалізму та війни особисто."
  
  ITA_emilio_de_bono: "Emilio de Bono"
- ITA_emilio_de_bono_leader_desc: "Часи були не дуже добрими для Італії, і, здається, життя демократії в Італійській Республіці було швидкоплинним. Зазнавши поразки від іноземних держав і зі спадщиною громадянської війни в Італії, окупанти все ще свіжі в пам’яті, Еміліо де Боно було доручено створити тимчасовий військовий уряд Італії. Зважаючи на обставини, схоже, що генерал де Боно залишиться на посаді ще деякий час.\n\nЕміліо де Боно народився в Ломбардії, віддаленому нащадку Ломбардії Він пішов стопами свого батька і вступив до військової школи, навчаючись у Мілані, а потім у Модені. Офіцер Берсальєрі, де Боно воював в Еритреї та Лівії під час високого періоду нового Італійського королівства, час, який, на жаль, не міг останнє.\n\nКоли в 1915 році Італія доленосно звела свою долю з Антантою, тодішнього полковника де Боно було відправлено воювати проти австрійців. Швидко підвищили його до генерал-майора та лідера «Трапанського» igade, де Боно відзначився і став нагородженим офіцером. Під час оборони гори Граппа наприкінці війни де Боно був співавтором Canzone del Grappa, яка стала патріотичною піснею, незважаючи на остаточну поразку Італії.\n\nСправді, після 1918 року все почало швидко змінюватися. Де Боно потрапив у полон. коли лінії фронту Італії почали руйнуватися, і в полоні спостерігав, як Італія швидко розділилася на громадянську війну. Австрійська влада, відчайдушно прагнучи стабілізувати свою дедалі меншу владу на півночі Італії, звільнила де Боно разом зі своїми людьми служити в Білій армії Італії проти червоної хвилі. Наступна незручна домовленість між Федерацією та Республікою не вплинула на нову кар’єру де Боно — він ненадовго став генеральним директором громадської безпеки в уряді Бономі в перші дні, коли ситуація в Ломбардії та Венеції стабілізувалася. Незважаючи на суперечливий термін, який включав резонансні вбивства політичних дисидентів, він все ж став маршалом Італії.\n\nТепер, коли прийшов новий уряд, де Боно розглядається як літній фігурант іноземного правління. Незважаючи на те, що багато хто критикує його за жорстку політику, і його звинувачують у прихильності до Бальбо та його легіонерів, очікується, що новий військовий уряд продовжуватиме невпинно працювати."
+ ITA_emilio_de_bono_leader_desc: "Часи були не дуже добрими для Італії, і, здається, життя демократії в Італійській Республіці було швидкоплинним. Зазнавши поразки від іноземних держав і зі спадщиною громадянської війни в Італії, окупанти все ще свіжі в пам’яті, Еміліо де Боно було доручено створити тимчасовий військовий уряд Італії. Зважаючи на обставини, схоже, що генерал де Боно залишиться на посаді ще деякий час.\n\nЕміліо де Боно народився в Ломбардії, віддаленому нащадку Ломбардії Він пішов стопами свого батька і вступив до військової школи, навчаючись у Мілані, а потім у Модені. Офіцер Берсальєрі, де Боно воював в Еритреї та Лівії під час високого періоду нового Італійського королівства, час, який, на жаль, не міг останнє.\n\nКоли в 1915 році Італія доленосно звела свою долю з Антантою, тодішнього полковника де Боно було відправлено воювати проти австрійців. Швидко підвищили його до генерал-майора та лідера "Трапанського» igade, де Боно відзначився і став нагородженим офіцером. Під час оборони гори Граппа наприкінці війни де Боно був співавтором Canzone del Grappa, яка стала патріотичною піснею, незважаючи на остаточну поразку Італії.\n\nСправді, після 1918 року все почало швидко змінюватися. Де Боно потрапив у полон. коли лінії фронту Італії почали руйнуватися, і в полоні спостерігав, як Італія швидко розділилася на громадянську війну. Австрійська влада, відчайдушно прагнучи стабілізувати свою дедалі меншу владу на півночі Італії, звільнила де Боно разом зі своїми людьми служити в Білій армії Італії проти червоної хвилі. Наступна незручна домовленість між Федерацією та Республікою не вплинула на нову кар’єру де Боно — він ненадовго став генеральним директором громадської безпеки в уряді Бономі в перші дні, коли ситуація в Ломбардії та Венеції стабілізувалася. Незважаючи на суперечливий термін, який включав резонансні вбивства політичних дисидентів, він все ж став маршалом Італії.\n\nТепер, коли прийшов новий уряд, де Боно розглядається як літній фігурант іноземного правління. Незважаючи на те, що багато хто критикує його за жорстку політику, і його звинувачують у прихильності до Бальбо та його легіонерів, очікується, що новий військовий уряд продовжуватиме невпинно працювати."
  
  ITA_giovanni_gronchi: "Giovanni Gronchi"
  ITA_giovanni_gronchi_leader_desc: "У країні, де домінують римо-католики, можливо, не було несподіванкою, коли Джованні Гронкі та Італійська народна партія (PPI) взяли на себе керівництво молодою Італійською Республікою. Ця коаліція, де домінують християнські демократи, обіцяє керувати італійською нацією, використовуючи Християнські соціальні вчення — контрастують із антиклерикальними фракціями ліворуч, водночас просуваючи проблеми соціального забезпечення та праці, проти яких виступають правиці.\n\nЛюдина на чолі PPI — Джованні Гронкі, тосканський послідовник отця Ромоло Муррі, один із ранніх засновників християнської демократії в Італії. Спочатку вчитель середньої школи зі ступенем літератури Пізанського університету, коли спалахнув Велткріг, Гронкі воював як офіцер піхоти. \n\nКоли війна закінчилася, Джованні Гронкі повернувся як нагороджений солдатом до погіршення політичної ситуації вдома. Побоюючись антикатолицького насильства, він утік із Тоскани та поїхав до Мілана. Там отець Луїджі Стурцо почав орга. з благословення Риму та Відня вперше запровадити PPI. На відміну від інших християнсько-демократичних партій, що виникли в Італії після громадянської війни, PPI опинилася під республікою і довела, що їй зручно служити як в рамках нав’язаної Австрії федерації, так і в республіканській системі Бономі.\n\nДіяльність Гронкі як активіста та представника PPI мала був різноманітним. Крім того, що він був досить успішним бізнесменом, промисловцем і продавцем, він також був відомий тим, що допомагав організовувати католицькі профспілки, намагаючись підірвати вплив синдикалістів і отримати кращі поступки для робітників. Один із найбільш лівих членів PPI, його сходження до лідерства не було впевненим. Коли Луїджі Стурцо пішов у відставку з поста лідера PPI, Гронкі перебрав владу як частина тріумвірату з Джуліо Родіно та Джузеппе Спатаро. Разом вони сформували фронт проти зростаючого легіонерства в Італії, сподіваючись організувати проти них решту демократичних партій.\n\nВибрання Гронкі президентом Італії тепер підтверджує вплив PPI на італійську політику. Хоча деякі критикують його за дії, які сприймаються як примирливі щодо соціалістів і синдикалістів, його відданість парламентській демократії та його готовність брати участь у деяких економічних реформах робить його стабільним кандидатом, щоб керувати Італією в найближчому майбутньому".
  
  ITA_luigi_einaudi: "Luigi Einaudi"
- ITA_luigi_einaudi_leader_desc: "Іноді, незважаючи на весь хаос і всі швидкі зміни, що охоплюють націю, легше повернутися до того, як було раніше. Тріумф Ліберальної партії Італії є доказом цього факту, а також повторна поява домінуючою партією початку 1900-х років, здавалося б, що старий статус-кво повернувся. Але не все так само - Луїджі Ейнауді є новою людиною, яка обіцяє новий день в Італії. Під його пильним оком лібералізм процвітатиме в Італії та буде більше, ніж просто капіталістичним засобом політичного контролю. Це буде скоріше експансивна ідеологія, що відображатиме інтегрований підхід до моральних, економічних і соціальних міркувань.\n\nЕйнауді народився в 1874 році в невеликому містечку в П’ємонті в сім’ї незначного чиновника. залишився сиротою у віці 14 років. Він пішов до школи в Турині, вивчав економіку під керівництвом Сальваторе Коньєтті де Мартіса.Соціаліст в університеті та співробітник Critica Sociale, його час роботи в журналі закінчився переходом до ліберальна думка. Він провів значну частину свого життя в наукових колах, викладаючи фінанси в школах Туріна та Мілана.\n\n1919 рік змінив усе не лише для Італії, але й для молодого Ейнауді. Професор середнього віку опинився в університеті Бокконі в окупованому Мілані, коли соціалісти та націоналісти-революціонери почали захоплювати великі міста та селища по всій країні. Оскільки багато його студентів покинули навчання, щоб приєднатися до справи, Ейнауді надихнувся знайти власний рух. Франческо Саверіо Нітті познайомив його з національною політикою під час хаотичних перших днів Італійської Федерації, і незабаром став відвертим членом PLI. \n\nХоча Нітті залишився в сицилійському уряді після розпаду Федерації, Ейнауді залишився з керівництвом Федерації в Ломбардії та приєднався до республіканського уряду. Він допоміг реорганізувати лібералів, згуртувавши їх проти аристократичного впливу австрійців та їхніх федеративних союзників, а також націоналістичних легіонерів під проводом Бальбо. Натомість він вирішив запропонувати бачення Італії, яка б максимально поважала свободу людини та заохочувала індивіда шукати форму самореалізації подалі від домінування держави. Він також мріє про європейський федералізм, відмінний від фальшивої та експлуататорської «федерації», нав’язаної Габсбургами, де європейські народи працюють разом, щоб стримувати червону хвилю та сприяти індивідуальним громадянським свободам на всьому континенті."
+ ITA_luigi_einaudi_leader_desc: "Іноді, незважаючи на весь хаос і всі швидкі зміни, що охоплюють націю, легше повернутися до того, як було раніше. Тріумф Ліберальної партії Італії є доказом цього факту, а також повторна поява домінуючою партією початку 1900-х років, здавалося б, що старий статус-кво повернувся. Але не все так само - Луїджі Ейнауді є новою людиною, яка обіцяє новий день в Італії. Під його пильним оком лібералізм процвітатиме в Італії та буде більше, ніж просто капіталістичним засобом політичного контролю. Це буде скоріше експансивна ідеологія, що відображатиме інтегрований підхід до моральних, економічних і соціальних міркувань.\n\nЕйнауді народився в 1874 році в невеликому містечку в П’ємонті в сім’ї незначного чиновника. залишився сиротою у віці 14 років. Він пішов до школи в Турині, вивчав економіку під керівництвом Сальваторе Коньєтті де Мартіса.Соціаліст в університеті та співробітник Critica Sociale, його час роботи в журналі закінчився переходом до ліберальна думка. Він провів значну частину свого життя в наукових колах, викладаючи фінанси в школах Туріна та Мілана.\n\n1919 рік змінив усе не лише для Італії, але й для молодого Ейнауді. Професор середнього віку опинився в університеті Бокконі в окупованому Мілані, коли соціалісти та націоналісти-революціонери почали захоплювати великі міста та селища по всій країні. Оскільки багато його студентів покинули навчання, щоб приєднатися до справи, Ейнауді надихнувся знайти власний рух. Франческо Саверіо Нітті познайомив його з національною політикою під час хаотичних перших днів Італійської Федерації, і незабаром став відвертим членом PLI. \n\nХоча Нітті залишився в сицилійському уряді після розпаду Федерації, Ейнауді залишився з керівництвом Федерації в Ломбардії та приєднався до республіканського уряду. Він допоміг реорганізувати лібералів, згуртувавши їх проти аристократичного впливу австрійців та їхніх федеративних союзників, а також націоналістичних легіонерів під проводом Бальбо. Натомість він вирішив запропонувати бачення Італії, яка б максимально поважала свободу людини та заохочувала індивіда шукати форму самореалізації подалі від домінування держави. Він також мріє про європейський федералізм, відмінний від фальшивої та експлуататорської "федерації», нав’язаної Габсбургами, де європейські народи працюють разом, щоб стримувати червону хвилю та сприяти індивідуальним громадянським свободам на всьому континенті."
  
  ITA_marcello_soleri: "Marcello Soleri"
- ITA_marcello_soleri_leader_desc: «Навіть коли часи змінюються, а політики приходять і йдуть, багатьох може заспокоїти те, що біля керма стоїть знайоме обличчя. Марчелло Солері — одне з таких облич, тривалий час політичний діяч Ліберальної партії Італії ще до Weltkrieg. Перед хаосом, який охопив Італію. Його бачення Італії знаменує собою повернення до старого, ліберального домінованого порядку - кинувши виклик католикам праворуч і соціалістам ліворуч.\n\nСорелі народився в Кунео, маленькому містечку поблизу Турин. Його батьки брали активну участь у місцевій політиці та виховували у своїх синах сильне почуття обов’язку. Після навчання в Туринському університеті та отримання диплома з права, фінансованого значними сумами друзями сім’ї, такими як Джованні Джолітті, Солері став за сумісництвом журналіст і юрист.\n\nЙого рання кар'єра була відзначена лівим поворотом, захопленням соціалістами та приєднанням до масонської ложі. Проте він залишався пов'язаним з Джолітті - грандом Ліберальної партії - і допомагав йому кампанія згуртування поміркованої християнської опозиції соціалізму. Солері став мером Кунео у віці 30 років у 1912 році як лідер ліберально-демократичної коаліції. Він розпочав агресивну схему розвитку інфраструктури для створення робочих місць, але перейшов до національної політики протягом року або близько того.\n\nЯк член палати депутатів, Солері часто розривав з Ліберальною партією, особливо коли справа доходила до втручання в Weltkrieg. Спочатку «нейтраліст», він приєднався до піхотного корпусу Альпіні в чині другого лейтенанта. Наприкінці війни він був поранений, що вивело його з бойових дій, коли італійський фронт завалився навколо нього.\n\nОскільки Іваное Бономі працював над створенням стабільного уряду під час громадянської війни, Солері запросили стати міністром фінансів . Він працював над тим, щоб знизити високі податки, накладені на людей під час Світової війни та громадянської війни, які, на його думку, душили італійський бізнес. Підозрюючи австрійський вплив, аристократичних федератів, соціалістів і легіонерів, що піднімаються, Солері працював над мінімізацією цих впливів, уникаючи будь-яких прямих викликів, які могли б дестабілізувати державу.\n\nНещодавно підйом лібералів підштовхнув Солері до лідерства в Італії. Республіка. Тепер, як досвідчений політик, він повинен забезпечити, щоб республіка та її провідна партія залишалися на висоті майбутніх викликів."
+ ITA_marcello_soleri_leader_desc: "Навіть коли часи змінюються, а політики приходять і йдуть, багатьох може заспокоїти те, що біля керма стоїть знайоме обличчя. Марчелло Солері — одне з таких облич, тривалий час політичний діяч Ліберальної партії Італії ще до Weltkrieg. Перед хаосом, який охопив Італію. Його бачення Італії знаменує собою повернення до старого, ліберального домінованого порядку - кинувши виклик католикам праворуч і соціалістам ліворуч.\n\nСорелі народився в Кунео, маленькому містечку поблизу Турин. Його батьки брали активну участь у місцевій політиці та виховували у своїх синах сильне почуття обов’язку. Після навчання в Туринському університеті та отримання диплома з права, фінансованого значними сумами друзями сім’ї, такими як Джованні Джолітті, Солері став за сумісництвом журналіст і юрист.\n\nЙого рання кар'єра була відзначена лівим поворотом, захопленням соціалістами та приєднанням до масонської ложі. Проте він залишався пов'язаним з Джолітті - грандом Ліберальної партії - і допомагав йому кампанія згуртування поміркованої християнської опозиції соціалізму. Солері став мером Кунео у віці 30 років у 1912 році як лідер ліберально-демократичної коаліції. Він розпочав агресивну схему розвитку інфраструктури для створення робочих місць, але перейшов до національної політики протягом року або близько того.\n\nЯк член палати депутатів, Солері часто розривав з Ліберальною партією, особливо коли справа доходила до втручання в Weltkrieg. Спочатку "нейтраліст», він приєднався до піхотного корпусу Альпіні в чині другого лейтенанта. Наприкінці війни він був поранений, що вивело його з бойових дій, коли італійський фронт завалився навколо нього.\n\nОскільки Іваное Бономі працював над створенням стабільного уряду під час громадянської війни, Солері запросили стати міністром фінансів . Він працював над тим, щоб знизити високі податки, накладені на людей під час Світової війни та громадянської війни, які, на його думку, душили італійський бізнес. Підозрюючи австрійський вплив, аристократичних федератів, соціалістів і легіонерів, що піднімаються, Солері працював над мінімізацією цих впливів, уникаючи будь-яких прямих викликів, які могли б дестабілізувати державу.\n\nНещодавно підйом лібералів підштовхнув Солері до лідерства в Італії. Республіка. Тепер, як досвідчений політик, він повинен забезпечити, щоб республіка та її провідна партія залишалися на висоті майбутніх викликів."
 
  ITA_ivanoe_bonomi: "Ivanoe Bonomi"
  ITA_ivanoe_bonomi_leader_desc: "Зрадник. Розпродак. Маріонетка. Невдача. Іваное Бономі все це чув, але він усе ще щодня старанно бореться за Італію та Республіку. Бути прем’єр-міністром нелегка робота для більшості країн, і, звичайно, не в Коли сицилійці та сардінці вийшли з Італійської Федерації в 1930 році, тодішній прем’єр-міністр Федерації Бономі розпустив Федерацію, сміливий крок, який заснував нову республіку та відсунув монархів, які виросли за кордоном, номінально правлячи Італією. обраний прем'єр-міністром нової Італійської республіки, і його готовність співпрацювати з Австрією, яку дуже критикували, хоча й економічно вигідна, продовжує привертати увагу внутрішніх органів. nОднак було б нерозумно списувати Бономі як просто чергового австрійського колабораціоніста чи політичного костюма. ublic насправді походив як депутат-соціаліст від Мантуї. Народившись у 1873 році, через покоління після першого Рісорджіменто, він виріс ученим і журналістом, коли Італія переходила від стану війни до нового Королівства. Його помірковані погляди та підтримка війни Джолотті в Лівії призвели до того, що його виключили з PSI у 1912 році та вирішив стати співзасновником Італійської соціалістичної реформістської партії (PSRI).\n\nКоли почався Велткріг, він пішов добровольцем на фронт. Однак після короткого перебування він швидко обійняв ряд високопоставлених посад у кабінеті міністрів, зокрема, у відділі громадських робіт, війни та казначейства. Разом з багатьма іншими італійськими політиками, які втекли у вигнання або пішли з політики в 1919 році після принизливого перемир’я, Іваное Бономі був одним із небагатьох, хто наважився залишитися в уряді, коли австрійці почали складати свої умови миру. Погіршення політичної ситуації призвело до того, що Італія впала в громадянську війну та австрійську окупацію північної Італії. \n\nЗрозумівши, що все вийшло з-під контролю, і у відчайдушних спробах залучити певну ліберальну підтримку австрійці дозволили Бономі сформувати компромісний тимчасовий демократичний уряд у Мілані, паралельно їхньому проекту аристократичної федерації. Бономі, зі свого боку, відмовився від своїх відверто соціалістичних поглядів на користь приєднання до новоствореної ліберальної демократії.\n\nПоки що обійшовши австрійців з флангу, Бономі має йти у підступних водах попереду, якщо його Республіка хоче вижити."
@@ -1119,7 +1119,7 @@
  ITA_ferruccio_parri_leader_desc: "Коли одна зірка згасає, на її місці з’являється інша. Після десятиліть керівництва під керівництвом Іваное Бономі ліберал-демократи з’явилися оновленими під керівництвом Ферруччо Паррі. За підтримки ширшої коаліції Паррі сподівається на нову еру єдності в Бурхлива Італія.\n\nСпочатку шкільний вчитель у Мілані та редактор Corriere della Sera, Weltkrieg назавжди змінив життя Паррі. Приєднавшись у якості офіцера, він був нагороджений за хоробрість і був тричі поранений протягом війни. Під час війни В останні дні війни він був офіцером італійського генерального штабу і був приголомшений тим, що італійська армія зазнавала поразки за поразкою в результаті об’єднаного австро-німецького наступу.\n\nПаррі був частиною італійських військових, які залишилися на свободі. австрійцями, щоб допомогти стабілізувати ситуацію на внутрішньому фронті Італії, оскільки італійські революціонери скинули монархію та намагалися витіснити австрійців з півострова. Він боявся наростаючої хвилі соціалізму і використав свій вплив у Мілані, щоб організувати партизанські групи для протидії проникненню червоних. Він став помірно відомим на місцевому рівні, будучи непохитним республіканським редактором Corriere della Sera, пропагуючи ліберально-демократичну альтернативу синдикалізму.\n\nСпочатку прохолодно ставлячись до Італійської федерації, нав’язаної австрійцями, він став палким прихильником Італійської республіки Бономі, коли вона було проголошено в 1930 році. На той момент він був менеджером найбільшої міланської електричної компанії та приєднався до новоствореної Ліберал-демократичної партії Бономі.\n\nТепер Паррі повинен взяти факел партії та захистити демократичний , помірковані ідеали Республіки."
  
  ITA_carlo_rosselli: "Carlo Rosselli"
- ITA_carlo_rosselli_leader_desc: "Не кожен соціаліст почувався комфортно в SRI. Карло Росселлі є «ліберальним соціалістом», який себе називає «ліберальним соціалістом», який відійшов від початкової соціалістичної революції в 1920-х роках, щоб приєднатися до Республіки. Незважаючи на відсутність маси прихильників, швидкі зміни наказ після Чорного понеділка привів Росселлі до влади.\n\nНародився в Римі в заможній тосканській родині, він перебував під впливом своєї матері, видатної італійської республіканки.Він навчався у Відні, а потім у Флоренції, борючись за своє Ще будучи студентом на початку світової війни, Карло приєднався до своїх братів у підтримці інтервенції. Він працював над публікацією пропагандистських матеріалів із програмою Il nostro, включаючи маніфест, що пропагував ідеали Мадзіні та гуманітарну любов. Росселлі пішов на війну офіцером з Альпіні в 1918 році і був змушений воювати під час відступу від австро-німецьких наступів.\n\nКоли ситуація в Італії переросла в громадянську війну, Росселлі закохався в Синді калізм і навіть приєднався до нової Італійської соціалістичної партії. Він навчався в університеті Сієни і став редактором Critica Sociale. Він також знайшов час, щоб відвідати та попрацювати у Франції. Однак, коли громадянська війна в Італії припинилася, а політична параноя зросла, підозра впала на вищий клас Росселлі. Справді, сам Росселлі почав дистанціюватися від марксизму, нахабно опублікувавши Socialisme Liberal у 1930 році — критику марксизму, авторитаризму в соціалізмі та заклик до синтезу демократичного соціалізму та італійського лібералізму.\n\nЦе зробило його дуже непопулярним в Італії. колах, і він зрозумів, що він персона нон грата, коли бойовики напали на його будинок. Росселлі втік із Франції до новоствореної Італійської Республіки. Там він зібрав прихильників своїми ідеями. Багато хто в Республіці вважає його занадто ідеалістичним для такого жорстокого періоду, а його колишні товариші в Соціалістичній Республіці вважають його зрадником. Але Карло Росселлі сповнений рішучості втілити в життя своє бачення лібертаріанської соціалістичної Італії."
+ ITA_carlo_rosselli_leader_desc: "Не кожен соціаліст почувався комфортно в SRI. Карло Росселлі є "ліберальним соціалістом», який себе називає "ліберальним соціалістом», який відійшов від початкової соціалістичної революції в 1920-х роках, щоб приєднатися до Республіки. Незважаючи на відсутність маси прихильників, швидкі зміни наказ після Чорного понеділка привів Росселлі до влади.\n\nНародився в Римі в заможній тосканській родині, він перебував під впливом своєї матері, видатної італійської республіканки.Він навчався у Відні, а потім у Флоренції, борючись за своє Ще будучи студентом на початку світової війни, Карло приєднався до своїх братів у підтримці інтервенції. Він працював над публікацією пропагандистських матеріалів із програмою Il nostro, включаючи маніфест, що пропагував ідеали Мадзіні та гуманітарну любов. Росселлі пішов на війну офіцером з Альпіні в 1918 році і був змушений воювати під час відступу від австро-німецьких наступів.\n\nКоли ситуація в Італії переросла в громадянську війну, Росселлі закохався в Синді калізм і навіть приєднався до нової Італійської соціалістичної партії. Він навчався в університеті Сієни і став редактором Critica Sociale. Він також знайшов час, щоб відвідати та попрацювати у Франції. Однак, коли громадянська війна в Італії припинилася, а політична параноя зросла, підозра впала на вищий клас Росселлі. Справді, сам Росселлі почав дистанціюватися від марксизму, нахабно опублікувавши Socialisme Liberal у 1930 році — критику марксизму, авторитаризму в соціалізмі та заклик до синтезу демократичного соціалізму та італійського лібералізму.\n\nЦе зробило його дуже непопулярним в Італії. колах, і він зрозумів, що він персона нон грата, коли бойовики напали на його будинок. Росселлі втік із Франції до новоствореної Італійської Республіки. Там він зібрав прихильників своїми ідеями. Багато хто в Республіці вважає його занадто ідеалістичним для такого жорстокого періоду, а його колишні товариші в Соціалістичній Республіці вважають його зрадником. Але Карло Росселлі сповнений рішучості втілити в життя своє бачення лібертаріанської соціалістичної Італії."
  
  ITA_rodolfo_graziani: "Rodolfo Graziani"
  ITA_ettore_bastico: "Ettore Bastico"
